@@ -111,6 +111,11 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ Master MNIST Image Classification with Ludwig ](/Akhil-Personal-Blog/posts/mnist_image_classification_ludwig)
   Unlock the potential of Ludwig for image classification with our in-depth guide. Learn how to efficiently train and test your model on the MNIST dataset using Ludwig’s powerful features.
 
+### [ Step-by-Step Guide to Setting Up and Using LlamaIndex for Perplexity Analysis ](/Akhil-Personal-Blog/posts/llamaIndex_for_perplexity)
+  Learn how to use LlamaIndex with our comprehensive guide that covers installation, configuration, and creating a Gradio app for real-time Perplexity analysis.
+
+### [  How to Fine-tune Mixtral 8x7B (MoE) on Custom Data: A Step-by-Step Technical Guide ](/Akhil-Personal-Blog/posts/fine_tune_mixtral_8x7b_custom_data)
+  Master the art of fine-tuning the advanced Mixtral 8x7B model on custom data with a detailed, step-by-step explanation of every line of code.
 
 
 ## Dive Deeper
