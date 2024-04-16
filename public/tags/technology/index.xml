@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Norlin</title>
-    <link>/tags/technology/</link>
+    <link>//localhost:1313///Akhil-Personal-Blog/tags/technology/</link>
     <description>Recent content in Technology on Norlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2023 15:01:35 +0300</lastBuildDate>
-    <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313///Akhil-Personal-Blog/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strive not to be a success, but rather to be of value</title>
-      <link>/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</link>
       <pubDate>Mon, 24 Apr 2023 15:01:35 +0300</pubDate>
-      <guid>/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</guid>
       <description>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias. Si longus, levis ampulla enim sit necne vel omnia vel partes genere plurima et maxima.</description>
     </item>
   </channel>

@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Norlin</title>
-    <link>/tags/</link>
+    <link>//localhost:1313///Akhil-Personal-Blog/tags/</link>
     <description>Recent content in Tags on Norlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2023 15:01:35 +0300</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313///Akhil-Personal-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>/tags/business/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/business/</link>
       <pubDate>Mon, 13 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/business/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>/tags/work/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/work/</link>
       <pubDate>Mon, 13 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/work/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>/tags/life/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/life/</link>
       <pubDate>Sun, 12 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/life/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>/tags/nature/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/nature/</link>
       <pubDate>Sun, 12 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/nature/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Story</title>
-      <link>/tags/story/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/story/</link>
       <pubDate>Sun, 12 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/story/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/story/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>/tags/notes/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/notes/</link>
       <pubDate>Sat, 11 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/notes/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Rest</title>
-      <link>/tags/rest/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/rest/</link>
       <pubDate>Sat, 11 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/rest/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/rest/</guid>
       <description></description>
     </item>
     <item>
       <title>Travels</title>
-      <link>/tags/travels/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/travels/</link>
       <pubDate>Fri, 10 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/travels/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/travels/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>/tags/lifestyle/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/lifestyle/</link>
       <pubDate>Thu, 09 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/lifestyle/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Fashion</title>
-      <link>/tags/fashion/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/fashion/</link>
       <pubDate>Wed, 08 Nov 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/fashion/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/fashion/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>//localhost:1313///Akhil-Personal-Blog/tags/technology/</link>
       <pubDate>Mon, 24 Apr 2023 15:01:35 +0300</pubDate>
-      <guid>/tags/technology/</guid>
+      <guid>//localhost:1313///Akhil-Personal-Blog/tags/technology/</guid>
       <description></description>
     </item>
   </channel>

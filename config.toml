@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "/"
+baseURL = "/Akhil-Personal-Blog"
 languageCode = "en-us"
 title = "Norlin"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
