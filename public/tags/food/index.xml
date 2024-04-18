@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on Danto</title>
-    <link>http://example.org/tags/food/</link>
+    <link>http://localhost:1313/tags/food/</link>
     <description>Recent content in Food on Danto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jan 2023 15:01:35 +0300</lastBuildDate>
-    <atom:link href="http://example.org/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>French Toast Waffles with Apple Cherry Topping</title>
-      <link>http://example.org/posts/french-toast-waffles-with-apple-cherry-topping/</link>
+      <link>http://localhost:1313/posts/french-toast-waffles-with-apple-cherry-topping/</link>
       <pubDate>Thu, 05 Jan 2023 15:01:35 +0300</pubDate>
-      <guid>http://example.org/posts/french-toast-waffles-with-apple-cherry-topping/</guid>
+      <guid>http://localhost:1313/posts/french-toast-waffles-with-apple-cherry-topping/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
     <item>
       <title>The Best Salads for Weight Loss With Quick Instructions</title>
-      <link>http://example.org/posts/the-best-salads-for-weight-loss-with-quick-instructions/</link>
+      <link>http://localhost:1313/posts/the-best-salads-for-weight-loss-with-quick-instructions/</link>
       <pubDate>Wed, 04 Jan 2023 15:01:35 +0300</pubDate>
-      <guid>http://example.org/posts/the-best-salads-for-weight-loss-with-quick-instructions/</guid>
+      <guid>http://localhost:1313/posts/the-best-salads-for-weight-loss-with-quick-instructions/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
     <item>
       <title>Chef Secrets for Cooking Perfect Fish Every Time</title>
-      <link>http://example.org/posts/chef-secrets-for-cooking-perfect-fish-every-time/</link>
+      <link>http://localhost:1313/posts/chef-secrets-for-cooking-perfect-fish-every-time/</link>
       <pubDate>Mon, 02 Jan 2023 15:01:35 +0300</pubDate>
-      <guid>http://example.org/posts/chef-secrets-for-cooking-perfect-fish-every-time/</guid>
+      <guid>http://localhost:1313/posts/chef-secrets-for-cooking-perfect-fish-every-time/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
     <item>
       <title>Dinner Party Dessert Recipes To Impress Your Guests</title>
-      <link>http://example.org/posts/dinner-party-dessert-recipes-to-impress-your-guests/</link>
+      <link>http://localhost:1313/posts/dinner-party-dessert-recipes-to-impress-your-guests/</link>
       <pubDate>Sat, 25 Jun 2022 15:01:35 +0300</pubDate>
-      <guid>http://example.org/posts/dinner-party-dessert-recipes-to-impress-your-guests/</guid>
+      <guid>http://localhost:1313/posts/dinner-party-dessert-recipes-to-impress-your-guests/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
     <item>
       <title>Seared Salmon and Vegetable Salad With Sweet Soy</title>
-      <link>http://example.org/posts/seared-salmon-and-vegetable-salad-with-sweet-soy/</link>
+      <link>http://localhost:1313/posts/seared-salmon-and-vegetable-salad-with-sweet-soy/</link>
       <pubDate>Fri, 24 Jun 2022 15:01:35 +0300</pubDate>
-      <guid>http://example.org/posts/seared-salmon-and-vegetable-salad-with-sweet-soy/</guid>
+      <guid>http://localhost:1313/posts/seared-salmon-and-vegetable-salad-with-sweet-soy/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
   </channel>

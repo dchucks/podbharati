@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Danto</title>
-    <link>http://example.org/tags/news/</link>
+    <link>http://localhost:1313/tags/news/</link>
     <description>Recent content in News on Danto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Dec 2022 15:01:35 +0300</lastBuildDate>
-    <atom:link href="http://example.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Correct Way To Learn Rust</title>
-      <link>http://example.org/posts/how-to-accurately-measure-your-success-as-a-person/</link>
+      <link>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</link>
       <pubDate>Sun, 18 Dec 2022 15:01:35 +0300</pubDate>
-      <guid>http://example.org/posts/how-to-accurately-measure-your-success-as-a-person/</guid>
+      <guid>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
   </channel>
