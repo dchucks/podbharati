@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 02 Feb 2024 18:31:22 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</title>
-      <link>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</guid>
-      <description>The allure of predicting Bitcoin prices lies in the volatile nature of the cryptocurrency market. With the right analytical tools and algorithms, we can glean insights into future trends, helping investors make informed decisions. This blog post dissects a Python project that employs a Support Vector Machine (SVM) to forecast Bitcoin prices, offering a granular look at the programming and statistical concepts underpinning this predictive model.&#xA;Connecting and Accessing Data First and foremost, accessing the historical Bitcoin price data is crucial:</description>
-    </item>
-    <item>
       <title>Building a Healthcare BOT with Mixtral and Haystack on PubMed Data</title>
       <link>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</link>
       <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
@@ -371,6 +364,13 @@
       <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
       <guid>http://localhost:1313/posts/14-reasons-why-reading-is-good-for-your-health/</guid>
       <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
+    </item>
+    <item>
+      <title>Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</title>
+      <link>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</link>
+      <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
+      <guid>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</guid>
+      <description>The allure of predicting Bitcoin prices lies in the volatile nature of the cryptocurrency market. With the right analytical tools and algorithms, we can glean insights into future trends, helping investors make informed decisions. This blog post dissects a Python project that employs a Support Vector Machine (SVM) to forecast Bitcoin prices, offering a granular look at the programming and statistical concepts underpinning this predictive model.&#xA;Connecting and Accessing Data First and foremost, accessing the historical Bitcoin price data is crucial:</description>
     </item>
     <item>
       <title>How to Build an AI NSFW Content Checker with Python</title>
