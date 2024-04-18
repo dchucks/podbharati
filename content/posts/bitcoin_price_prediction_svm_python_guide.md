@@ -3,6 +3,8 @@ title: Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in 
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis convallis tristique.
 date: 2022-10-08 18:05:55 +0300
 tags: [Blockchain]
+image: 'https://via.placeholder.com/1920x1080'
+authors: [kaiya]
 ---
 
 The allure of predicting Bitcoin prices lies in the volatile nature of the cryptocurrency market. With the right analytical tools and algorithms, we can glean insights into future trends, helping investors make informed decisions. This blog post dissects a Python project that employs a Support Vector Machine (SVM) to forecast Bitcoin prices, offering a granular look at the programming and statistical concepts underpinning this predictive model.
