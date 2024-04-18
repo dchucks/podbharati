@@ -107,7 +107,7 @@ paginate = 12
     tag = "Golang"
 
   [[params.tag]]
-    tag = "Arch"
+    tag = "lifestyle"
 
   # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
