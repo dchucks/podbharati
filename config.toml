@@ -76,7 +76,7 @@ paginate = 12
   logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
   logo_dark = "/images/logo.png"
   description = "Danto is a news and magazine Hugo theme"
-  color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+  color_scheme = "dark" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
   #-------------------------------
@@ -95,19 +95,19 @@ paginate = 12
     number_columns = 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
 
   [[params.tag]]
-    tag = "lifestyle"
+    tag = "AI"
 
   [[params.tag]]
-    tag = "shopping"
+    tag = "Blockchain"
 
   [[params.tag]]
-    tag = "business"
+    tag = "Rust"
 
   [[params.tag]]
-    tag = "food"
+    tag = "Golang"
 
   [[params.tag]]
-    tag = "sport"
+    tag = "Arch"
 
   # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
