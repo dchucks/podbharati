@@ -1,9 +1,11 @@
-+++
-title = 'Building an AI Chatbot with CodeLlama and Streamlit in Google Colab'
-date = 2024-02-02T18:29:40+05:30
-draft = false
-+++
-
+---
+title: Building an AI Chatbot with CodeLlama and Streamlit in Google Colab
+description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis convallis tristique.
+date: 2024-02-18 15:01:35 +0300
+authors: [admin]
+image: 'https://via.placeholder.com/1920x1080'
+featured: true
+---
 
 In this comprehensive guide, we'll explore how to build an AI chatbot using the CodeLlama model and Streamlit framework, hosted in Google Colab with an A100 GPU. This setup ensures you have the computational power needed for real-time, responsive AI interactions.
 

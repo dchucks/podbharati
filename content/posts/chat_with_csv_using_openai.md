@@ -1,9 +1,10 @@
-+++
-title = 'Chat with CSV using OpenAI'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
-
+---
+title: Chat with CSV using OpenAI
+date: 2024-02-18 15:01:35 +0300
+authors: [admin]
+image: 'https://via.placeholder.com/1920x1080'
+featured: true
+---
 
 Welcome, tech enthusiasts and data wizards! Ever thought about making your spreadsheets talk? Let's embark on a fascinating journey to build "Chat with CSV OpenAI," a project where your data will not just sit silently in CSV files but will chat with you, thanks to the power of OpenAI's AI models. Get ready to turn your data interactive and learn something exciting along the way!
 

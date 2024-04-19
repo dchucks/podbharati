@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Danto</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>http://example.org/tags/ai/</link>
     <description>Recent content in AI on Danto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Oct 2022 18:05:55 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Build an AI NSFW Content Checker with Python</title>
-      <link>http://localhost:1313/posts/ai_nsfw_content_checker_python/</link>
+      <link>http://example.org/posts/ai_nsfw_content_checker_python/</link>
       <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
-      <guid>http://localhost:1313/posts/ai_nsfw_content_checker_python/</guid>
+      <guid>http://example.org/posts/ai_nsfw_content_checker_python/</guid>
       <description>In today’s digital age, monitoring and filtering Not Safe For Work (NSFW) content is crucial for maintaining professional and age-appropriate environments. Whether you’re a developer looking to integrate content moderation into your app, or just curious about how AI can assist in distinguishing safe from unsafe content, building an AI NSFW content checker can be a fascinating project. This blog post will guide you through creating an AI NSFW content checker using Python, Streamlit, and OpenNSFW2.</description>
     </item>
   </channel>

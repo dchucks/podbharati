@@ -1,9 +1,10 @@
-+++
-title = 'How to Build an Automated Web Scraping Tool with Python'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
-
+---
+title: How to Build an Automated Web Scraping Tool with Python
+date: 2024-02-02 15:01:35 +0300
+authors: [admin]
+image: 'https://via.placeholder.com/1920x1080'
+featured: true
+---
 
 Are you interested in automating the process of gathering data from websites? Web scraping is a powerful tool for collecting information from the internet, and with the help of Python, you can easily automate this process. In this blog, we'll walk through the creation of an Automated Web Scraping tool that not only fetches website content but also uses AI to summarize it. We'll break down each line of code, explain its purpose, and show you how to use this project on your own.
 

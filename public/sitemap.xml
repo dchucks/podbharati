@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/authors/admin/</loc>
+    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/</loc>
+    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/chat_with_csv_using_openai/</loc>
+    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/chatbots_with_rag_building_guide/</loc>
@@ -24,9 +39,6 @@
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/rag_langchain_tutorial/</loc>
@@ -50,16 +62,10 @@
     <loc>http://localhost:1313/posts/guanaco_chatbot_demo_llama_7b_model/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/automated_web_scraping_python_guide/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/step_by_step_peft_fine_tune_bloom_560m_tagger_guide/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/langchain_autogpt_youtube_creator/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ludwig_fine_tuning_llama2_7b/</loc>
@@ -104,158 +110,17 @@
     <loc>http://localhost:1313/posts/chat_with_pdf_mistral_7b/</loc>
     <lastmod>2024-02-02T18:30:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/</loc>
-    <lastmod>2024-02-02T18:29:40+05:30</lastmod>
+    <loc>http://localhost:1313/posts/automated_web_scraping_python_guide/</loc>
+    <lastmod>2024-02-02T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/livia/</loc>
-    <lastmod>2023-01-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2023-01-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/study/</loc>
-    <lastmod>2023-01-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-01-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/whats-the-best-way-to-discipline-my-child/</loc>
-    <lastmod>2023-01-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/admin/</loc>
-    <lastmod>2023-01-16T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/business/</loc>
-    <lastmod>2023-01-16T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-to-start-investing-money-for-the-first-time/</loc>
-    <lastmod>2023-01-16T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/11-different-types-of-watches-and-watch-styles-for-men/</loc>
-    <lastmod>2023-01-14T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lifestyle/</loc>
-    <lastmod>2023-01-14T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/justin/</loc>
-    <lastmod>2023-01-12T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/everything-you-need-to-know-about-cryptocurrency/</loc>
-    <lastmod>2023-01-12T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-politics-of-womens-fashion-in-the-cultural-west/</loc>
-    <lastmod>2023-01-11T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/kaiya/</loc>
-    <lastmod>2023-01-10T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/easy-morning-habits-to-start-your-morning-off-brilliantly/</loc>
-    <lastmod>2023-01-10T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/shopping/</loc>
-    <lastmod>2023-01-09T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-top-coffee-shops-and-espresso-bars-in-philadelphia/</loc>
-    <lastmod>2023-01-09T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-importance-of-teamwork-skills-in-work-and-school/</loc>
-    <lastmod>2023-01-08T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-only-travel-packing-checklist-youll-ever-need/</loc>
-    <lastmod>2023-01-07T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/7-remarkably-powerful-keys-to-happiness-and-success/</loc>
-    <lastmod>2023-01-06T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2023-01-05T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/french-toast-waffles-with-apple-cherry-topping/</loc>
-    <lastmod>2023-01-05T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-best-salads-for-weight-loss-with-quick-instructions/</loc>
-    <lastmod>2023-01-04T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/chef-secrets-for-cooking-perfect-fish-every-time/</loc>
-    <lastmod>2023-01-02T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/tips-for-taking-your-girlfriend-on-a-shopping-outing/</loc>
-    <lastmod>2022-12-27T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/5-beach-read-novels-you-want-to-pick-up-this-summer/</loc>
-    <lastmod>2022-12-24T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/10-key-questions-to-ask-when-buying-a-new-car/</loc>
-    <lastmod>2022-12-21T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/people/</loc>
-    <lastmod>2022-12-21T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/posts/ai_nsfw_content_checker_python/</loc>
+    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</loc>
     <lastmod>2022-12-18T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
-    <lastmod>2022-12-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/14-reasons-why-reading-is-good-for-your-health/</loc>
-    <lastmod>2022-10-08T18:05:55+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2022-10-08T18:05:55+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</loc>
     <lastmod>2022-10-08T18:05:55+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/blockchain/</loc>
-    <lastmod>2022-10-08T18:05:55+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ai_nsfw_content_checker_python/</loc>
-    <lastmod>2022-10-08T18:05:55+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reading/</loc>
-    <lastmod>2022-10-08T18:05:55+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-much-water-should-you-drink-per-day/</loc>
-    <lastmod>2022-10-07T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/science/</loc>
-    <lastmod>2022-10-07T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-changing-your-thinking-can-change-your-life-/</loc>
-    <lastmod>2022-10-05T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/best-investments-for-short-term-and-long-term-goals/</loc>
-    <lastmod>2022-08-14T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-to-start-a-business-from-scratch-in-7-steps/</loc>
-    <lastmod>2022-08-12T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/everyday-spending-hacks-to-help-you-save-money/</loc>
-    <lastmod>2022-08-01T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/dinner-party-dessert-recipes-to-impress-your-guests/</loc>
-    <lastmod>2022-06-25T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/seared-salmon-and-vegetable-salad-with-sweet-soy/</loc>
-    <lastmod>2022-06-24T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-to-hit-the-perfect-tennis-forehand-in-5-simple-steps/</loc>
-    <lastmod>2022-06-20T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sport/</loc>
-    <lastmod>2022-06-20T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/health-and-fitness-tips-every-woman-should-follow/</loc>
-    <lastmod>2022-05-27T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/effect-of-aerobic-exercises-on-students-physical-health-indicators/</loc>
-    <lastmod>2022-05-15T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/top-reasons-wild-swimming-could-be-good-for-you/</loc>
-    <lastmod>2022-05-10T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-best-pilates-workout-videos-you-can-find-on-youtube/</loc>
-    <lastmod>2022-05-07T15:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
@@ -264,6 +129,8 @@
     <loc>http://localhost:1313/elements/</loc>
   </url><url>
     <loc>http://localhost:1313/featured/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/videos/</loc>
   </url>

@@ -1,5 +1,5 @@
 ---
-name: Bruno Mason
+name: Akhil Sharma
 image: 'https://via.placeholder.com/400x400'
 location:
 website:

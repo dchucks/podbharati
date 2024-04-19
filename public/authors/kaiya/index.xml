@@ -1,75 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Danto</title>
+    <title>Kaiya on Danto</title>
     <link>http://localhost:1313/authors/kaiya/</link>
-    <description>Recent content on Danto</description>
+    <description>Recent content in Kaiya on Danto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 15:01:35 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 08 Oct 2022 18:05:55 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/kaiya/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Easy Morning Habits To Start Your Morning Off Brilliantly</title>
-      <link>http://localhost:1313/posts/easy-morning-habits-to-start-your-morning-off-brilliantly/</link>
-      <pubDate>Tue, 10 Jan 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/easy-morning-habits-to-start-your-morning-off-brilliantly/</guid>
-      <description>estibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
-    </item>
-    <item>
-      <title>French Toast Waffles with Apple Cherry Topping</title>
-      <link>http://localhost:1313/posts/french-toast-waffles-with-apple-cherry-topping/</link>
-      <pubDate>Thu, 05 Jan 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/french-toast-waffles-with-apple-cherry-topping/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
-    </item>
-    <item>
-      <title>The Best Salads for Weight Loss With Quick Instructions</title>
-      <link>http://localhost:1313/posts/the-best-salads-for-weight-loss-with-quick-instructions/</link>
-      <pubDate>Wed, 04 Jan 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/the-best-salads-for-weight-loss-with-quick-instructions/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
-    </item>
-    <item>
-      <title>10 Key Questions to Ask When Buying a New Car</title>
-      <link>http://localhost:1313/posts/10-key-questions-to-ask-when-buying-a-new-car/</link>
-      <pubDate>Wed, 21 Dec 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/10-key-questions-to-ask-when-buying-a-new-car/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
-    </item>
-    <item>
-      <title>14 Reasons Why Reading Is Good for Your Health</title>
-      <link>http://localhost:1313/posts/14-reasons-why-reading-is-good-for-your-health/</link>
-      <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
-      <guid>http://localhost:1313/posts/14-reasons-why-reading-is-good-for-your-health/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
-    </item>
     <item>
       <title>Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</title>
       <link>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</link>
       <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
       <guid>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</guid>
       <description>The allure of predicting Bitcoin prices lies in the volatile nature of the cryptocurrency market. With the right analytical tools and algorithms, we can glean insights into future trends, helping investors make informed decisions. This blog post dissects a Python project that employs a Support Vector Machine (SVM) to forecast Bitcoin prices, offering a granular look at the programming and statistical concepts underpinning this predictive model.&#xA;Connecting and Accessing Data First and foremost, accessing the historical Bitcoin price data is crucial:</description>
-    </item>
-    <item>
-      <title>How to Build an AI NSFW Content Checker with Python</title>
-      <link>http://localhost:1313/posts/ai_nsfw_content_checker_python/</link>
-      <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
-      <guid>http://localhost:1313/posts/ai_nsfw_content_checker_python/</guid>
-      <description>In today’s digital age, monitoring and filtering Not Safe For Work (NSFW) content is crucial for maintaining professional and age-appropriate environments. Whether you’re a developer looking to integrate content moderation into your app, or just curious about how AI can assist in distinguishing safe from unsafe content, building an AI NSFW content checker can be a fascinating project. This blog post will guide you through creating an AI NSFW content checker using Python, Streamlit, and OpenNSFW2.</description>
-    </item>
-    <item>
-      <title>Dinner Party Dessert Recipes To Impress Your Guests</title>
-      <link>http://localhost:1313/posts/dinner-party-dessert-recipes-to-impress-your-guests/</link>
-      <pubDate>Sat, 25 Jun 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/dinner-party-dessert-recipes-to-impress-your-guests/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
-    </item>
-    <item>
-      <title>Effect of Aerobic Exercises on Student&#39;s Physical Health Indicators</title>
-      <link>http://localhost:1313/posts/effect-of-aerobic-exercises-on-students-physical-health-indicators/</link>
-      <pubDate>Sun, 15 May 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/effect-of-aerobic-exercises-on-students-physical-health-indicators/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
     </item>
   </channel>
 </rss>
