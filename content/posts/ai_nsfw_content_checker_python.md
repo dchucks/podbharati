@@ -2,7 +2,7 @@
 title: How to Build an AI NSFW Content Checker with Python
 date: 2023-12-18 15:01:35 +0300
 authors: [admin]
-image: 'https://via.placeholder.com/1920x1080'
+image: 'https://wallpaperaccess.com/full/5927932.jpg'
 featured: true
 ---
 

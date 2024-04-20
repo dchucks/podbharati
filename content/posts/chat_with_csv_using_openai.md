@@ -2,7 +2,7 @@
 title: Chat with CSV using OpenAI
 date: 2024-02-18 15:01:35 +0300
 authors: [admin]
-image: 'https://via.placeholder.com/1920x1080'
+image: 'https://i.pinimg.com/originals/58/6e/51/586e51559dc40f48cd8ce65af9c1522f.gif'
 featured: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python
 date: 2022-10-08 18:05:55 +0300
-image: 'https://via.placeholder.com/1920x1080'
+image: 'https://i.pinimg.com/originals/86/11/44/8611446b59bab9340488be8414985807.gif'
 authors: [admin]
 featured: true
 ---
