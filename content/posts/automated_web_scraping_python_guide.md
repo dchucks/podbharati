@@ -2,7 +2,7 @@
 title: How to Build an Automated Web Scraping Tool with Python
 date: 2024-02-02 15:01:35 +0300
 authors: [admin]
-image: '../public/images/pix_art_1.jpg'
+image: 'https://i.pinimg.com/originals/28/98/54/289854dae67ede707890974d5b209100.png'
 featured: true
 ---
 
