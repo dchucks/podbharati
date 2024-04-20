@@ -1,8 +1,10 @@
-+++
+---
 title = 'Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://wallpapercave.com/wp/wp5954148.jpg'
+---
 
 The RAG LangChain Tutorial represents a pinnacle in leveraging AI to transform unstructured data into actionable insights through a question-answering (QA) chain. This sophisticated process involves several key steps, from data ingestion to information retrieval and response generation, each underpinned by advanced coding and machine learning techniques.
 

@@ -1,8 +1,10 @@
-+++
+---
 title = 'Efficient Training of Large Language Models with LoRA and Hugging Face'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://i.pinimg.com/originals/c7/71/48/c77148c919e613967c1d7fee75d5171c.gif'
+---
   
 Training large language models (LLMs) like GPT or T5 can be quite resource-intensive. However, innovations like LoRA (Low-Rank Adaptation) and tools from the Hugging Face ecosystem are making it more accessible. In this post, we’ll walk through how to efficiently train LLMs using LoRA and Hugging Face’s Transformers, showcasing the process with a real example of training a summarization model using the FLAN-T5 architecture. Ready to dive into the world of efficient machine learning? Let’s get started!
 

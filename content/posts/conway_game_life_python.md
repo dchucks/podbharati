@@ -1,8 +1,10 @@
-+++
+---
 title = 'Conways Game of Life Exploring Cellular Automata with Python'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://e0.pxfuel.com/wallpapers/1017/835/desktop-wallpaper-pixels-space-digital-art-planet-space-clouds-pixel-art-clouds-pixelated-stars-cloud-pixel-art.jpg'
+---
 
 Conway's Game of Life, a captivating cellular automaton devised by the mathematician John H. Conway, provides a mesmerizing exploration into the emergent behavior of simple rules applied to a grid of cells. In this blog post, we'll delve into the intricacies of the game, its rules, and how to implement it using Python.
 

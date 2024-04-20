@@ -1,8 +1,10 @@
-+++
+---
 title = 'Chatbots with RAG How to Build Your Own Intelligent Assistant'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://rare-gallery.com/uploads/posts/1023217-temple-trees-landscape-forest-digital-art-Asian-architecture-pixel-art-nature-stones-orange-pixels-pixelated-stairs-autumn-screenshot-computer-wallpaper-ancient-history.png'
+---
 
 
 In this era of digital communication, chatbots have become a crucial technology, assisting in everything from customer service to engaging in detailed discussions about complex topics. In this guide, we'll explore how to build an intelligent chatbot using Retrieval Augmented Generation (RAG) with the help of LangChain and OpenAI. This step-by-step tutorial will break down each line of code, explaining its purpose and functionality, enabling you to not only build the project but also understand the mechanics behind it.

@@ -1,8 +1,10 @@
-+++
+---
 title = 'Creating an AI Physics Tutor with Gradio and Dolly'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://images2.alphacoders.com/963/963940.png'
+---
 
 
 ### Setting Up Your Environment

@@ -1,8 +1,10 @@
-+++
+---
 title = 'Building a Healthcare BOT with Mixtral and Haystack on PubMed Data'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://i.pinimg.com/originals/b5/ce/26/b5ce26ea33b3f6544828cc1502949278.jpg'
+---
 
 In the rapidly evolving landscape of medical informatics, the integration of AI technologies like Mixtral and Haystack with the extensive PubMed database heralds a new era in healthcare information systems. This detailed guide will navigate through the process of crafting an advanced Healthcare BOT, designed to streamline medical information retrieval, offering precise and up-to-date insights derived from millions of scholarly articles.
 

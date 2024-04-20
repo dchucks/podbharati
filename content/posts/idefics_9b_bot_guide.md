@@ -1,8 +1,10 @@
-+++
+---
 title = 'Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'http://getwallpapers.com/wallpaper/full/f/5/2/259136.jpg'
+---
 
 
 Welcome to our detailed guide on setting up and using the Idefics-9b bot! This project involves a potent vision-text transformer model capable of generating text from images combined with textual prompts. Whether you're a developer, a student, or an AI enthusiast, this tutorial will provide you with a thorough understanding of each component and how they work together to achieve impressive results.

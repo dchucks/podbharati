@@ -1,8 +1,10 @@
-+++
+---
 title = 'CIFAR-10 Image Classification with TensorFlow'
 date = 2024-02-02T18:31:22+05:30
 draft = false
-+++
+authors: [admin]
+image: 'https://i.pinimg.com/originals/5b/a5/23/5ba523a4a02534cdf9acb37a3732c5f8.gif'
+---
 
 Image classification is a fundamental task in the field of computer vision, where the objective is to categorize images into predefined classes. The CIFAR-10 dataset, consisting of 60,000 32x32 color images across 10 classes, serves as an excellent benchmark for developing and testing machine learning models.
 
