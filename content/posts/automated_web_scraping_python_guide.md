@@ -2,7 +2,7 @@
 title: How to Build an Automated Web Scraping Tool with Python
 date: 2024-02-02 15:01:35 +0300
 authors: [admin]
-image: 'https://wallpaperaccess.com/full/3291090.jpg'
+image: '../public/images/pix_art_1.jpg'
 featured: true
 ---
 
