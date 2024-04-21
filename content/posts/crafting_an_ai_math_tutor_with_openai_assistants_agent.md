@@ -1,7 +1,6 @@
 ---
-title = 'Crafting an AI Math Tutor with OpenAI Assistants Agent'
-date = 2024-02-02T18:31:22+05:30
-draft = false
+title: 'Crafting an AI Math Tutor with OpenAI Assistants Agent'
+date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'https://images.wallpapersden.com/image/download/stargazing-hd-pixel-art_bWdqbGuUmZqaraWkpJRqZmdlrWdtbWU.jpg'
 ---

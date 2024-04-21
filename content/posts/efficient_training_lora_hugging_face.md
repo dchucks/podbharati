@@ -1,7 +1,6 @@
 ---
-title = 'Efficient Training of Large Language Models with LoRA and Hugging Face'
-date = 2024-02-02T18:31:22+05:30
-draft = false
+title: 'Efficient Training of Large Language Models with LoRA and Hugging Face'
+date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'https://i.pinimg.com/originals/c7/71/48/c77148c919e613967c1d7fee75d5171c.gif'
 ---

@@ -1,8 +1,7 @@
-+++
-title = 'Ludwig Fine-Tuning for Llama2-7b A Step-by-Step Guide'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Ludwig Fine-Tuning for Llama2-7b A Step-by-Step Guide'
+date: 2024-02-02T18:31:22+05:30
+---
 
 In the fast-evolving domain of machine learning, the ability to fine-tune pre-trained models is invaluable, significantly enhancing performance on specialized tasks. This blog post explores how to fine-tune the Llama2-7b model using Ludwig, an open-source tool that simplifies and optimizes deep learning projects. Whether you're a seasoned data scientist or a hobbyist, this guide will equip you with the knowledge to set up, configure, and deploy a fine-tuned AI model.
 

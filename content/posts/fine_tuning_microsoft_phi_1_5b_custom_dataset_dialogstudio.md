@@ -1,8 +1,7 @@
-+++
-title = 'Fine-tuning Microsoft Phi 1.5b on Custom Dataset with DialogStudio'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Fine-tuning Microsoft Phi 1.5b on Custom Dataset with DialogStudio'
+date: 2024-02-02T18:31:22+05:30
+---
 
 Fine-tuning Microsoft's Phi 1.5b model on a specialized dataset like DialogStudio presents a unique opportunity to create a powerful AI tool tailored for specific tasks, such as summarization or conversational analysis. In this extended guide, we delve deeper into the process, uncovering advanced strategies and providing a thorough walkthrough of each step, from the initial setup to the final deployment of the fine-tuned model.
 

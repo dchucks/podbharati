@@ -1,8 +1,7 @@
-+++
-title = 'Unleashing AI Power Setting Up Auto GPT in Google Colab'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Unleashing AI Power Setting Up Auto GPT in Google Colab'
+date: 2024-02-02T18:31:22+05:30
+---
 
 
 In the ever-evolving world of artificial intelligence, the need for accessible and efficient AI tools is paramount. Enter Auto GPT, a game-changer in automating AI tasks, and Google Colab, the perfect playground for AI enthusiasts. This blog will guide you through setting up Auto GPT in Google Colab, ensuring a smooth ride into the automation of AI tasks.

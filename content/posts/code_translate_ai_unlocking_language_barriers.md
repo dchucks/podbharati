@@ -1,8 +1,7 @@
-+++
-title = 'Unlocking Language Barriers in Coding The Power of Code Translate AI'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Unlocking Language Barriers in Coding The Power of Code Translate AI'
+date: 2024-02-02T18:31:22+05:30
+---
 
 In the digital age, where programming languages are as diverse as the developers who use them, the ability to translate code seamlessly from one language to another is nothing short of magical. Code Translate AI emerges as a groundbreaking tool, bridging the gap between languages and making multi-language development more accessible than ever before.
 

@@ -1,8 +1,7 @@
-+++
-title = 'LangChain AutoGPT Crafting a YouTube GPT Creator with Streamlit'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'LangChain AutoGPT Crafting a YouTube GPT Creator with Streamlit'
+date: 2024-02-02T18:31:22+05:30
+---
 
 Welcome to the fascinating world of LangChain AutoGPT, where we merge the power of AI with the simplicity of Streamlit to create a YouTube GPT Creator. This blog is your all-access pass to understanding the nuts and bolts of each line of code that goes into making an automated content generation app.
 
@@ -141,7 +140,7 @@ We then lay out the logic for displaying generated content and interaction histo
 
 ```python
 if prompt:
-    title = title_chain.run(prompt)
+    title: title_chain.run(prompt)
     wiki_research = wiki.run(prompt)
     script = script_chain.run(title=title, wikipedia_research=wiki_research)
 

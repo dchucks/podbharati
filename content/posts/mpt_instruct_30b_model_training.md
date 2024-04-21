@@ -1,8 +1,7 @@
-+++
-title = 'Mastering the MPT-Instruct-30B A Deep Dive into Model Training'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Mastering the MPT-Instruct-30B A Deep Dive into Model Training'
+date: 2024-02-02T18:31:22+05:30
+---
 
 ## Getting Your Environment Ready: The First Step to AI Mastery
 Before you can start playing with the big guns of AI models, you need to set up your environment. And this setup is not just any random assortment of commands; it's like prepping your spacecraft before a moon mission. 

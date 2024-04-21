@@ -1,7 +1,6 @@
 ---
-title = 'Building a Healthcare BOT with Mixtral and Haystack on PubMed Data'
-date = 2024-02-02T18:31:22+05:30
-draft = false
+title: 'Building a Healthcare BOT with Mixtral and Haystack on PubMed Data'
+date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'https://i.pinimg.com/originals/b5/ce/26/b5ce26ea33b3f6544828cc1502949278.jpg'
 ---

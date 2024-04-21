@@ -1,8 +1,7 @@
-+++
-title = 'Implement and Understand PEFT Fine-tune Bloom-560m-tagger'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Implement and Understand PEFT Fine-tune Bloom-560m-tagger'
+date: 2024-02-02T18:31:22+05:30
+---
 
 Fantastic! Let's dive right in.
 

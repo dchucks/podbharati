@@ -1,8 +1,7 @@
-+++
-title = 'Master MNIST Image Classification with Ludwig'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Master MNIST Image Classification with Ludwig'
+date: 2024-02-02T18:31:22+05:30
+---
 
 MNIST dataset, containing images of handwritten digits, is a cornerstone in the machine learning community for benchmarking image classification algorithms. Ludwig, a flexible tool created by Uber, makes deep learning simpler by allowing you to train a model without needing extensive coding. In this tutorial, we'll go through a complete setup of using Ludwig for MNIST image classification, from installation to visualization of results.
 
@@ -60,7 +59,7 @@ def plotDigitGrid(X, y, idxs, y_hat=None):
     for i in range(len(idxs)):
         plt.subplot(5, 6, i+1)
         plt.imshow(X[idxs[i]], cmap='Greys')
-        title = f"Label: {y[idxs[i]]}"
+        title: f"Label: {y[idxs[i]]}"
         if y_hat is not None:
             title += f"  Pred: {y_hat[idxs[i]]}"
         plt.title(title)

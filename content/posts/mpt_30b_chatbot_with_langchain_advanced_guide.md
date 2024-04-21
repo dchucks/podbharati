@@ -1,8 +1,7 @@
-+++
-title = 'MPT-30B Chatbot with LangChain A Comprehensive Guide to Building Advanced Conversational AI'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'MPT-30B Chatbot with LangChain A Comprehensive Guide to Building Advanced Conversational AI'
+date: 2024-02-02T18:31:22+05:30
+---
 
 Are you intrigued by the potential of artificial intelligence in enhancing conversational experiences? In this guide, we will delve into creating a high-level chatbot using the MPT-30B model integrated with LangChain. This tutorial is designed to empower tech enthusiasts, developers, and AI researchers with the tools and knowledge to build a state-of-the-art chatbot.
 

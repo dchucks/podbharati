@@ -1,7 +1,6 @@
 ---
-title = 'Conways Game of Life Exploring Cellular Automata with Python'
-date = 2024-02-02T18:31:22+05:30
-draft = false
+title: 'Conways Game of Life Exploring Cellular Automata with Python'
+date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'https://e0.pxfuel.com/wallpapers/1017/835/desktop-wallpaper-pixels-space-digital-art-planet-space-clouds-pixel-art-clouds-pixelated-stars-cloud-pixel-art.jpg'
 ---

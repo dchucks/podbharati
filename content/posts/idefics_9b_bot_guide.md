@@ -1,7 +1,6 @@
 ---
-title = 'Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide'
-date = 2024-02-02T18:31:22+05:30
-draft = false
+title: 'Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide'
+date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'http://getwallpapers.com/wallpaper/full/f/5/2/259136.jpg'
 ---

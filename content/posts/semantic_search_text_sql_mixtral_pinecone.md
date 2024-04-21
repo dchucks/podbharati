@@ -1,8 +1,7 @@
-+++
-title = 'Enhancing Text to SQL Conversion with Semantic Search A Deep Dive into Mixtral and Pinecone'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Enhancing Text to SQL Conversion with Semantic Search A Deep Dive into Mixtral and Pinecone'
+date: 2024-02-02T18:31:22+05:30
+---
 
 The integration of semantic search into Text to SQL conversion represents a significant leap in the field of data retrieval and database management. Utilizing advanced technologies like Mixtral and Pinecone, this approach enhances the efficiency and accuracy of converting natural language queries into SQL statements. This extensive guide delves into the mechanisms of Semantic Search-Enhanced Text to SQL, providing a detailed walkthrough of implementing Mixtral and Pinecone to revolutionize database querying processes.
 

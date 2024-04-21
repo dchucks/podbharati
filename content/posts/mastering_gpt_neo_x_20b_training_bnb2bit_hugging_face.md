@@ -1,8 +1,7 @@
-+++
-title = 'Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face'
+date: 2024-02-02T18:31:22+05:30
+---
 
 The era of large language models has seen rapid advancements, and training them efficiently is a significant challenge due to their size and complexity. Enter GPT-Neo-X-20B, a behemoth in the AI world, and the innovative bnb2bit training method. In this blog, we will unravel the process of training GPT-Neo-X-20B using bnb2bit precision, leveraging the Hugging Face ecosystem to streamline our training process. Ready to tackle this giant? Let’s start our journey!
 

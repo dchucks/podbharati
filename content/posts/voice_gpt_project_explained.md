@@ -1,8 +1,7 @@
-+++
-title = 'Understanding the Voice GPT Project A Technical Exploration'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
+---
+title: 'Understanding the Voice GPT Project A Technical Exploration'
+date: 2024-02-02T18:31:22+05:30
+---
 
 In the realm of artificial intelligence, the Voice GPT project stands as a testament to innovation, integrating various technologies to create a seamless voice interaction system. This project harnesses the power of OpenAI's Whisper, Gradio, TTS, and other pivotal libraries to build an ecosystem where voice processing achieves new heights of accuracy and responsiveness.
 

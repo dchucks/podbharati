@@ -1,8 +1,7 @@
-+++
-title = 'Chat with PDF Mistral-7B: Interacting with Documents Through AI'
-date = 2024-02-02T18:30:33+05:30
-draft = false
-+++
+---
+title: 'Chat with PDF Mistral-7B: Interacting with Documents Through AI'
+date: 2024-02-02T18:30:33+05:30
+---
 
 In the age of information overload, efficiently extracting knowledge from documents is crucial. Chat with PDF’s Mistral-7B leverages AI to transform static PDF files into dynamic conversational partners. Imagine querying any PDF document as if you were chatting with an expert on its content. This blog will guide you through creating such an interactive experience, using the Mistral-7B model within a Streamlit web application.
 

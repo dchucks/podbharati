@@ -1,7 +1,6 @@
 ---
-title = 'Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems'
-date = 2024-02-02T18:31:22+05:30
-draft = false
+title: 'Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems'
+date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'https://wallpapercave.com/wp/wp5954148.jpg'
 ---

@@ -1,9 +1,7 @@
-+++
-title = 'Mastering Stable Vicuna13B on Colab A Comprehensive 8-bit Implementation Guide'
-date = 2024-02-02T18:31:22+05:30
-draft = false
-+++
-
+---
+title: 'Mastering Stable Vicuna13B on Colab A Comprehensive 8-bit Implementation Guide'
+date: 2024-02-02T18:31:22+05:30
+---
 
 
 Embark on a journey to master Stable Vicuna13B, a powerful AI model, in the 8-bit configuration on Google Colab. This extensive guide covers every step from setup to execution, ensuring a thorough understanding and effective operation of the model.
