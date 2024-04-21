@@ -2,7 +2,7 @@
 title: 'Crafting an AI Math Tutor with OpenAI Assistants Agent'
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://images.wallpapersden.com/image/download/stargazing-hd-pixel-art_bWdqbGuUmZqaraWkpJRqZmdlrWdtbWU.jpg'
+image: 'https://e1.pxfuel.com/desktop-wallpaper/670/837/desktop-wallpaper-pixel-art-green-pixel-art-spring.jpg'
 ---
 
 Imagine stepping into a realm where every mathematical conundrum, from the simplest addition to the most complex calculus problem, is unraveled with the mere whisper of a query. This isn't the stuff of fantasy; it's the reality we're crafting with OpenAI's Assistants Agent. Today, we embark on a detailed odyssey to create a Math Tutor that's not just smart but also intuitively understands and aids in the labyrinth of mathematics.
