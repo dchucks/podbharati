@@ -247,13 +247,6 @@
       <description>In today’s digital age, monitoring and filtering Not Safe For Work (NSFW) content is crucial for maintaining professional and age-appropriate environments. Whether you’re a developer looking to integrate content moderation into your app, or just curious about how AI can assist in distinguishing safe from unsafe content, building an AI NSFW content checker can be a fascinating project. This blog post will guide you through creating an AI NSFW content checker using Python, Streamlit, and OpenNSFW2.</description>
     </item>
     <item>
-      <title>Correct Way To Learn Rust</title>
-      <link>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</link>
-      <pubDate>Sun, 18 Dec 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</guid>
-      <description>this is demo blog post </description>
-    </item>
-    <item>
       <title>Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</title>
       <link>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</link>
       <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>

@@ -23,6 +23,76 @@
       <description>Welcome, tech enthusiasts and data wizards! Ever thought about making your spreadsheets talk? Let&amp;rsquo;s embark on a fascinating journey to build &amp;ldquo;Chat with CSV OpenAI,&amp;rdquo; a project where your data will not just sit silently in CSV files but will chat with you, thanks to the power of OpenAI&amp;rsquo;s AI models. Get ready to turn your data interactive and learn something exciting along the way!&#xA;Project Overview &amp;ldquo;Chat with CSV OpenAI&amp;rdquo; is more than a project; it&amp;rsquo;s an adventure into the realm of AI and data interaction.</description>
     </item>
     <item>
+      <title>Building a Healthcare BOT with Mixtral and Haystack on PubMed Data</title>
+      <link>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</guid>
+      <description>In the rapidly evolving landscape of medical informatics, the integration of AI technologies like Mixtral and Haystack with the extensive PubMed database heralds a new era in healthcare information systems. This detailed guide will navigate through the process of crafting an advanced Healthcare BOT, designed to streamline medical information retrieval, offering precise and up-to-date insights derived from millions of scholarly articles.&#xA;Extensive Guide to Crafting an Advanced Healthcare BOT Comprehensive Environment Setup The foundation of our Healthcare BOT lies in a robust setup, necessitating a range of specialized tools:</description>
+    </item>
+    <item>
+      <title>Chatbots with RAG How to Build Your Own Intelligent Assistant</title>
+      <link>http://localhost:1313/posts/chatbots_with_rag_building_guide/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/chatbots_with_rag_building_guide/</guid>
+      <description>In this era of digital communication, chatbots have become a crucial technology, assisting in everything from customer service to engaging in detailed discussions about complex topics. In this guide, we&amp;rsquo;ll explore how to build an intelligent chatbot using Retrieval Augmented Generation (RAG) with the help of LangChain and OpenAI. This step-by-step tutorial will break down each line of code, explaining its purpose and functionality, enabling you to not only build the project but also understand the mechanics behind it.</description>
+    </item>
+    <item>
+      <title>CIFAR-10 Image Classification with TensorFlow</title>
+      <link>http://localhost:1313/posts/cifar_10_image_classification_with_tensorflow/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/cifar_10_image_classification_with_tensorflow/</guid>
+      <description>Image classification is a fundamental task in the field of computer vision, where the objective is to categorize images into predefined classes. The CIFAR-10 dataset, consisting of 60,000 32x32 color images across 10 classes, serves as an excellent benchmark for developing and testing machine learning models.&#xA;Setting Up Your TensorFlow Environment Before diving into the neural network architecture, it&amp;rsquo;s essential to set up the TensorFlow environment:&#xA;Importing Libraries We start by importing TensorFlow and other necessary libraries:</description>
+    </item>
+    <item>
+      <title>Conways Game of Life Exploring Cellular Automata with Python</title>
+      <link>http://localhost:1313/posts/conway_game_life_python/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/conway_game_life_python/</guid>
+      <description>Conway&amp;rsquo;s Game of Life, a captivating cellular automaton devised by the mathematician John H. Conway, provides a mesmerizing exploration into the emergent behavior of simple rules applied to a grid of cells. In this blog post, we&amp;rsquo;ll delve into the intricacies of the game, its rules, and how to implement it using Python.&#xA;Understanding Conway&amp;rsquo;s Game of Life The Game of Life unfolds on an infinite two-dimensional grid, where each cell can either be alive or dead.</description>
+    </item>
+    <item>
+      <title>Crafting an AI Math Tutor with OpenAI Assistants Agent</title>
+      <link>http://localhost:1313/posts/crafting_an_ai_math_tutor_with_openai_assistants_agent/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/crafting_an_ai_math_tutor_with_openai_assistants_agent/</guid>
+      <description>Imagine stepping into a realm where every mathematical conundrum, from the simplest addition to the most complex calculus problem, is unraveled with the mere whisper of a query. This isn&amp;rsquo;t the stuff of fantasy; it&amp;rsquo;s the reality we&amp;rsquo;re crafting with OpenAI&amp;rsquo;s Assistants Agent. Today, we embark on a detailed odyssey to create a Math Tutor that&amp;rsquo;s not just smart but also intuitively understands and aids in the labyrinth of mathematics.</description>
+    </item>
+    <item>
+      <title>Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide</title>
+      <link>http://localhost:1313/posts/idefics_9b_bot_guide/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/idefics_9b_bot_guide/</guid>
+      <description>Welcome to our detailed guide on setting up and using the Idefics-9b bot! This project involves a potent vision-text transformer model capable of generating text from images combined with textual prompts. Whether you&amp;rsquo;re a developer, a student, or an AI enthusiast, this tutorial will provide you with a thorough understanding of each component and how they work together to achieve impressive results.&#xA;In this post, we&amp;rsquo;ll walk through the entire process of setting up the environment, understanding the code, and deploying a web-based interface to interact with the model.</description>
+    </item>
+    <item>
+      <title>Creating an AI Physics Tutor with Gradio and Dolly</title>
+      <link>http://localhost:1313/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly/</guid>
+      <description>Setting Up Your Environment The first step in our journey is to set up the environment by installing the necessary libraries. These libraries include Gradio for the web interface, transformers for accessing pre-trained models, sentencepiece for text processing, and accelerate for optimizing the computation. Run the following commands in your terminal or Jupyter notebook:&#xA;!pip install gradio transformers sentencepiece accelerate Detailed Explanation: Gradio: A Python library to create customizable UIs for machine learning models.</description>
+    </item>
+    <item>
+      <title>Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems</title>
+      <link>http://localhost:1313/posts/rag_langchain_tutorial/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/rag_langchain_tutorial/</guid>
+      <description>The RAG LangChain Tutorial represents a pinnacle in leveraging AI to transform unstructured data into actionable insights through a question-answering (QA) chain. This sophisticated process involves several key steps, from data ingestion to information retrieval and response generation, each underpinned by advanced coding and machine learning techniques.&#xA;Foundation: Setting Up the Environment Before delving into the functional aspects, establishing a secure and functional environment is crucial:&#xA;import os api_key = os.</description>
+    </item>
+    <item>
+      <title>Detecting Malware with Machine Learning</title>
+      <link>http://localhost:1313/posts/detecting_malware_with_machine_learning/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/detecting_malware_with_machine_learning/</guid>
+      <description>Welcome, cyber guardians and machine learning enthusiasts! Are you ready to delve deeper into the realm of artificial intelligence to combat malware? This guide is designed to take you through a comprehensive journey of detecting malware using machine learning, offering detailed insights into each step of the process.&#xA;In-Depth Analysis of Malware Detection Malware detection using machine learning isn&amp;rsquo;t just about running algorithms; it&amp;rsquo;s a meticulous process that involves understanding the data, selecting the right models, and fine-tuning them for optimal performance.</description>
+    </item>
+    <item>
+      <title>Efficient Training of Large Language Models with LoRA and Hugging Face</title>
+      <link>http://localhost:1313/posts/efficient_training_lora_hugging_face/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/efficient_training_lora_hugging_face/</guid>
+      <description>Training large language models (LLMs) like GPT or T5 can be quite resource-intensive. However, innovations like LoRA (Low-Rank Adaptation) and tools from the Hugging Face ecosystem are making it more accessible. In this post, we’ll walk through how to efficiently train LLMs using LoRA and Hugging Face’s Transformers, showcasing the process with a real example of training a summarization model using the FLAN-T5 architecture. Ready to dive into the world of efficient machine learning?</description>
+    </item>
+    <item>
       <title>How to Build an Automated Web Scraping Tool with Python</title>
       <link>http://localhost:1313/posts/automated_web_scraping_python_guide/</link>
       <pubDate>Fri, 02 Feb 2024 15:01:35 +0300</pubDate>
@@ -35,13 +105,6 @@
       <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
       <guid>http://localhost:1313/posts/ai_nsfw_content_checker_python/</guid>
       <description>In today’s digital age, monitoring and filtering Not Safe For Work (NSFW) content is crucial for maintaining professional and age-appropriate environments. Whether you’re a developer looking to integrate content moderation into your app, or just curious about how AI can assist in distinguishing safe from unsafe content, building an AI NSFW content checker can be a fascinating project. This blog post will guide you through creating an AI NSFW content checker using Python, Streamlit, and OpenNSFW2.</description>
-    </item>
-    <item>
-      <title>Correct Way To Learn Rust</title>
-      <link>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</link>
-      <pubDate>Sun, 18 Dec 2022 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/how-to-accurately-measure-your-success-as-a-person/</guid>
-      <description>this is demo blog post </description>
     </item>
     <item>
       <title>Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</title>
