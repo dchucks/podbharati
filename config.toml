@@ -33,8 +33,8 @@ paginate = 12
 
 
 [params]
-  logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
-  logo_dark = "/images/logo.png"
+  logo = "/images/3.png" # You can add own logo. For example "/images/logo.png".
+  logo_dark = "/images/3.png"
   description = "Danto is a news and magazine Hugo theme"
   color_scheme = "dark" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
