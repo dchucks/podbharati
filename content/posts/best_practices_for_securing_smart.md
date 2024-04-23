@@ -25,8 +25,6 @@ The security of smart contracts is a foundational pillar for the trust and relia
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc23630e1-4cde-4207-ba6f-0adb92872d87_474x237.jpeg)
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc23630e1-4cde-4207-ba6f-0adb92872d87_474x237.jpeg)
-
 **Common Vulnerabilities:**
 
 -   **Reentrancy Attacks:** This occurs when an attacker is able to call back into the smart contract before the initial function is completed, potentially draining funds. The DAO attack is a prime example, where recursive calls led to the loss of millions of dollars in Ether.
