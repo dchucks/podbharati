@@ -3,7 +3,7 @@ title: 'Chatbots with RAG How to Build Your Own Intelligent Assistant'
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 image: 'https://rare-gallery.com/uploads/posts/1023217-temple-trees-landscape-forest-digital-art-Asian-architecture-pixel-art-nature-stones-orange-pixels-pixelated-stairs-autumn-screenshot-computer-wallpaper-ancient-history.png'
-featured: false
+featured: true
 ---
 
 

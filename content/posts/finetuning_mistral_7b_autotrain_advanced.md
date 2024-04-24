@@ -1,6 +1,9 @@
 ---
 title: 'Finetuning Mistral-7b FineTuning Model using Autotrain-advanced'
 date: 2024-02-02T18:31:22+05:30
+featured: true
+authors: [admin]
+image: 'https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-village_23-2151120900.jpg?t=st=1713904160~exp=1713907760~hmac=af0a8afc76b8734389a0ab08241896c1ae129db62e5f9067576f94f9758842b4&w=1060'
 ---
 
 In the rapidly advancing field of artificial intelligence, leveraging pre-trained models by finetuning them for specific tasks can drastically improve performance. This tutorial takes an in-depth look at how to finetune the Mistral-7b model using Autotrain-advanced, providing a clear explanation for each line of code and practical steps to deploy the project effectively.

@@ -1,6 +1,8 @@
 ---
 title: 'Implement and Understand PEFT Fine-tune Bloom-560m-tagger'
 date: 2024-02-02T18:31:22+05:30
+authors: [admin]
+image: 'https://wallpaperaccess.com/full/4393127.png'
 ---
 
 Fantastic! Let's dive right in.

@@ -1,6 +1,9 @@
 ---
 title: 'Guanaco Chatbot Demo Leveraging the Power of LLaMA-7B for Advanced Conversations'
 date: 2024-02-02T18:31:22+05:30
+authors: [admin]
+featured: true
+image: 'https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-city-sunset_23-2151120968.jpg?t=st=1713904078~exp=1713907678~hmac=3896050f64edb5fa5b5b37f9ec3e603c1df3a7203751bebeb399bdaf68c42b50&w=1060'
 ---
 
 In today's fast-evolving digital landscape, the fusion of sophisticated AI models with interactive platforms is not just innovative; it's revolutionary. The Guanaco Chatbot, powered by the LLaMA-7B model, stands at the forefront of this evolution, offering a glimpse into the future of conversational AI. This blog post will take you on a journey through the setup and execution of the Guanaco Chatbot demo, showcasing its remarkable capabilities and the technical prowess of the LLaMA-7B model.
