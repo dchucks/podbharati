@@ -3,7 +3,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Akhil's Blogs"
-googleAnalytics = "G-5P6BXWDX4G" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-KJEES5CG7L" # Add your identifier. For example UA-99631805-1.
 paginate = 12
 
 
