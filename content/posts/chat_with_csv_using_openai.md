@@ -1,13 +1,13 @@
 ---
 title: Chat with CSV using OpenAI
+description: Welcome, tech enthusiasts and data wizards! Ever thought about making your spreadsheets talk? Let's embark on a fascinating journey to build "Chat with CSV OpenAI," a project where your data will not just sit silently in CSV files but will chat with you, thanks to the power of OpenAI's AI models. Get ready to turn your data interactive and learn something exciting along the way!
 date: 2024-02-18 15:01:35 +0300
 authors: [admin]
 image: 'https://i.pinimg.com/originals/58/6e/51/586e51559dc40f48cd8ce65af9c1522f.gif'
 featured: true
 ---
 
-Welcome, tech enthusiasts and data wizards! Ever thought about making your spreadsheets talk? Let's embark on a fascinating journey to build "Chat with CSV OpenAI," a project where your data will not just sit silently in CSV files but will chat with you, thanks to the power of OpenAI's AI models. Get ready to turn your data interactive and learn something exciting along the way!
-
+---
 ### Project Overview
 "Chat with CSV OpenAI" is more than a project; it's an adventure into the realm of AI and data interaction. This application will serve as a bridge between you and your data, allowing you to converse with your CSV files through the magic of OpenAI's language models. Imagine asking your data questions and getting answers as if you were chatting with a data scientist!
 
