@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -88,10 +88,10 @@
       <div class="header__inner col col-12">
 
         <div class="logo">
-          <a class="logo__link" href="http://localhost:1313/">
+          <a class="logo__link" href="http://example.org/">
             
-            <img class="logo__image" src="http://localhost:1313//images/3.png" alt="Akhil&#39;s Blogs">
-            <img class="logo__image__dark" src="http://localhost:1313//images/3.png" alt="Akhil&#39;s Blogs">
+            <img class="logo__image" src="http://example.org//images/3.png" alt="Akhil&#39;s Blogs">
+            <img class="logo__image__dark" src="http://example.org//images/3.png" alt="Akhil&#39;s Blogs">
             
           </a>
         </div>
@@ -223,14 +223,14 @@
 
   
   <div class="post-author-image">
-    <a href="http://localhost:1313/authors/admin/" class="post__author__image">
+    <a href="http://example.org/authors/admin/" class="post__author__image">
       <img class="lazy" data-src="https://media.licdn.com/dms/image/D4D03AQEM30CriXyiqg/profile-displayphoto-shrink_400_400/0/1700669263324?e=1718841600&amp;v=beta&amp;t=YzSTyQaxROX2_illdBK8mv-ozmHdc4TU-9V984BiNBo" alt="Akhil Sharma">
     </a>
   </div>
   
 
   <h2 class="post-author-name">
-    <a href="http://localhost:1313/authors/admin/">Akhil Sharma</a>
+    <a href="http://example.org/authors/admin/">Akhil Sharma</a>
   </h2>
 
   
@@ -266,27 +266,27 @@
   
   
   <div class="post-featured-content">
-    <a href="http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/" class="post-featured-image">
+    <a href="http://example.org/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/" class="post-featured-image">
       
       <img class="lazy" data-src="https://wallpapercave.com/wp/wp1933952.jpg" alt="Building an AI Chatbot with CodeLlama and Streamlit in Google Colab">
     </a>
-    <h3 class="post-featured-title"><a href="http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/">Building an AI Chatbot with CodeLlama and Streamlit in Google Colab</a></h3>
+    <h3 class="post-featured-title"><a href="http://example.org/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/">Building an AI Chatbot with CodeLlama and Streamlit in Google Colab</a></h3>
   </div>
   
   <div class="post-featured-content">
-    <a href="http://localhost:1313/posts/chat_with_csv_using_openai/" class="post-featured-image">
+    <a href="http://example.org/posts/chat_with_csv_using_openai/" class="post-featured-image">
       
       <img class="lazy" data-src="https://i.pinimg.com/originals/58/6e/51/586e51559dc40f48cd8ce65af9c1522f.gif" alt="Chat with CSV using OpenAI">
     </a>
-    <h3 class="post-featured-title"><a href="http://localhost:1313/posts/chat_with_csv_using_openai/">Chat with CSV using OpenAI</a></h3>
+    <h3 class="post-featured-title"><a href="http://example.org/posts/chat_with_csv_using_openai/">Chat with CSV using OpenAI</a></h3>
   </div>
   
   <div class="post-featured-content">
-    <a href="http://localhost:1313/posts/chatbots_with_rag_building_guide/" class="post-featured-image">
+    <a href="http://example.org/posts/chatbots_with_rag_building_guide/" class="post-featured-image">
       
       <img class="lazy" data-src="https://rare-gallery.com/uploads/posts/1023217-temple-trees-landscape-forest-digital-art-Asian-architecture-pixel-art-nature-stones-orange-pixels-pixelated-stairs-autumn-screenshot-computer-wallpaper-ancient-history.png" alt="Chatbots with RAG How to Build Your Own Intelligent Assistant">
     </a>
-    <h3 class="post-featured-title"><a href="http://localhost:1313/posts/chatbots_with_rag_building_guide/">Chatbots with RAG How to Build Your Own Intelligent Assistant</a></h3>
+    <h3 class="post-featured-title"><a href="http://example.org/posts/chatbots_with_rag_building_guide/">Chatbots with RAG How to Build Your Own Intelligent Assistant</a></h3>
   </div>
   
 </div>
@@ -356,11 +356,9 @@ These commands install pandas for data manipulation and Autotrain-advanced for m
 <p>Confirm that train.csv is in the root directory in the Colab. The <code>--data_path .</code> flag will make it so that AutoTrain looks for your data there.</p>
 <p>Make sure to add the LoRA Target Modules to be trained <code>--target-modules q_proj, v_proj</code></p>
 <p><strong>after making those changes and running the code cell, you should now have successfully uploaded the model to Hugging Face.</strong></p>
-<!--
-### Step 5: Uploading and Verifying the Model
-
-Upon completion of the training process, your model is automatically uploaded to Hugging Face under your specified repository. You can verify the upload by visiting your Hugging Face profile and navigating to the repository. -->
-<h3 id="step-5-inference-and-utilization-of-the-model">Step 5: Inference and Utilization of the Model</h3>
+<h3 id="step-5-uploading-and-verifying-the-model">Step 5: Uploading and Verifying the Model</h3>
+<p>Upon completion of the training process, your model is automatically uploaded to Hugging Face under your specified repository. You can verify the upload by visiting your Hugging Face profile and navigating to the repository.</p>
+<h3 id="step-6-inference-and-utilization-of-the-model">Step 6: Inference and Utilization of the Model</h3>
 <p>By installing these libraries and setting up the model, tokenizer, and device, we&rsquo;re preparing the environment for the fine-tuning process. These steps ensure we have the necessary tools and configurations to modify the Mistral-7b model to suit our specific requirements.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="err">!</span><span class="n">autotrain</span> <span class="n">llm</span> <span class="o">-</span><span class="n">h</span>
 </span></span><span class="line"><span class="cl"><span class="err">!</span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">q</span> <span class="n">peft</span> <span class="n">accelerate</span> <span class="n">bitsandbytes</span> <span class="n">safetensors</span>
@@ -373,7 +371,10 @@ Upon completion of the training process, your model is automatically uploaded to
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="n">device</span> <span class="o">=</span> <span class="s2">&#34;cuda&#34;</span> <span class="c1"># the device to load the model onto</span>
-</span></span></code></pre></div><p>The command <code>!autotrain llm -h</code> shows help information for Autotrain&rsquo;s Large Language Model functionality, helping you familiarize yourself with available options. The <code>peft</code> library stands for &ldquo;Parameter-Efficient Fine-Tuning&rdquo; and optimizes memory and computational efficiency during fine-tuning. The <code>accelerate</code> library by Hugging Face streamlines and speeds up the training of large models, while <code>bitsandbytes</code> provides efficient quantization and memory optimization, particularly useful for large models. The <code>safetensors</code> library handles tensor data securely and efficiently. The <code>torch</code> library (PyTorch) is essential for handling tensors and running deep learning models. <code>PeftModel</code> from <code>peft</code> allows for parameter-efficient fine-tuning techniques. <code>AutoModelForCausalLM</code> and <code>AutoTokenizer</code> from <code>transformers</code> are used to load the pre-trained model and tokenizer. The <code>adapters_name</code> variable holds the path to the adapter configuration for fine-tuning, and <code>model_name</code> specifies the pre-trained model, here the Mistral-7B. The <code>device</code> variable indicates using a GPU (<code>&quot;cuda&quot;</code>) for faster processing; if a GPU is unavailable, it can be set to <code>&quot;cpu&quot;</code> for slower training.</p>
+</span></span></code></pre></div><p>The command <code>!autotrain llm -h</code> shows help information for Autotrain&rsquo;s Large Language Model functionality, helping you familiarize yourself with available options.</p>
+<p>The <code>peft</code> library stands for &ldquo;Parameter-Efficient Fine-Tuning&rdquo; and optimizes memory and computational efficiency during fine-tuning. The <code>accelerate</code> library by Hugging Face streamlines and speeds up the training of large models, while <code>bitsandbytes</code> provides efficient quantization and memory optimization, particularly useful for large models.</p>
+<p>The <code>safetensors</code> library handles tensor data securely and efficiently. The <code>torch</code> library (PyTorch) is essential for handling tensors and running deep learning models. <code>PeftModel</code> from <code>peft</code> allows for parameter-efficient fine-tuning techniques.</p>
+<p><code>AutoModelForCausalLM</code> and <code>AutoTokenizer</code> from <code>transformers</code> are used to load the pre-trained model and tokenizer. The <code>adapters_name</code> variable holds the path to the adapter configuration for fine-tuning, and <code>model_name</code> specifies the pre-trained model, here the Mistral-7B. The <code>device</code> variable indicates using a GPU (<code>&quot;cuda&quot;</code>) for faster processing; if a GPU is unavailable, it can be set to <code>&quot;cpu&quot;</code> for slower training.</p>
 <p><strong>Configuring Bits and Bytes for Efficient Model Loading</strong></p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">bnb_config</span> <span class="o">=</span> <span class="n">transformers</span><span class="o">.</span><span class="n">BitsAndBytesConfig</span><span class="p">(</span>
 </span></span><span class="line"><span class="cl">    <span class="n">load_in_4bit</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
@@ -381,7 +382,8 @@ Upon completion of the training process, your model is automatically uploaded to
 </span></span><span class="line"><span class="cl">    <span class="n">bnb_4bit_quant_type</span><span class="o">=</span><span class="s2">&#34;nf4&#34;</span><span class="p">,</span>
 </span></span><span class="line"><span class="cl">    <span class="n">bnb_4bit_compute_dtype</span><span class="o">=</span><span class="n">torch</span><span class="o">.</span><span class="n">bfloat16</span>
 </span></span><span class="line"><span class="cl"><span class="p">)</span>
-</span></span></code></pre></div><p>To efficiently load the Mistral-7B model, we use BitsAndBytesConfig from the transformers library. This configuration enables 4-bit precision (load_in_4bit=True), applies double quantization (bnb_4bit_use_double_quant=True), uses non-finite 4-bit quantization (bnb_4bit_quant_type=&ldquo;nf4&rdquo;), and sets the computation type to bfloat16 (bnb_4bit_compute_dtype=torch.bfloat16). These settings significantly reduce memory usage and maintain performance, making it feasible to handle large models on limited-resource hardware like GPUs.</p>
+</span></span></code></pre></div><p>To efficiently load the Mistral-7B model, we use BitsAndBytesConfig from the transformers library. This configuration enables 4-bit precision (load_in_4bit=True), applies double quantization (bnb_4bit_use_double_quant=True),</p>
+<p>uses non-finite 4-bit quantization (bnb_4bit_quant_type=&ldquo;nf4&rdquo;), and sets the computation type to bfloat16 (bnb_4bit_compute_dtype=torch.bfloat16). These settings significantly reduce memory usage and maintain performance, making it feasible to handle large models on limited-resource hardware like GPUs.</p>
 <p><strong>Loading the Model with Quantazation</strong></p>
 <p>We load the Mistral-7B model using AutoModelForCausalLM.from_pretrained, applying the previously defined BitsAndBytesConfig for efficient memory usage. The model is loaded in 4-bit precision (load_in_4bit=True), uses bfloat16 for computation (torch_dtype=torch.bfloat16), and automatically maps to available devices (device_map=&lsquo;auto&rsquo;).</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">model</span> <span class="o">=</span> <span class="n">AutoModelForCausalLM</span><span class="o">.</span><span class="n">from_pretrained</span><span class="p">(</span>
@@ -392,7 +394,7 @@ Upon completion of the training process, your model is automatically uploaded to
 </span></span><span class="line"><span class="cl">    <span class="n">device_map</span><span class="o">=</span><span class="s1">&#39;auto&#39;</span>
 </span></span><span class="line"><span class="cl"><span class="p">)</span>
 </span></span></code></pre></div><p>This step initializes the Mistral-7B model with the specified quantization settings to optimize memory usage and performance, automatically distributing the model across available hardware resources.</p>
-<p><strong>Applying Parameter-Efficient Fine-Tuning and loading the Tokenizer</strong></p>
+<h3 id="step-7-applying-parameter-efficient-fine-tuning-and-loading-the-tokenizer">Step 7: Applying Parameter-Efficient Fine-Tuning and loading the Tokenizer**</h3>
 <p>In this step, we apply the parameter-efficient fine-tuning (PEFT) configuration to our model and load the tokenizer. We also set the beginning-of-sequence token ID and define stop token IDs.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">model</span> <span class="o">=</span> <span class="n">PeftModel</span><span class="o">.</span><span class="n">from_pretrained</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">adapters_name</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="n">tokenizer</span> <span class="o">=</span> <span class="n">AutoTokenizer</span><span class="o">.</span><span class="n">from_pretrained</span><span class="p">(</span><span class="n">model_name</span><span class="p">)</span>
@@ -401,9 +403,10 @@ Upon completion of the training process, your model is automatically uploaded to
 </span></span><span class="line"><span class="cl"><span class="n">stop_token_ids</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Successfully loaded the model </span><span class="si">{</span><span class="n">model_name</span><span class="si">}</span><span class="s2"> into memory&#34;</span><span class="p">)</span>
-</span></span></code></pre></div><p>We enhance our model with PEFT (PeftModel.from_pretrained), which applies the fine-tuning configuration specified by adapters_name to the pre-trained model. We then load the tokenizer (AutoTokenizer.from_pretrained) for handling text input and output, setting its beginning-of-sequence token ID (tokenizer.bos_token_id = 1). We also define stop token IDs (stop_token_ids = [0]), which are tokens indicating where the model should stop generating text. Finally, we print a confirmation message to indicate successful model loading.</p>
-<p><strong>Generating Text with Fine-Tuned Model</strong>
-Now, we will use the fine-tuned Mistral-7B model to generate text based on a given prompt. We&rsquo;ll encode the input text, generate a response, and decode the output.</p>
+</span></span></code></pre></div><p>We enhance our model with PEFT (PeftModel.from_pretrained), which applies the fine-tuning configuration specified by adapters_name to the pre-trained model. We then load the tokenizer (AutoTokenizer.from_pretrained) for handling text input and output, setting its beginning-of-sequence token ID (tokenizer.bos_token_id = 1).</p>
+<p>We also define stop token IDs (stop_token_ids = [0]), which are tokens indicating where the model should stop generating text. Finally, we print a confirmation message to indicate successful model loading.</p>
+<p><strong>Generating Text with Fine-Tuned Model</strong></p>
+<p>Now, we will use the fine-tuned Mistral-7B model to generate text based on a given prompt. We&rsquo;ll encode the input text, generate a response, and decode the output.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">text</span> <span class="o">=</span> <span class="s2">&#34;[INST] generate a midjourney prompt for A person walks in the rain [/INST]&#34;</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="n">encoded</span> <span class="o">=</span> <span class="n">tokenizer</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">return_tensors</span><span class="o">=</span><span class="s2">&#34;pt&#34;</span><span class="p">,</span> <span class="n">add_special_tokens</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
@@ -412,31 +415,32 @@ Now, we will use the fine-tuned Mistral-7B model to generate text based on a giv
 </span></span><span class="line"><span class="cl"><span class="n">generated_ids</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">generate</span><span class="p">(</span><span class="o">**</span><span class="n">model_input</span><span class="p">,</span> <span class="n">max_new_tokens</span><span class="o">=</span><span class="mi">200</span><span class="p">,</span> <span class="n">do_sample</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="n">decoded</span> <span class="o">=</span> <span class="n">tokenizer</span><span class="o">.</span><span class="n">batch_decode</span><span class="p">(</span><span class="n">generated_ids</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">decoded</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
-</span></span></code></pre></div><p>In this step, we prompt the fine-tuned Mistral-7B model to generate text. First, we define an input prompt (text), encode it using the tokenizer, and prepare it for the model. We then move the model to the GPU (device) for efficient processing. The model generates text based on the prompt, allowing up to 200 new tokens and using sampling for diversity (<code>model.generate</code>). The generated token IDs are decoded back into readable text (<code>tokenizer.batch_decode</code>), and the result is printed. This showcases how to use the fine-tuned model to create customized outputs from specific prompts.</p>
+</span></span></code></pre></div><p>In this step, we prompt the fine-tuned Mistral-7B model to generate text. First, we define an input prompt (text), encode it using the tokenizer, and prepare it for the model. We then move the model to the GPU (device) for efficient processing.</p>
+<p>The model generates text based on the prompt, allowing up to 200 new tokens and using sampling for diversity (<code>model.generate</code>). The generated token IDs are decoded back into readable text (<code>tokenizer.batch_decode</code>), and the result is printed. This showcases how to use the fine-tuned model to create customized outputs from specific prompts.</p>
 
         </div>
 
         <div class="post__share">
   <ul class="share__list list-reset">
     <li class="share__item">
-      <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced&url=http%3a%2f%2flocalhost%3a1313%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow"><i class="fa-brands fa-x-twitter"></i><span class="share-name">Twitter</span></a>
+      <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced&url=http%3a%2f%2fexample.org%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow"><i class="fa-brands fa-x-twitter"></i><span class="share-name">Twitter</span></a>
     </li>
 
     <li class="share__item">
-      <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f"
+      <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fexample.org%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f"
         onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
         title="Share on Facebook" rel="nofollow"><i class="fa-brands fa-facebook"></i><span class="share-name">Facebook</span></a>
     </li>
 
     <li class="share__item">
       <a class="share__link share__pinterest"
-        href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2flocalhost%3a1313%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f&amp;media=https%3a%2f%2fimg.freepik.com%2ffree-vector%2fpixel-art-rural-landscape-background_23-2150592944.jpg%3fw%3d740%26t%3dst%3d1716826695~exp%3d1716827295~hmac%3db96dfbc3983c8e63bb61216ce6aa2ec22c1a6c908160557338fdec69f1562b5d&amp;description=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced"
+        href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2fexample.org%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f&amp;media=https%3a%2f%2fimg.freepik.com%2ffree-vector%2fpixel-art-rural-landscape-background_23-2150592944.jpg%3fw%3d740%26t%3dst%3d1716826695~exp%3d1716827295~hmac%3db96dfbc3983c8e63bb61216ce6aa2ec22c1a6c908160557338fdec69f1562b5d&amp;description=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced"
         onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
         title="Share on Pinterest" aria-label="Share on Pinterest"><i class="fa-brands fa-pinterest"></i><span class="share-name">Pinterest</span></a>
     </li>
 
     <li class="share__item">
-      <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2flocalhost%3a1313%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f&title=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced&summary=Welcome%20to%20this%20in%20depth%20guide%20on%20fine-tuning%20the%20Mistral-7b%20model%20using%20Autotrain-Advanced.%20In%20this%20tutorial%2c%20we%27ll%20explore%20how%20to%20adapt%20a%20powerful%20pre-trained%20large%20language%20model%20to%20your%20specific%20domain.%20Fine-tuning%20allows%20you%20to%20customize%20a%20general-purpose%20model%2c%20making%20it%20perform%20better%20on%20tasks%20relevant%20to%20your%20particular%20dataset.&source=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced"
+      <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fexample.org%2fposts%2ffinetuning_mistral_7b_autotrain_advanced%2f&title=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced&summary=Welcome%20to%20this%20in%20depth%20guide%20on%20fine-tuning%20the%20Mistral-7b%20model%20using%20Autotrain-Advanced.%20In%20this%20tutorial%2c%20we%27ll%20explore%20how%20to%20adapt%20a%20powerful%20pre-trained%20large%20language%20model%20to%20your%20specific%20domain.%20Fine-tuning%20allows%20you%20to%20customize%20a%20general-purpose%20model%2c%20making%20it%20perform%20better%20on%20tasks%20relevant%20to%20your%20particular%20dataset.&source=Finetuning%20Mistral-7b%20FineTuning%20Model%20using%20Autotrain-advanced"
       onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow"><i class="fa-brands fa-linkedin"></i><span class="share-name">Linkedin</span></a>
     </li>
   </ul>
@@ -456,14 +460,14 @@ Now, we will use the fine-tuned Mistral-7B model to generate text based on a giv
     
     <div class="post__prev">
       
-      <a href="http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/" class="prev__image">
+      <a href="http://example.org/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/" class="prev__image">
         
         <img class="lazy" data-src="https://wallpapercave.com/wp/wp1933952.jpg" alt="Building an AI Chatbot with CodeLlama and Streamlit in Google Colab">
       </a>
       
       <div class="prev__box">
         <span class="post__nav post__nav__prev">Older post</span>
-        <h2 class="post__nav__title"><a href="http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/">Building an AI Chatbot with CodeLlama and Streamlit in Google Colab</a></h2>
+        <h2 class="post__nav__title"><a href="http://example.org/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/">Building an AI Chatbot with CodeLlama and Streamlit in Google Colab</a></h2>
       </div>
     </div>
     
@@ -539,11 +543,11 @@ Now, we will use the fine-tuned Mistral-7B model to generate text based on a giv
   <div class="widget-footer widget-info">
 
     <div class="logo-footer">
-      <a class="logo-footer__link widget-title" href="http://localhost:1313/">
+      <a class="logo-footer__link widget-title" href="http://example.org/">
         
-        <img class="logo-footer__image" src="http://localhost:1313//images/3.png"
+        <img class="logo-footer__image" src="http://example.org//images/3.png"
           alt="Akhil&#39;s Blogs">
-        <img class="logo-footer__image__dark" src="http://localhost:1313//images/3.png"
+        <img class="logo-footer__image__dark" src="http://example.org//images/3.png"
           alt="Akhil&#39;s Blogs">
         
       </a>
@@ -615,7 +619,7 @@ Now, we will use the fine-tuned Mistral-7B model to generate text based on a giv
         
           
             
-            By <a class="article__author__name" href="http://localhost:1313/authors/admin/">Akhil Sharma</a>
+            By <a class="article__author__name" href="http://example.org/authors/admin/">Akhil Sharma</a>
             
           
         
@@ -649,7 +653,7 @@ Now, we will use the fine-tuned Mistral-7B model to generate text based on a giv
         
           
             
-            By <a class="article__author__name" href="http://localhost:1313/authors/admin/">Akhil Sharma</a>
+            By <a class="article__author__name" href="http://example.org/authors/admin/">Akhil Sharma</a>
             
           
         
@@ -705,8 +709,8 @@ Now, we will use the fine-tuned Mistral-7B model to generate text based on a giv
 
 
 
-<script src="http://localhost:1313/js/scripts.js"></script>
-<script src="http://localhost:1313/js/common.js"></script>
+<script src="/js/scripts.min.9f3cf5b2b6c4463ef886d440f223f220f61d53a46d68250dbf654036da0c12ad.js"></script>
+<script src="/js/common.min.287d0748a45a48b4d71d80d5eccd078f3d6e0b41cd075d2f78bff2b6ef6d76d1.js"></script>
 
 
 </body>
