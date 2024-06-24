@@ -30,7 +30,7 @@ The journey begins with setting up our Python environment, ensuring we have all 
 !pip install sentencepiece
 ```
 
-Here’s what’s happening:
+Here’s what’s happening: 
 
 - **bitsandbytes:** This library optimizes the memory and speed for large machine learning models, especially those used in natural language processing (NLP).
 - **transformers:** We fetch the latest `transformers` library from Hugging Face, which provides us with the necessary tools and models for state-of-the-art NLP.
