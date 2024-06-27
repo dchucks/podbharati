@@ -45,7 +45,7 @@ notebook_login()
 
 Add your data set to the root directory in the Colab under the name train.csv. The AutoTrain command will look for your data there under that name.
 
-If you don't have a dataset and want to try finetuning on an example dataset,  you can run these commands below to get an example data set and save it to train.csv
+If you don't have a dataset and want to try finetuning on an example dataset, you can run these commands below to get an example data set and save it to train.csv
 
 ```python
 !git clone https://github.com/joshbickett/finetune-llama-2.git
@@ -83,7 +83,6 @@ Make sure to add the LoRA Target Modules to be trained `--target-modules q_proj,
 
 **after making those changes and running the code cell, you should now have successfully uploaded the model to Hugging Face.**
 
-
 ### Step 5: Uploading and Verifying the Model
 
 Upon completion of the training process, your model is automatically uploaded to Hugging Face under your specified repository. You can verify the upload by visiting your Hugging Face profile and navigating to the repository.
@@ -106,7 +105,7 @@ model_name = "bn22/Mistral-7B-Instruct-v0.1-sharded" #"mistralai/Mistral-7B-Inst
 device = "cuda" # the device to load the model onto
 ```
 
-The command `!autotrain llm -h` shows help information for Autotrain's Large Language Model functionality, helping you familiarize yourself with available options. 
+The command `!autotrain llm -h` shows help information for Autotrain's Large Language Model functionality, helping you familiarize yourself with available options.
 
 The `peft` library stands for "Parameter-Efficient Fine-Tuning" and optimizes memory and computational efficiency during fine-tuning. The `accelerate` library by Hugging Face streamlines and speeds up the training of large models, while `bitsandbytes` provides efficient quantization and memory optimization, particularly useful for large models.
 
@@ -124,9 +123,10 @@ bnb_config = transformers.BitsAndBytesConfig(
     bnb_4bit_compute_dtype=torch.bfloat16
 )
 ```
+
 To efficiently load the Mistral-7B model, we use BitsAndBytesConfig from the transformers library. This configuration enables 4-bit precision (load_in_4bit=True), applies double quantization (bnb_4bit_use_double_quant=True),
 
- uses non-finite 4-bit quantization (bnb_4bit_quant_type="nf4"), and sets the computation type to bfloat16 (bnb_4bit_compute_dtype=torch.bfloat16). These settings significantly reduce memory usage and maintain performance, making it feasible to handle large models on limited-resource hardware like GPUs.
+uses non finite 4-bit quantization (bnb_4bit_quant_type="nf4"), and sets the computation type to bfloat16 (bnb_4bit_compute_dtype=torch.bfloat16). These settings significantly reduce memory usage and maintain performance, making it feasible to handle large models on limited-resource hardware like GPUs.
 
 **Loading the Model with Quantazation**
 
@@ -141,9 +141,10 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map='auto'
 )
 ```
+
 This step initializes the Mistral-7B model with the specified quantization settings to optimize memory usage and performance, automatically distributing the model across available hardware resources.
 
-### Step 7: Applying Parameter-Efficient Fine-Tuning and loading the Tokenizer**
+### Step 7: Applying Parameter-Efficient Fine-Tuning and loading the Tokenizer\*\*
 
 In this step, we apply the parameter-efficient fine-tuning (PEFT) configuration to our model and load the tokenizer. We also set the beginning-of-sequence token ID and define stop token IDs.
 
@@ -156,6 +157,7 @@ stop_token_ids = [0]
 
 print(f"Successfully loaded the model {model_name} into memory")
 ```
+
 We enhance our model with PEFT (PeftModel.from_pretrained), which applies the fine-tuning configuration specified by adapters_name to the pre-trained model. We then load the tokenizer (AutoTokenizer.from_pretrained) for handling text input and output, setting its beginning-of-sequence token ID (tokenizer.bos_token_id = 1).
 
 We also define stop token IDs (stop_token_ids = [0]), which are tokens indicating where the model should stop generating text. Finally, we print a confirmation message to indicate successful model loading.
@@ -177,4 +179,4 @@ print(decoded[0])
 
 In this step, we prompt the fine-tuned Mistral-7B model to generate text. First, we define an input prompt (text), encode it using the tokenizer, and prepare it for the model. We then move the model to the GPU (device) for efficient processing.
 
- The model generates text based on the prompt, allowing up to 200 new tokens and using sampling for diversity (`model.generate`). The generated token IDs are decoded back into readable text (`tokenizer.batch_decode`), and the result is printed. This showcases how to use the fine-tuned model to create customized outputs from specific prompts.
+The model generates text based on the prompt, allowing up to 200 new tokens and using sampling for diversity (`model.generate`). The generated token IDs are decoded back into readable text (`tokenizer.batch_decode`), and the result is printed. This showcases how to use the fine-tuned model to create customized outputs from specific prompts.
