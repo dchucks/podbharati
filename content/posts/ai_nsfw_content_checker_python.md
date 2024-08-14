@@ -2,10 +2,9 @@
 title: How to Build an AI NSFW Content Checker with Python
 date: 2023-12-18 15:01:35 +0300
 authors: [admin]
-image: 'https://wallpaperaccess.com/full/5927932.jpg'
+image: "https://wallpaperaccess.com/full/5927932.jpg"
 featured: true
 ---
-
 
 In today’s digital age, monitoring and filtering Not Safe For Work (NSFW) content is crucial for maintaining professional and age-appropriate environments. Whether you’re a developer looking to integrate content moderation into your app, or just curious about how AI can assist in distinguishing safe from unsafe content, building an AI NSFW content checker can be a fascinating project. This blog post will guide you through creating an AI NSFW content checker using Python, Streamlit, and OpenNSFW2. We'll break down each step of the code, making it accessible for both beginners and seasoned programmers.
 
@@ -119,10 +118,11 @@ We call our `predict_nsfw` function and process the probability, displaying it i
 
 Finally, we run the Streamlit app and use `localtunnel` to make our local web server publicly accessible. This lets us share our NSFW checker with the world.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
 
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 

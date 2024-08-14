@@ -1,8 +1,8 @@
 ---
-title: 'Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems'
+title: "Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://wallpapercave.com/wp/wp5954148.jpg'
+image: "https://wallpapercave.com/wp/wp5954148.jpg"
 ---
 
 The RAG LangChain Tutorial represents a pinnacle in leveraging AI to transform unstructured data into actionable insights through a question-answering (QA) chain. This sophisticated process involves several key steps, from data ingestion to information retrieval and response generation, each underpinned by advanced coding and machine learning techniques.
@@ -92,6 +92,8 @@ Through each step of the RAG LangChain Tutorial, from data loading and splitting
 
 In summary, the RAG LangChain Tutorial offers an exhaustive exploration into the construction of an AI-driven QA system, highlighting the sophisticated integration of technologies like LangChain, HuggingFace, and OpenAI. Each code segment is meticulously crafted to contribute to the overarching goal of transforming raw data into a rich, interactive dialogue platform, paving the way for future advancements in AI and machine learning applications.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

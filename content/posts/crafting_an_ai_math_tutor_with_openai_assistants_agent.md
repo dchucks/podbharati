@@ -1,8 +1,8 @@
 ---
-title: 'Crafting an AI Math Tutor with OpenAI Assistants Agent'
+title: "Crafting an AI Math Tutor with OpenAI Assistants Agent"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://e1.pxfuel.com/desktop-wallpaper/379/607/desktop-wallpaper-artwork-digital-art-landscape-philipp-a-ulrich-pixel-art-pixelated-waterfall-trees-1920x960-spring-pixel-art.jpg'
+image: "https://e1.pxfuel.com/desktop-wallpaper/379/607/desktop-wallpaper-artwork-digital-art-landscape-philipp-a-ulrich-pixel-art-pixelated-waterfall-trees-1920x960-spring-pixel-art.jpg"
 ---
 
 Imagine stepping into a realm where every mathematical conundrum, from the simplest addition to the most complex calculus problem, is unraveled with the mere whisper of a query. This isn't the stuff of fantasy; it's the reality we're crafting with OpenAI's Assistants Agent. Today, we embark on a detailed odyssey to create a Math Tutor that's not just smart but also intuitively understands and aids in the labyrinth of mathematics.
@@ -50,6 +50,7 @@ agent = OpenAIAssistantAgent.from_new(
 ```
 
 In this arcane configuration:
+
 - `name`: "Math Tutor" is christened, bringing identity to our AI entity.
 - `instructions`: We inscribe the core directive for our tutor, empowering it to delve into the mathematical abyss and emerge with solutions.
 - `openai_tools`: Armed with the `code_interpreter`, our tutor is not merely a sage but a wizard of code, capable of crafting and deciphering computational spells.
@@ -80,6 +81,8 @@ As we conclude this saga, remember that what we've crafted is more than a tool; 
 
 Step forth, intrepid learner, with your AI Math Tutor by your side, and transform every mathematical challenge into an opportunity for discovery and wonder in this grand adventure of education and technology!
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

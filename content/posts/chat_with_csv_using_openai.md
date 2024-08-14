@@ -120,6 +120,8 @@ Once you've got the basics down, why stop there? Think about adding more feature
 
 Congratulations, you've just created a "Chat with CSV OpenAI" project! This is more than a technical achievement; it's a step into the future of data interaction. The skills you've learned here are just the beginning. Keep exploring, keep coding, and most importantly, keep the conversation with your data going!
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

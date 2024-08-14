@@ -107,9 +107,11 @@ outputs = model.generate(**inputs, max_length=512)
 
 This step demonstrates the practical application of the fine-tuned model, showcasing its ability to generate coherent and contextually relevant text based on the training it received.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 

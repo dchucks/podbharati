@@ -1,5 +1,5 @@
 ---
-title: 'LangChain AutoGPT Crafting a YouTube GPT Creator with Streamlit'
+title: "LangChain AutoGPT Crafting a YouTube GPT Creator with Streamlit"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -177,7 +177,8 @@ Then, to expose our app to the internet:
 
 Localtunnel creates a public URL for accessing the app running on Colab's local server, bridging the gap between the development environment and potential users.
 
+### Learn How To Build AI Projects
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

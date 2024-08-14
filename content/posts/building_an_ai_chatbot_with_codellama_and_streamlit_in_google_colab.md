@@ -197,9 +197,11 @@ To make our AI model accessible and interactive, we'll create a web application 
 
    These commands start the Streamlit app and print the public URL where the app is accessible. The `localtunnel` command creates a public link to our local server running on port 8501, allowing external access to our Streamlit app.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ## Conclusion
 

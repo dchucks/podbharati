@@ -1,5 +1,5 @@
 ---
-title: 'MPT-30B Chatbot with LangChain A Comprehensive Guide to Building Advanced Conversational AI'
+title: "MPT-30B Chatbot with LangChain A Comprehensive Guide to Building Advanced Conversational AI"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -14,6 +14,7 @@ To kick things off, you'll need to prepare your environment. This involves insta
 ```
 
 **Explanation of Libraries**:
+
 - **Transformers**: This library is at the forefront of providing easy-to-use APIs for pretrained models like MPT-30B.
 - **Accelerate**: Helps manage model training and inference on multiple devices, making your experiments smoother and faster.
 - **Einops**: A versatile tool for tensor manipulation, essential for processing inputs and outputs in model pipelines.
@@ -41,6 +42,7 @@ print(f"Model loaded on {device}")
 ```
 
 **Deep Dive**:
+
 - **AutoModelForCausalLM**: Chooses the right causal language model for generating text based on the input configuration.
 - **device**: Utilizes GPU if available for better performance, otherwise falls back to CPU.
 - **load_in_8bit**: Utilizes the `bitsandbytes` library to reduce model size and accelerate inference by loading the model in 8-bit precision.
@@ -75,6 +77,7 @@ stopping_criteria = StoppingCriteriaList([StopOnTokens()])
 ```
 
 **Insights**:
+
 - **StoppingCriteriaList**: Combines multiple stopping conditions to fine-tune where the model ceases text generation.
 - **StopOnTokens**: Custom condition that halts generation when predefined token sequences are detected, preventing rambling outputs.
 
@@ -100,7 +103,7 @@ generate_text = transformers.pipeline(
 
 LangChain enhances
 
- our chatbot by facilitating more sophisticated AI applications and conversational memory management:
+our chatbot by facilitating more sophisticated AI applications and conversational memory management:
 
 ```python
 from langchain import PromptTemplate, LLMChain
@@ -139,6 +142,8 @@ Congratulations! You have built a sophisticated MPT-30B chatbot integrated with 
 
 Feel free to explore further by adjusting the conversation templates, experimenting with different settings for the model, and integrating additional data sources for more robust interactions.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

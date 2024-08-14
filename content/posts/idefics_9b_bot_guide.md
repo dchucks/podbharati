@@ -103,6 +103,7 @@ description="Enter an image URL and a text prompt to generate descriptive text. 
 iface.launch()
 
 ```
+
 The final step involves setting up a Gradio interface, which allows users to input an image URL and a text prompt, and see the model's output in real-time. This makes the model interactive and user-friendly.
 
 ### Conclusion
@@ -113,4 +114,6 @@ Experiment with different images and prompts to see how the model performs acros
 
 ### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

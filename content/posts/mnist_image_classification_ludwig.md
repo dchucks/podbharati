@@ -1,5 +1,5 @@
 ---
-title: 'Master MNIST Image Classification with Ludwig'
+title: "Master MNIST Image Classification with Ludwig"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -8,6 +8,7 @@ MNIST dataset, containing images of handwritten digits, is a cornerstone in the 
 ### Setting Up Your Environment
 
 #### Install Ludwig
+
 First, ensure your environment is ready to run Ludwig. This tutorial is designed for Google Colab, but you can adapt it for any Python environment. Begin by uninstalling previous TensorFlow versions and installing Ludwig directly from the repository:
 
 ```python
@@ -18,6 +19,7 @@ First, ensure your environment is ready to run Ludwig. This tutorial is designed
 ### Loading the Dataset
 
 #### Import Required Libraries
+
 After installation, import necessary libraries and set up your environment:
 
 ```python
@@ -32,6 +34,7 @@ np.random.seed(31)  # For reproducibility
 ```
 
 #### Load MNIST Data
+
 Use Ludwig’s built-in function to load the MNIST dataset:
 
 ```python
@@ -39,6 +42,7 @@ train_df, test_df, _ = mnist.load(split=True)
 ```
 
 ### Exploring the Data
+
 It’s crucial to understand the data you’re working with. Here’s how you can peek into the datasets:
 
 ```python
@@ -49,6 +53,7 @@ print(f"\nTest Dataset Sample:\n{test_df.sample(n=5)}")
 ### Visualizing the Data
 
 #### Plot Sample Images
+
 Visual feedback is vital in image classification tasks. Let’s plot some digit images from the dataset:
 
 ```python
@@ -76,6 +81,7 @@ plotDigitGrid(sample_df['image'], sample_df['label'], sample_df.index)
 ### Configuring the Ludwig Model
 
 #### Define the Model Configuration
+
 Set up the configuration dictionary for the model. This includes defining the type of input and output features:
 
 ```python
@@ -91,6 +97,7 @@ config = {
 ```
 
 #### Train the Model
+
 Initialize and train your Ludwig model using the configuration:
 
 ```python
@@ -104,6 +111,7 @@ train_stats, preprocessed_data, output_directory = model.train(dataset=train_df)
 ### Evaluating the Model
 
 #### Perform Evaluation
+
 Evaluate the model on the test dataset and visualize the performance:
 
 ```python
@@ -115,6 +123,7 @@ learning_curves(train_stats, output_feature_name='label')
 ```
 
 #### Predict and Display Test Samples
+
 Finally, let’s use the model to predict test samples and visualize them:
 
 ```python
@@ -127,10 +136,12 @@ _test_df['image'] = sample_test_df['image_path'].apply(plt.imread)
 plotDigitGrid(sample_test_df['image'], sample_test_df['label'], sample_test_df.index, y_hat=sample_test_df['label_predictions'])
 ```
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
-Congratulations! You’ve just completed a full cycle of training and evaluating an image classification model using Ludwig for the MNIST dataset. This tutorial covered everything from setting up Ludwig, loading and preparing data, configuring and training the model, to evaluating and visualizing the results. Dive deeper by adjusting the model's architecture or preprocessing steps to achieve better accuracy.
 
+Congratulations! You’ve just completed a full cycle of training and evaluating an image classification model using Ludwig for the MNIST dataset. This tutorial covered everything from setting up Ludwig, loading and preparing data, configuring and training the model, to evaluating and visualizing the results. Dive deeper by adjusting the model's architecture or preprocessing steps to achieve better accuracy.

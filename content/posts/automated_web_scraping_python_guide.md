@@ -2,7 +2,7 @@
 title: How to Build an Automated Web Scraping Tool with Python
 date: 2024-02-02 15:01:35 +0300
 authors: [admin]
-image: 'https://i.pinimg.com/originals/28/98/54/289854dae67ede707890974d5b209100.png'
+image: "https://i.pinimg.com/originals/28/98/54/289854dae67ede707890974d5b209100.png"
 featured: true
 ---
 
@@ -13,29 +13,36 @@ Before we dive into the coding, ensure you have Python installed on your system.
 ### Detailed Code Explanation
 
 1. **Setting up the environment:**
+
    ```python
    !pip install beautifulsoup4 requests
    !pip install openai~=1.3.5
    ```
+
    These lines install necessary Python libraries. `beautifulsoup4` is used for parsing HTML and XML documents, making it easier to scrape data from web pages. The `requests` library is crucial for making HTTP requests to web servers — essentially how we fetch the webpage. We also install a specific version of the `openai` library to interact with OpenAI's API for text summarization.
 
 2. **Importing Libraries:**
+
    ```python
    import openai
    import requests
    from bs4 import BeautifulSoup
    import os
    ```
+
    Here, we import the libraries we've just installed. `openai` is used for accessing the AI summarization capabilities. `BeautifulSoup` from `bs4` is what we’ll use to navigate and search through the HTML we scrape. `os` is not directly used in this snippet but is generally useful for interacting with the operating system, like reading and writing files.
 
 3. **Function to Set API Key:**
+
    ```python
    def set_api_key(key):
        openai.api_key = key
    ```
+
    This function is straightforward; it sets the API key for your OpenAI account, allowing you to make requests to their API. Keeping this in a function helps with reusability and organization.
 
 4. **Web Scraping Function:**
+
    ```python
    def scrape_website(url):
        response = requests.get(url)
@@ -44,9 +51,11 @@ Before we dive into the coding, ensure you have Python installed on your system.
        else:
            return None
    ```
+
    `scrape_website` takes a URL as input and makes an HTTP GET request to it. If the request is successful (`status_code` 200), it returns the HTML content of the page. Otherwise, it returns `None`.
 
 5. **Summarize the Scraped Content:**
+
    ```python
    def summarize_content(content):
        response = openai.Completion.create(
@@ -57,6 +66,7 @@ Before we dive into the coding, ensure you have Python installed on your system.
        )
        return response.choices[0].text.strip()
    ```
+
    This function uses the OpenAI API to summarize the text content scraped from a website. It sends the content as a prompt to the GPT model, which returns a summarized version of the text.
 
 6. **Main Function:**
@@ -79,15 +89,19 @@ Before we dive into the coding, ensure you have Python installed on your system.
 ### How to Use This Project
 
 To use this project:
+
 - Replace `'your-api
 
 -key'` with your actual OpenAI API key.
+
 - Change `"https://www.example.com"` to the URL you wish to scrape.
 - Run the script to see the summary printed on your console.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 

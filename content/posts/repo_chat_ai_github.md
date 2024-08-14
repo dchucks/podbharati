@@ -1,8 +1,7 @@
 ---
-title: 'Repo Chat Revolutionizing Interaction with GitHub Repositories through AI'
+title: "Repo Chat Revolutionizing Interaction with GitHub Repositories through AI"
 date: 2024-02-02T18:31:22+05:30
 ---
-
 
 In the fast-paced world of software development, accessing and understanding vast repositories of code can be daunting. Repo Chat represents a breakthrough, merging the power of AI with GitHub’s extensive codebases to create a conversational interface. This innovative approach allows users to engage with repositories in a dynamic, interactive manner, making it easier to navigate and understand complex code structures.
 
@@ -189,11 +188,12 @@ retriever = db.as_retriever(
 - `search_kwargs={"k": 8}`: Sets search parameters, where `"k": 8` probably limits the search to the top 8 most relevant results.
 - `retriever = db.as_retriever(...)`: Creates a retriever object from the `db` vector store, configured for the specified search type and parameters.
 
-
 ### Conclusion
 
 Repo Chat represents a significant advancement in how we interact with code repositories. By enabling conversational AI to access and interpret code in GitHub repositories, it provides a user-friendly, efficient, and interactive way to explore and understand complex codebases. This innovation not only saves time but also enhances the understanding of large-scale projects, making it an invaluable tool for developers, data scientists, and tech enthusiasts.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

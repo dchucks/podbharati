@@ -1,8 +1,8 @@
 ---
-title: 'Reinforcement Learning with Human Feedback Building a Custom Dataset for Any Model'
+title: "Reinforcement Learning with Human Feedback Building a Custom Dataset for Any Model"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://wallpaperaccess.com/full/9033949.jpg'
+image: "https://wallpaperaccess.com/full/9033949.jpg"
 ---
 
 Reinforcement Learning with Human Feedback (RLHF) is a powerful technique in machine learning that combines the strengths of supervised learning with reinforcement learning. It enables models to learn from both structured data and iterative feedback, enhancing their predictive accuracy and adaptability. In this guide, we'll take you through setting up RLHF for any model using a custom dataset. By the end of this post, you'll know how to configure, train, and deploy your model efficiently.
@@ -117,9 +117,11 @@ trainer.evaluate()
 trainer.save_model("tinystarcoder-rlhf-model")
 ```
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 **Conclusion**
 Implementing RLHF with a custom dataset is a robust way to enhance your models' performance by integrating human-like understanding and feedback. This guide provides a comprehensive walkthrough from setup to deployment, ensuring you have a solid foundation to build upon for your projects.

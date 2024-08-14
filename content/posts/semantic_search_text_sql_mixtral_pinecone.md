@@ -158,9 +158,11 @@ The advanced capabilities of Mixtral and Pinecone extend beyond basic Text to SQ
 
 While exploring Semantic Search-Enhanced Text to SQL, we encounter challenges like handling ambiguous queries, ensuring data privacy, and managing the computational demands of real-time semantic processing. Addressing these challenges and envisioning future advancements, we pave the way for more intelligent and efficient database systems.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 

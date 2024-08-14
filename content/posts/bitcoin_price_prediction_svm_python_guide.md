@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python
 date: 2022-10-08 18:05:55 +0300
-image: 'https://i.pinimg.com/originals/86/11/44/8611446b59bab9340488be8414985807.gif'
+image: "https://i.pinimg.com/originals/86/11/44/8611446b59bab9340488be8414985807.gif"
 authors: [admin]
 featured: true
 ---
@@ -116,7 +116,8 @@ print(data.tail(predictionDays))
 
 This section not only reveals the model's predictions for the next 30 days but also juxtaposes these forecasts with the actual prices, providing a stark comparison that highlights the model's predictive prowess or potential shortcomings.
 
+### Learn How To Build AI Projects
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

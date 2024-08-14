@@ -1,5 +1,5 @@
 ---
-title: 'Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face'
+title: "Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -130,9 +130,11 @@ Post-training, conducting thorough evaluations and benchmarks helps in assessing
 
 Deploying a model like GPT-Neo-X-20B, especially in a production environment, necessitates careful planning. Considerations include the computational resources needed for running the model, the potential need for model quantization for efficiency, and ensuring that the deployment infrastructure can handle the model's demands.
 
-### Learn How To Build AI Projects 
+### Learn How To Build AI Projects
 
-Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Golang where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 
