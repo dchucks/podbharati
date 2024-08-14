@@ -1,12 +1,10 @@
 ---
-title: 'Building a Healthcare BOT with Mixtral and Haystack on PubMed Data'
+title: "Building a Healthcare BOT with Mixtral and Haystack on PubMed Data"
 description: In the rapidly evolving landscape of medical informatics, the integration of AI technologies like Mixtral and Haystack with the extensive PubMed database heralds a new era in healthcare information systems. This detailed guide will navigate through the process of crafting an advanced Healthcare BOT, designed to streamline medical information retrieval, offering precise and up-to-date insights derived from millions of scholarly articles.
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://i.pinimg.com/originals/b5/ce/26/b5ce26ea33b3f6544828cc1502949278.jpg'
+image: "https://i.pinimg.com/originals/b5/ce/26/b5ce26ea33b3f6544828cc1502949278.jpg"
 ---
-
-
 
 ### Extensive Guide to Crafting an Advanced Healthcare BOT
 
@@ -77,6 +75,10 @@ The BOT, powered by deep learning models like Mixtral, represents a significant 
 #### Ethical Considerations and Data Privacy
 
 While developing the Healthcare BOT, ethical considerations and data privacy are paramount. Ensuring the confidentiality and integrity of user queries and the information retrieved from PubMed is essential in maintaining trust and adhering to healthcare compliance standards.
+
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 

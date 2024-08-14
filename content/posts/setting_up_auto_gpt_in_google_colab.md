@@ -1,8 +1,7 @@
 ---
-title: 'Unleashing AI Power Setting Up Auto GPT in Google Colab'
+title: "Unleashing AI Power Setting Up Auto GPT in Google Colab"
 date: 2024-02-02T18:31:22+05:30
 ---
-
 
 In the ever-evolving world of artificial intelligence, the need for accessible and efficient AI tools is paramount. Enter Auto GPT, a game-changer in automating AI tasks, and Google Colab, the perfect playground for AI enthusiasts. This blog will guide you through setting up Auto GPT in Google Colab, ensuring a smooth ride into the automation of AI tasks.
 
@@ -17,6 +16,7 @@ Google Colab provides a free, cloud-based environment that supports the heavy co
 ### Step-by-Step Guide to Setup Auto GPT in Colab
 
 #### 1. Cloning the GitHub Repository
+
 Start by cloning the Auto GPT repository to your Colab environment using the command:
 
 ```
@@ -26,6 +26,7 @@ Start by cloning the Auto GPT repository to your Colab environment using the com
 This command fetches the stable branch of the Auto GPT code from GitHub, setting the stage for your AI exploration.
 
 #### 2. Navigating to the Auto GPT Directory
+
 Next, change your directory to the Auto GPT folder with:
 
 ```
@@ -35,6 +36,7 @@ cd Auto-GPT
 This step is crucial as it directs all subsequent commands to the right location.
 
 #### 3. Making Scripts Executable
+
 Before running the Auto GPT, ensure the script is executable:
 
 ```
@@ -44,6 +46,7 @@ Before running the Auto GPT, ensure the script is executable:
 This command modifies the script’s permissions, allowing it to be executed as a program.
 
 #### 4. Running the Auto GPT
+
 Finally, kickstart the Auto GPT with:
 
 ```
@@ -64,3 +67,6 @@ To get the most out of Auto GPT, consider leveraging Colab’s GPU resources for
 
 Setting up Auto GPT in Google Colab is a straightforward process that unlocks a world of possibilities in AI automation. Whether you're a seasoned developer or just starting, this guide is your launchpad into the exciting world of automated AI.
 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

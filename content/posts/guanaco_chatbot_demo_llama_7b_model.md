@@ -1,13 +1,12 @@
 ---
-title: 'Guanaco Chatbot Demo Leveraging the Power of LLaMA-7B for Advanced Conversations'
+title: "Guanaco Chatbot Demo Leveraging the Power of LLaMA-7B for Advanced Conversations"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
 featured: true
-image: 'https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-city-sunset_23-2151120968.jpg?t=st=1713904078~exp=1713907678~hmac=3896050f64edb5fa5b5b37f9ec3e603c1df3a7203751bebeb399bdaf68c42b50&w=1060'
+image: "https://img.freepik.com/free-photo/8-bit-graphics-pixels-scene-with-city-sunset_23-2151120968.jpg?t=st=1713904078~exp=1713907678~hmac=3896050f64edb5fa5b5b37f9ec3e603c1df3a7203751bebeb399bdaf68c42b50&w=1060"
 ---
 
 In today's fast-evolving digital landscape, the fusion of sophisticated AI models with interactive platforms is not just innovative; it's revolutionary. The Guanaco Chatbot, powered by the LLaMA-7B model, stands at the forefront of this evolution, offering a glimpse into the future of conversational AI. This blog post will take you on a journey through the setup and execution of the Guanaco Chatbot demo, showcasing its remarkable capabilities and the technical prowess of the LLaMA-7B model.
-
 
 ## Overview of Guanaco Chatbot and LLaMA-7B
 
@@ -30,7 +29,7 @@ The journey begins with setting up our Python environment, ensuring we have all 
 !pip install sentencepiece
 ```
 
-Here’s what’s happening: 
+Here’s what’s happening:
 
 - **bitsandbytes:** This library optimizes the memory and speed for large machine learning models, especially those used in natural language processing (NLP).
 - **transformers:** We fetch the latest `transformers` library from Hugging Face, which provides us with the necessary tools and models for state-of-the-art NLP.
@@ -119,3 +118,7 @@ The Guanaco Chatbot, powered by the LLaMA-7B model, is more than just a demonstr
 Our journey through the Guanaco Chatbot demo with the LLaMA-7B model showcases a blend of advanced AI capabilities and user-friendly interfaces, illustrating the potential of modern chatbots. This demo not only demonstrates the practicality of integrating such sophisticated models into conversational agents but also opens the door to exploring further innovations in AI-driven communication.
 
 As we continue to push the boundaries of what AI can achieve, the Guanaco Chatbot stands as a testament to the incredible potential of these technologies to transform our digital interactions. The future of conversational AI is bright, and it’s demos like these that light the way.
+
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

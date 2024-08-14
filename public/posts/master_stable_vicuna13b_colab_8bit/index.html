@@ -59,25 +59,16 @@ Setting Up Your Environment Installing Necessary Libraries !pip -q install git&#
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -317,6 +308,8 @@ Setting Up Your Environment Installing Necessary Libraries !pip -q install git&#
 <p>Prompts that request stories or imaginative scenarios showcase the model&rsquo;s creative capacity, revealing its potential for generating engaging and novel content.</p>
 <h3 id="advanced-use-cases">Advanced Use Cases</h3>
 <p>Beyond simple questions and stories, we explore the model&rsquo;s reasoning and explanatory abilities, asking it to perform tasks like step-by-step logical deductions or crafting messages with specific intentions, such as open letters or philosophical discussions.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>Through this comprehensive guide, you&rsquo;ve experienced the full spectrum of interacting with Stable Vicuna13B in an 8-bit setting on Colab. From technical setup to engaging with the model in creative and informative dialogues, this journey has provided you with a deep understanding of running advanced AI models efficiently in cloud environments. With these insights and skills, you&rsquo;re well-equipped to leverage the power of Stable Vicuna13B for a wide range of applications, pushing the boundaries of what&rsquo;s possible with AI technology.</p>
 

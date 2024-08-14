@@ -199,5 +199,9 @@ print('\n\n', tokenizer.decode(output_tokens[0], skip_special_tokens=True))
 ```
 In the final section, we demonstrate how to load and use the fine-tuned model. We tokenize a sample prompt and generate text using the model, showcasing the practical application of our fine-tuned language model.
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
 ## Conclusion
 Congratulations! You've just navigated through the comprehensive setup and execution of the PEFT Fine-tune Bloom-560m-tagger project. By breaking down each step and understanding the code, you've gained valuable insights into the world of machine learning and model fine-tuning. This hands-on project not only enhances your coding skills but also deepens your understanding of advanced AI methodologies. Now, it's your turn to experiment, explore, and excel in your machine learning journey!

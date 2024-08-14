@@ -57,25 +57,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -379,7 +370,9 @@ To train the model with RLHF, we set up a <code>RewardTrainer</code> and specify
 After training, it&rsquo;s essential to evaluate and save the model:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">trainer</span><span class="o">.</span><span class="n">evaluate</span><span class="p">()</span>
 </span></span><span class="line"><span class="cl"><span class="n">trainer</span><span class="o">.</span><span class="n">save_model</span><span class="p">(</span><span class="s2">&#34;tinystarcoder-rlhf-model&#34;</span><span class="p">)</span>
-</span></span></code></pre></div><p><strong>Conclusion</strong>
+</span></span></code></pre></div><h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
+<p><strong>Conclusion</strong>
 Implementing RLHF with a custom dataset is a robust way to enhance your models&rsquo; performance by integrating human-like understanding and feedback. This guide provides a comprehensive walkthrough from setup to deployment, ensuring you have a solid foundation to build upon for your projects.</p>
 
         </div>

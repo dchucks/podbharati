@@ -59,25 +59,16 @@ Setting Up the Environment Before diving into the code, you need to set up your 
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -357,6 +348,8 @@ Setting Up the Environment Before diving into the code, you need to set up your 
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">!streamlit run app.py <span class="p">&amp;</span>&gt;/dev/null <span class="p">&amp;</span> curl ipv4.icanhazip.com
 </span></span><span class="line"><span class="cl">!npx localtunnel --port <span class="m">8501</span>
 </span></span></code></pre></div><p>This makes the app accessible via a public URL, allowing anyone to interact with the AI model and the uploaded PDF documents.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>Chat with PDF’s Mistral-7B transforms static documents into dynamic conversational entities, leveraging AI to make information retrieval interactive and efficient. By following this guide, you can create a web-based chat interface to interact with the content of PDF files, powered by the advanced capabilities of the Mistral-7B model.</p>
 

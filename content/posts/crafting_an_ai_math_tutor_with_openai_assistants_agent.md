@@ -79,3 +79,7 @@ This narrative is not just about constructing an AI entity but about reimagining
 As we conclude this saga, remember that what we've crafted is more than a tool; it’s a beacon of the future, where AI and human curiosity converge to illuminate the path of knowledge and understanding. With OpenAI's API and the `llama-index` library, we unlock a cosmos where learning is boundless, and every mathematical mystery is merely a question away from being solved.
 
 Step forth, intrepid learner, with your AI Math Tutor by your side, and transform every mathematical challenge into an opportunity for discovery and wonder in this grand adventure of education and technology!
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 

@@ -59,25 +59,16 @@ In-Depth Exploration of Fine-Tuning Microsoft Phi 1.">
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -320,6 +311,8 @@ In-Depth Exploration of Fine-Tuning Microsoft Phi 1.">
 </span></span><span class="line"><span class="cl"><span class="n">inputs</span> <span class="o">=</span> <span class="n">tokenizer</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;&#39;&#39;</span><span class="si">{</span><span class="n">dataset</span><span class="p">[</span><span class="s2">&#34;test&#34;</span><span class="p">][</span><span class="s1">&#39;text&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span><span class="si">}</span><span class="s1">&#39;&#39;&#39;</span><span class="p">,</span> <span class="n">return_tensors</span><span class="o">=</span><span class="s2">&#34;pt&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="n">outputs</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">generate</span><span class="p">(</span><span class="o">**</span><span class="n">inputs</span><span class="p">,</span> <span class="n">max_length</span><span class="o">=</span><span class="mi">512</span><span class="p">)</span>
 </span></span></code></pre></div><p>This step demonstrates the practical application of the fine-tuned model, showcasing its ability to generate coherent and contextually relevant text based on the training it received.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Fine-tuning Microsoft&rsquo;s Phi 1.5b model on the DialogStudio dataset is a comprehensive process that involves meticulous setup, data preparation, and model optimization. Through this detailed guide, you have gained insights into the intricacies of each step, from preprocessing and tokenization to training, evaluation, and deployment. This journey not only enhances the model&rsquo;s performance on specific tasks but also provides a blueprint for leveraging advanced AI tools in real-world applications, paving the way for innovative solutions in AI-driven industries.</p>
 

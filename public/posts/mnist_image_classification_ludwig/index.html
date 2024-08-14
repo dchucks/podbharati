@@ -59,25 +59,16 @@ Setting Up Your Environment Install Ludwig First, ensure your environment is rea
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -348,7 +339,9 @@ Setting Up Your Environment Install Ludwig First, ensure your environment is rea
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="n">_test_df</span><span class="p">[</span><span class="s1">&#39;image&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">sample_test_df</span><span class="p">[</span><span class="s1">&#39;image_path&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="n">plt</span><span class="o">.</span><span class="n">imread</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="n">plotDigitGrid</span><span class="p">(</span><span class="n">sample_test_df</span><span class="p">[</span><span class="s1">&#39;image&#39;</span><span class="p">],</span> <span class="n">sample_test_df</span><span class="p">[</span><span class="s1">&#39;label&#39;</span><span class="p">],</span> <span class="n">sample_test_df</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">y_hat</span><span class="o">=</span><span class="n">sample_test_df</span><span class="p">[</span><span class="s1">&#39;label_predictions&#39;</span><span class="p">])</span>
-</span></span></code></pre></div><h3 id="conclusion">Conclusion</h3>
+</span></span></code></pre></div><h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
+<h3 id="conclusion">Conclusion</h3>
 <p>Congratulations! You’ve just completed a full cycle of training and evaluating an image classification model using Ludwig for the MNIST dataset. This tutorial covered everything from setting up Ludwig, loading and preparing data, configuring and training the model, to evaluating and visualizing the results. Dive deeper by adjusting the model&rsquo;s architecture or preprocessing steps to achieve better accuracy.</p>
 
         </div>

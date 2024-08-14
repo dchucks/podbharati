@@ -57,25 +57,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -319,7 +310,6 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="c"># YAML configuration for fine-tuning</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">model_type</span><span class="p">:</span><span class="w"> </span><span class="l">llm</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">base_model</span><span class="p">:</span><span class="w"> </span><span class="l">meta-llama/Llama-2-7b-hf</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nn">...</span><span class="w">
 </span></span></span></code></pre></div><p>This YAML file is your roadmap for the model. It defines the structure, learning parameters, and fine-tuning specifics, guiding Ludwig on how to modify the base model to better fit your data.</p>
 <h4 id="training-the-model">Training the Model</h4>
 <p>With the configuration set, the next step is to launch the training process:</p>
@@ -327,6 +317,8 @@
 </span></span><span class="line"><span class="cl"><span class="n">results</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">train</span><span class="p">(</span><span class="n">dataset</span><span class="o">=</span><span class="n">df</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="n">predictions</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">test_examples</span><span class="p">)</span>
 </span></span></code></pre></div><p>Here, you train the model on your prepared dataset and then use it to predict new examples. This not only tests how well your model has learned but also gives you insights into any further tweaks that might be needed.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Fine-tuning the Llama2-7b with Ludwig offers a tailored approach to model enhancement for specific tasks. By meticulously following the steps outlined, you can fine-tune sophisticated AI solutions to achieve remarkable accuracy and efficiency</p>
 <p>tailored to your unique requirements. So, roll up your sleeves, delve into the code, and prepare to leverage your fine-tuned model in making smarter, more effective predictions.</p>

@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Language Barriers in Coding The Power of Code Translate AI'
+title: "Unlocking Language Barriers in Coding The Power of Code Translate AI"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -59,9 +59,9 @@ def translate_code(source_code, source_lang, target_lang):
         "Authorization": "Bearer YOUR_API_KEY",
         "Content-Type": "application/json"
     }
-    
+
     response = requests.post(api_url, json=payload, headers=headers)
-    
+
     if response.status_code == 200:
         # Assuming the API returns a JSON with the translated code in a field named 'translated_code'
         translated_code = response.json().get('translated_code', '')
@@ -130,3 +130,6 @@ The possibilities with Code Translate AI are vast. From simplifying cross-platfo
 
 Code Translate AI stands as a testament to the incredible advancements in machine learning and artificial intelligence. It's not just about making life easier for developers; it's about creating a more interconnected, versatile coding landscape. With the ongoing enhancements in AI, the future of code translation looks promising, promising a world where language is no longer a barrier, not even in the realm of programming.
 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

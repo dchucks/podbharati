@@ -193,3 +193,7 @@ retriever = db.as_retriever(
 ### Conclusion
 
 Repo Chat represents a significant advancement in how we interact with code repositories. By enabling conversational AI to access and interpret code in GitHub repositories, it provides a user-friendly, efficient, and interactive way to explore and understand complex codebases. This innovation not only saves time but also enhances the understanding of large-scale projects, making it an invaluable tool for developers, data scientists, and tech enthusiasts.
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 

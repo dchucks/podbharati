@@ -127,6 +127,10 @@ _test_df['image'] = sample_test_df['image_path'].apply(plt.imread)
 plotDigitGrid(sample_test_df['image'], sample_test_df['label'], sample_test_df.index, y_hat=sample_test_df['label_predictions'])
 ```
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
 ### Conclusion
 Congratulations! You’ve just completed a full cycle of training and evaluating an image classification model using Ludwig for the MNIST dataset. This tutorial covered everything from setting up Ludwig, loading and preparing data, configuring and training the model, to evaluating and visualizing the results. Dive deeper by adjusting the model's architecture or preprocessing steps to achieve better accuracy.
 

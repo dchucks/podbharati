@@ -138,3 +138,7 @@ print(res)
 Congratulations! You have built a sophisticated MPT-30B chatbot integrated with LangChain. This setup not only allows the chatbot to generate contextually appropriate responses but also adapts to the conversation's flow, making it an engaging and intelligent conversational partner.
 
 Feel free to explore further by adjusting the conversation templates, experimenting with different settings for the model, and integrating additional data sources for more robust interactions.
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 

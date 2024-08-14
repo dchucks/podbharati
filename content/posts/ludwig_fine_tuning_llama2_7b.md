@@ -1,5 +1,5 @@
 ---
-title: 'Ludwig Fine-Tuning for Llama2-7b A Step-by-Step Guide'
+title: "Ludwig Fine-Tuning for Llama2-7b A Step-by-Step Guide"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -90,7 +90,6 @@ Ludwig's configuration flexibility is one of its strongest features, allowing de
 # YAML configuration for fine-tuning
 model_type: llm
 base_model: meta-llama/Llama-2-7b-hf
-...
 ```
 
 This YAML file is your roadmap for the model. It defines the structure, learning parameters, and fine-tuning specifics, guiding Ludwig on how to modify the base model to better fit your data.
@@ -107,9 +106,12 @@ predictions = model.predict(test_examples)
 
 Here, you train the model on your prepared dataset and then use it to predict new examples. This not only tests how well your model has learned but also gives you insights into any further tweaks that might be needed.
 
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
+
 ### Conclusion
 
 Fine-tuning the Llama2-7b with Ludwig offers a tailored approach to model enhancement for specific tasks. By meticulously following the steps outlined, you can fine-tune sophisticated AI solutions to achieve remarkable accuracy and efficiency
 
- tailored to your unique requirements. So, roll up your sleeves, delve into the code, and prepare to leverage your fine-tuned model in making smarter, more effective predictions.
-
+tailored to your unique requirements. So, roll up your sleeves, delve into the code, and prepare to leverage your fine-tuned model in making smarter, more effective predictions.

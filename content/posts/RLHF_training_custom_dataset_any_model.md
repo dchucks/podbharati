@@ -117,5 +117,9 @@ trainer.evaluate()
 trainer.save_model("tinystarcoder-rlhf-model")
 ```
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
 **Conclusion**
 Implementing RLHF with a custom dataset is a robust way to enhance your models' performance by integrating human-like understanding and feedback. This guide provides a comprehensive walkthrough from setup to deployment, ensuring you have a solid foundation to build upon for your projects.

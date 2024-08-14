@@ -57,25 +57,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -343,6 +334,8 @@
 <p>The BOT, powered by deep learning models like Mixtral, represents a significant advancement in AI&rsquo;s role in healthcare. It exemplifies how sophisticated algorithms can sift through extensive data sets to provide concise, relevant answers to complex medical inquiries.</p>
 <h4 id="ethical-considerations-and-data-privacy">Ethical Considerations and Data Privacy</h4>
 <p>While developing the Healthcare BOT, ethical considerations and data privacy are paramount. Ensuring the confidentiality and integrity of user queries and the information retrieved from PubMed is essential in maintaining trust and adhering to healthcare compliance standards.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Crafting an advanced Healthcare BOT with Mixtral, Haystack, and PubMed signifies a leap forward in medical informatics, merging AI&rsquo;s analytical power with the exhaustive knowledge repository of PubMed. This guide not only illustrates the technical journey of developing the BOT but also emphasizes its impact on enhancing accessibility to medical information. With this BOT, medical professionals, researchers, and the general public gain a powerful tool, offering streamlined access to comprehensive and up-to-date medical insights, thereby fostering informed healthcare decisions and promoting a broader understanding of medical science.</p>
 

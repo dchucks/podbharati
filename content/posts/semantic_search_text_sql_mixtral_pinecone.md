@@ -1,5 +1,5 @@
 ---
-title: 'Enhancing Text to SQL Conversion with Semantic Search A Deep Dive into Mixtral and Pinecone'
+title: "Enhancing Text to SQL Conversion with Semantic Search A Deep Dive into Mixtral and Pinecone"
 date: 2024-02-02T18:31:22+05:30
 ---
 
@@ -150,7 +150,6 @@ iface.launch()
 - `gr.Interface(fn=ask, ...)`: This creates a new Gradio interface. The `fn=ask` argument specifies that the `ask` function will be called when the user submits a query.
 - `iface.launch()`: This command launches the Gradio interface, making it accessible via a web browser, allowing users to interact with the semantic search-enhanced Text to SQL system.
 
-
 #### Exploring Advanced Features and Applications
 
 The advanced capabilities of Mixtral and Pinecone extend beyond basic Text to SQL conversion, offering potential for development in areas such as dynamic query optimization, context-aware data retrieval, and machine learning-driven database management.
@@ -158,6 +157,10 @@ The advanced capabilities of Mixtral and Pinecone extend beyond basic Text to SQ
 #### Navigating Challenges and Future Prospects
 
 While exploring Semantic Search-Enhanced Text to SQL, we encounter challenges like handling ambiguous queries, ensuring data privacy, and managing the computational demands of real-time semantic processing. Addressing these challenges and envisioning future advancements, we pave the way for more intelligent and efficient database systems.
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
 
 ### Conclusion
 

@@ -91,3 +91,7 @@ The tutorial also hints at the possibility of extending this QA system to suppor
 Through each step of the RAG LangChain Tutorial, from data loading and splitting to embedding, retrieval, and generation, we unravel the intricacies of building a robust QA system powered by AI. The code not only serves as a functional guide but also as a conceptual framework, demonstrating how different components of AI and machine learning can be harmoniously integrated to create intelligent, responsive systems capable of processing vast amounts of unstructured data to generate meaningful answers.
 
 In summary, the RAG LangChain Tutorial offers an exhaustive exploration into the construction of an AI-driven QA system, highlighting the sophisticated integration of technologies like LangChain, HuggingFace, and OpenAI. Each code segment is meticulously crafted to contribute to the overarching goal of transforming raw data into a rich, interactive dialogue platform, paving the way for future advancements in AI and machine learning applications.
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 

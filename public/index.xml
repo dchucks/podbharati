@@ -4,7 +4,7 @@
     <title>Akhil&#39;s Blogs</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Akhil&#39;s Blogs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 May 2024 18:31:22 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -303,7 +303,7 @@
       <description>Introduction In the fascinating world of blockchain technology, smart contracts are akin to the wizards of automation, casting spells that execute transactions and agreements seamlessly, without the need for intermediaries. These digital contracts run on blockchain networks, self-executing when predetermined conditions are met, revolutionizing how agreements are formed and upheld in the digital age. From creating decentralized applications (dApps) to automating complex financial instruments, smart contracts are at the heart of blockchain&amp;rsquo;s promise for a more transparent, efficient, and secure digital future.</description>
     </item>
     <item>
-      <title>Crafting Your First Secure Smart Contract in Solidity A Beginner&#39;s Guide</title>
+      <title>Creating Your First Secure Smart Contract in Solidity A Beginner&#39;s Guide</title>
       <link>http://localhost:1313/posts/crafting_your_first_secure_smart/</link>
       <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
       <guid>http://localhost:1313/posts/crafting_your_first_secure_smart/</guid>

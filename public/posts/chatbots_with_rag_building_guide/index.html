@@ -57,25 +57,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -404,6 +395,8 @@
 <li><strong>Pinecone</strong>: This is a class from LangChain that connects your chatbot with the Pinecone vector store.</li>
 <li><strong>similarity_search</strong>: This method retrieves the most relevant documents based on the query, enhancing your chatbot&rsquo;s responses.</li>
 </ul>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Congratulations! You&rsquo;ve just built an intelligent chatbot capable of engaging in meaningful conversations and retrieving information from a knowledge base. Experiment with different queries, and see how your chatbot can assist in various scenarios. Remember, the more you fine-tune and expand your knowledge base, the smarter your chatbot will become.</p>
 <p>Feel free to play around with the settings, tweak the conversation flows, and add more complexity as you become more comfortable with the technology. Happy coding!</p>

@@ -119,6 +119,11 @@ We call our `predict_nsfw` function and process the probability, displaying it i
 
 Finally, we run the Streamlit app and use `localtunnel` to make our local web server publicly accessible. This lets us share our NSFW checker with the world.
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
+
 ### Conclusion
 
 Voilà! You've just built an AI-powered NSFW content checker. This tool can be incredibly useful for content moderation, ensuring that digital spaces remain professional and age-appropriate. By understanding the code and technology behind it, you're now equipped to customize and integrate this functionality into larger projects or platforms.

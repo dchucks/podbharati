@@ -1,10 +1,9 @@
 ---
-title: 'Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide'
+title: "Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'http://getwallpapers.com/wallpaper/full/f/5/2/259136.jpg'
+image: "http://getwallpapers.com/wallpaper/full/f/5/2/259136.jpg"
 ---
-
 
 Welcome to our detailed guide on setting up and using the Idefics-9b bot! This project involves a potent vision-text transformer model capable of generating text from images combined with textual prompts. Whether you're a developer, a student, or an AI enthusiast, this tutorial will provide you with a thorough understanding of each component and how they work together to achieve impressive results.
 
@@ -13,6 +12,7 @@ In this post, we'll walk through the entire process of setting up the environmen
 ### What You Will Need
 
 To follow along with this tutorial, you'll need:
+
 - A Python environment
 - Access to a GPU (recommended for faster processing)
 - Basic understanding of Python and neural networks
@@ -89,23 +89,28 @@ To follow along with this tutorial, you'll need:
        generated_ids = model.generate(**inputs, bad_words_ids=bad_words_ids, max_length=100)
        generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)
        return generated_text[0], image_url
-
-  
-
- iface = gr.Interface(
-       fn=generate_text_from_image,
-       inputs=[gr.Textbox(label="Image URL", placeholder="Enter Image URL Here..."), gr.Textbox(label="Text Prompt", placeholder="Enter Text Prompt Here...")],
-       outputs=[gr.Textbox(label="Generated Text"), gr.Image(label="Input Image")],
-       title="Generate Text from Image and Text Prompt",
-       description="Enter an image URL and a text prompt to generate descriptive text. The image will be displayed alongside the generated text."
-   )
-   iface.launch()
    ```
 
-   The final step involves setting up a Gradio interface, which allows users to input an image URL and a text prompt, and see the model's output in real-time. This makes the model interactive and user-friendly.
+```
+
+iface = gr.Interface(
+fn=generate_text_from_image,
+inputs=[gr.Textbox(label="Image URL", placeholder="Enter Image URL Here..."), gr.Textbox(label="Text Prompt", placeholder="Enter Text Prompt Here...")],
+outputs=[gr.Textbox(label="Generated Text"), gr.Image(label="Input Image")],
+title="Generate Text from Image and Text Prompt",
+description="Enter an image URL and a text prompt to generate descriptive text. The image will be displayed alongside the generated text."
+)
+iface.launch()
+
+```
+The final step involves setting up a Gradio interface, which allows users to input an image URL and a text prompt, and see the model's output in real-time. This makes the model interactive and user-friendly.
 
 ### Conclusion
 
 By following this guide, you now have a fully functional Idefics-9b bot that can generate descriptive texts from images and text prompts. This project not only showcases the power of combining vision and text data but also demonstrates how you can build advanced AI models into your applications.
 
 Experiment with different images and prompts to see how the model performs across various scenarios. The possibilities are endless, and now you have the tools to explore them! Keep pushing the boundaries of what's possible with AI.
+
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

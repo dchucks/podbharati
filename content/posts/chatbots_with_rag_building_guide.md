@@ -1,11 +1,10 @@
 ---
-title: 'Chatbots with RAG How to Build Your Own Intelligent Assistant'
+title: "Chatbots with RAG How to Build Your Own Intelligent Assistant"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://rare-gallery.com/uploads/posts/1023217-temple-trees-landscape-forest-digital-art-Asian-architecture-pixel-art-nature-stones-orange-pixels-pixelated-stairs-autumn-screenshot-computer-wallpaper-ancient-history.png'
+image: "https://rare-gallery.com/uploads/posts/1023217-temple-trees-landscape-forest-digital-art-Asian-architecture-pixel-art-nature-stones-orange-pixels-pixelated-stairs-autumn-screenshot-computer-wallpaper-ancient-history.png"
 featured: true
 ---
-
 
 In this era of digital communication, chatbots have become a crucial technology, assisting in everything from customer service to engaging in detailed discussions about complex topics. In this guide, we'll explore how to build an intelligent chatbot using Retrieval Augmented Generation (RAG) with the help of LangChain and OpenAI. This step-by-step tutorial will break down each line of code, explaining its purpose and functionality, enabling you to not only build the project but also understand the mechanics behind it.
 
@@ -23,6 +22,7 @@ First things first, you'll need to set up your Python environment and install th
 ```
 
 **Explanation**:
+
 - **langchain**: A library that simplifies the integration of language models into applications.
 - **openai**: The official library to interact with OpenAI's APIs.
 - **datasets**: Provides access to a wide range of datasets and preprocessing tools from Hugging Face.
@@ -52,6 +52,7 @@ chat = ChatOpenAI(
 ```
 
 **Explanation**:
+
 - **ChatOpenAI**: This is a constructor from the LangChain library that creates a chat model instance using OpenAI’s models.
 - **model**: Specifies which OpenAI GPT model to use, here 'gpt-3.5-turbo' is chosen for its efficiency and cost-effectiveness.
 
@@ -74,6 +75,7 @@ print(res.content)
 ```
 
 **Explanation**:
+
 - **SystemMessage, HumanMessage, AIMessage**: These are specific message types in LangChain that help differentiate between the system, user, and AI responses.
 - **chat(messages)**: This function sends the array of message objects to the model and fetches the AI’s response.
 
@@ -91,6 +93,7 @@ print(dataset[0])
 ```
 
 **Explanation**:
+
 - **load_dataset**: This function loads a dataset from Hugging Face's datasets library. Here, we use a dataset containing chunks of text from ArXiv papers related to the Llama 2 model.
 
 ### Integrating the Knowledge Base
@@ -117,6 +120,7 @@ index = pinecone.Index(index_name)
 ```
 
 **Explanation**:
+
 - **pinecone.init()**: Initializes the connection to Pinecone with your API key.
 - **pinecone.create_index()**: Creates a new index where you can store and retrieve vectors. We specify the dimension based on the model used for embeddings.
 
@@ -132,8 +136,13 @@ response = vectorstore.similarity_search(query, k=3)
 ```
 
 **Explanation**:
+
 - **Pinecone**: This is a class from LangChain that connects your chatbot with the Pinecone vector store.
 - **similarity_search**: This method retrieves the most relevant documents based on the query, enhancing your chatbot's responses.
+
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 ### Conclusion
 

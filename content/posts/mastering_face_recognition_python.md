@@ -1,8 +1,8 @@
 ---
-title: 'Mastering Face Recognition with Python A Step-by-Step Guide'
+title: "Mastering Face Recognition with Python A Step-by-Step Guide"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://wallpaperaccess.com/full/9033973.png'
+image: "https://wallpaperaccess.com/full/9033973.png"
 ---
 
 In a world where security and personalization are paramount, face recognition technology has emerged as a game-changer. Python, with its simplicity and robust libraries, offers a gateway into this fascinating world. Today, we’re going to explore how you can develop your own face recognition system using Python. By the end of this guide, you’ll not only understand the nuts and bolts of the process but also have a working project to show for it.
@@ -109,6 +109,10 @@ This snippet cycles through all detections, filters them based on a confidence t
 5. **Display Results**: Draw bounding boxes around detected faces and label them with confidence scores.
 
 ---
+
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).
 
 **Conclusion**
 

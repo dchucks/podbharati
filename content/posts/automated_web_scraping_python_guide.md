@@ -85,6 +85,10 @@ To use this project:
 - Change `"https://www.example.com"` to the URL you wish to scrape.
 - Run the script to see the summary printed on your console.
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
 ### Conclusion
 
 Congratulations! You've just built your own Automated Web Scraping tool that not only fetches information from any website but also summarizes it using advanced AI. This project showcases the power of combining web scraping with natural language processing to automate and simplify data gathering and interpretation tasks.

@@ -59,25 +59,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -361,7 +352,7 @@
 </ul>
 <h3 id="deploying-the-gradio-interface">Deploying the Gradio Interface</h3>
 <p>The final step is to create a Gradio interface that users can interact with. This interface will use the <code>get_completion_dolly</code> function to generate answers to user questions:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">iface</span> <span class="o">=</span> <span class="n">gr</span><span class="o">.</span><span class="n">Interface</span><span class="p">(</span><span class="n">fn</span><span class="o">=</span><span class="n">get_completion_dolly</span><span class="p">,</span> 
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">iface</span> <span class="o">=</span> <span class="n">gr</span><span class="o">.</span><span class="n">Interface</span><span class="p">(</span><span class="n">fn</span><span class="o">=</span><span class="n">get_completion_dolly</span><span class="p">,</span>
 </span></span><span class="line"><span class="cl">                     <span class="n">inputs</span><span class="o">=</span><span class="p">[</span><span class="n">gr</span><span class="o">.</span><span class="n">Textbox</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s2">&#34;Insert Prompt Here&#34;</span><span class="p">,</span> <span class="n">lines</span><span class="o">=</span><span class="mi">6</span><span class="p">)],</span>
 </span></span><span class="line"><span class="cl">                     <span class="n">outputs</span><span class="o">=</span><span class="p">[</span><span class="n">gr</span><span class="o">.</span><span class="n">Textbox</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s2">&#34;Your Answer Here&#34;</span><span class="p">,</span> <span class="n">lines</span><span class="o">=</span><span class="mi">3</span><span class="p">)],</span>
 </span></span><span class="line"><span class="cl">                     <span class="n">title</span><span class="o">=</span><span class="s2">&#34;My AI Physics Teacher&#34;</span><span class="p">,</span>
@@ -376,6 +367,8 @@
 <li><code>examples=[...]</code> provides example questions to help users understand what kind of queries they can ask.</li>
 <li><code>iface.launch(share=True)</code> starts the Gradio app and makes it accessible via a public URL so that anyone can use the AI model.</li>
 </ul>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Congratulations! You&rsquo;ve successfully built an interactive AI application using Gradio and the Dolly model. This guide provided a step-by-step walkthrough, from setting up the environment to deploying the web interface, to help you understand and create your interactive AI project.</p>
 

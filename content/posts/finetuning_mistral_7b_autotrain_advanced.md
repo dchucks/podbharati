@@ -180,3 +180,7 @@ print(decoded[0])
 In this step, we prompt the fine-tuned Mistral-7B model to generate text. First, we define an input prompt (text), encode it using the tokenizer, and prepare it for the model. We then move the model to the GPU (device) for efficient processing.
 
 The model generates text based on the prompt, allowing up to 200 new tokens and using sampling for diversity (`model.generate`). The generated token IDs are decoded back into readable text (`tokenizer.batch_decode`), and the result is printed. This showcases how to use the fine-tuned model to create customized outputs from specific prompts.
+
+### Learn How To Build AI Projects
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq).

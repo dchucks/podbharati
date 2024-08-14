@@ -130,6 +130,10 @@ Post-training, conducting thorough evaluations and benchmarks helps in assessing
 
 Deploying a model like GPT-Neo-X-20B, especially in a production environment, necessitates careful planning. Considerations include the computational resources needed for running the model, the potential need for model quantization for efficiency, and ensuring that the deployment infrastructure can handle the model's demands.
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
 ### Conclusion
 
 Mastering the training of GPT-Neo-X-20B with bnb2bit precision is a journey through sophisticated machine learning landscapes, requiring an understanding of both the technical and practical aspects of AI training. With the detailed insights provided in this extended guide, you’re better equipped to embark on this journey, leveraging the power of Hugging Face’s ecosystem to train and deploy state-of-the-art AI models. This exploration not only enhances your understanding of large model training dynamics but also prepares you for the next wave of AI innovations.

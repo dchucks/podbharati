@@ -1,8 +1,8 @@
 ---
-title: 'Conways Game of Life Exploring Cellular Automata with Python'
+title: "Conways Game of Life Exploring Cellular Automata with Python"
 date: 2024-02-02T18:31:22+05:30
 authors: [admin]
-image: 'https://e0.pxfuel.com/wallpapers/1017/835/desktop-wallpaper-pixels-space-digital-art-planet-space-clouds-pixel-art-clouds-pixelated-stars-cloud-pixel-art.jpg'
+image: "https://e0.pxfuel.com/wallpapers/1017/835/desktop-wallpaper-pixels-space-digital-art-planet-space-clouds-pixel-art-clouds-pixelated-stars-cloud-pixel-art.jpg"
 ---
 
 Conway's Game of Life, a captivating cellular automaton devised by the mathematician John H. Conway, provides a mesmerizing exploration into the emergent behavior of simple rules applied to a grid of cells. In this blog post, we'll delve into the intricacies of the game, its rules, and how to implement it using Python.
@@ -110,6 +110,10 @@ def animate_life(world: World, n: int = 10, Xs=range(10), Ys=range(10), pause=1/
 ```
 
 This function demonstrates the power of Python in creating dynamic and interactive visualizations.
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
 
 ## Conclusion
 

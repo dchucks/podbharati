@@ -102,3 +102,7 @@ In the `generate` function, we see the full power of our setup unleashed. It tak
 
 ## Wrapping Up
 In this blog, we've traversed the landscape of AI model setup and text processing. From installing libraries to generating text with a state-of-the-art model, we’ve covered a lot of ground. These snippets of code are more than just lines in an editor; they’re stepping stones into the world of artificial intelligence and machine learning. So, next time you run a piece of code, remember the journey it represents and the capabilities it unlocks.
+
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 

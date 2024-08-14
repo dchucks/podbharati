@@ -113,6 +113,10 @@ The final step in our journey is to launch the web app, making our text-to-image
 
 By executing these commands, we start the Streamlit app and use LocalTunnel to expose it publicly, offering a gateway for anyone to explore the capabilities of AI-driven text-to-image generation.
 
+### Learn How To Build AI Projects 
+
+Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the [link](https://akhilsharmatech.gumroad.com/l/zgxqq). 
+
 ## Conclusion: A New Dawn in Digital Artistry
 Text-to-image generation represents not just a technical achievement but a new frontier in digital artistry, where the boundaries between words and visuals blur, giving rise to limitless creative possibilities. Through this detailed exploration, we've not only learned about the technical intricacies involved in creating an AI-powered art generator but also experienced the joy of bringing imagination to visual reality.
 

@@ -57,25 +57,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -373,6 +364,8 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="err">!</span><span class="n">streamlit</span> <span class="n">run</span> <span class="o">/</span><span class="n">content</span><span class="o">/</span><span class="n">app</span><span class="o">.</span><span class="n">py</span> <span class="o">&amp;&gt;/</span><span class="n">content</span><span class="o">/</span><span class="n">logs</span><span class="o">.</span><span class="n">txt</span> <span class="o">&amp;</span> <span class="n">curl</span> <span class="n">ipv4</span><span class="o">.</span><span class="n">icanhazip</span><span class="o">.</span><span class="n">com</span>
 </span></span><span class="line"><span class="cl"><span class="err">!</span><span class="n">npx</span> <span class="n">localtunnel</span> <span class="o">--</span><span class="n">port</span> <span class="mi">8501</span>
 </span></span></code></pre></div><p>Finally, we run the Streamlit app and use <code>localtunnel</code> to make our local web server publicly accessible. This lets us share our NSFW checker with the world.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Voilà! You&rsquo;ve just built an AI-powered NSFW content checker. This tool can be incredibly useful for content moderation, ensuring that digital spaces remain professional and age-appropriate. By understanding the code and technology behind it, you&rsquo;re now equipped to customize and integrate this functionality into larger projects or platforms.</p>
 <p>We&rsquo;ve walked through the installation of necessary libraries, crafting a Streamlit app, handling image uploads, and making the NSFW predictions. This project not only showcases the power of Python and machine learning but also highlights the ease with which you can create interactive web applications with Streamlit.</p>

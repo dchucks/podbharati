@@ -59,25 +59,16 @@ In this post, we&rsquo;ll walk through the entire process of setting up the envi
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -378,23 +369,22 @@ In this post, we&rsquo;ll walk through the entire process of setting up the envi
 </span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">generated_text</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">image_url</span>
 </span></span></code></pre></div></li>
 </ol>
-<p>iface = gr.Interface(
-fn=generate_text_from_image,
-inputs=[gr.Textbox(label=&ldquo;Image URL&rdquo;, placeholder=&ldquo;Enter Image URL Here&hellip;&rdquo;), gr.Textbox(label=&ldquo;Text Prompt&rdquo;, placeholder=&ldquo;Enter Text Prompt Here&hellip;&rdquo;)],
-outputs=[gr.Textbox(label=&ldquo;Generated Text&rdquo;), gr.Image(label=&ldquo;Input Image&rdquo;)],
-title=&ldquo;Generate Text from Image and Text Prompt&rdquo;,
-description=&ldquo;Enter an image URL and a text prompt to generate descriptive text. The image will be displayed alongside the generated text.&rdquo;
-)
-iface.launch()</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="n">The</span> <span class="n">final</span> <span class="n">step</span> <span class="n">involves</span> <span class="n">setting</span> <span class="n">up</span> <span class="n">a</span> <span class="n">Gradio</span> <span class="n">interface</span><span class="p">,</span> <span class="n">which</span> <span class="n">allows</span> <span class="n">users</span> <span class="n">to</span> <span class="n">input</span> <span class="n">an</span> <span class="n">image</span> <span class="n">URL</span> <span class="ow">and</span> <span class="n">a</span> <span class="n">text</span> <span class="n">prompt</span><span class="p">,</span> <span class="ow">and</span> <span class="n">see</span> <span class="n">the</span> <span class="n">model</span><span class="s1">&#39;s output in real-time. This makes the model interactive and user-friendly.</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="c1">### Conclusion</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="n">By</span> <span class="n">following</span> <span class="n">this</span> <span class="n">guide</span><span class="p">,</span> <span class="n">you</span> <span class="n">now</span> <span class="n">have</span> <span class="n">a</span> <span class="n">fully</span> <span class="n">functional</span> <span class="n">Idefics</span><span class="o">-</span><span class="mi">9</span><span class="n">b</span> <span class="n">bot</span> <span class="n">that</span> <span class="n">can</span> <span class="n">generate</span> <span class="n">descriptive</span> <span class="n">texts</span> <span class="n">from</span> <span class="n">images</span> <span class="ow">and</span> <span class="n">text</span> <span class="n">prompts</span><span class="o">.</span> <span class="n">This</span> <span class="n">project</span> <span class="ow">not</span> <span class="n">only</span> <span class="n">showcases</span> <span class="n">the</span> <span class="n">power</span> <span class="n">of</span> <span class="n">combining</span> <span class="n">vision</span> <span class="ow">and</span> <span class="n">text</span> <span class="n">data</span> <span class="n">but</span> <span class="n">also</span> <span class="n">demonstrates</span> <span class="n">how</span> <span class="n">you</span> <span class="n">can</span> <span class="n">build</span> <span class="n">advanced</span> <span class="n">AI</span> <span class="n">models</span> <span class="n">into</span> <span class="n">your</span> <span class="n">applications</span><span class="o">.</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="n">Experiment</span> <span class="n">with</span> <span class="n">different</span> <span class="n">images</span> <span class="ow">and</span> <span class="n">prompts</span> <span class="n">to</span> <span class="n">see</span> <span class="n">how</span> <span class="n">the</span> <span class="n">model</span> <span class="n">performs</span> <span class="n">across</span> <span class="n">various</span> <span class="n">scenarios</span><span class="o">.</span> <span class="n">The</span> <span class="n">possibilities</span> <span class="n">are</span> <span class="n">endless</span><span class="p">,</span> <span class="ow">and</span> <span class="n">now</span> <span class="n">you</span> <span class="n">have</span> <span class="n">the</span> <span class="n">tools</span> <span class="n">to</span> <span class="n">explore</span> <span class="n">them</span><span class="o">!</span> <span class="n">Keep</span> <span class="n">pushing</span> <span class="n">the</span> <span class="n">boundaries</span> <span class="n">of</span> <span class="n">what</span><span class="s1">&#39;s possible with AI.</span>
-</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">iface = gr.Interface(
+</span></span><span class="line"><span class="cl">fn=generate_text_from_image,
+</span></span><span class="line"><span class="cl">inputs=[gr.Textbox(label=&#34;Image URL&#34;, placeholder=&#34;Enter Image URL Here...&#34;), gr.Textbox(label=&#34;Text Prompt&#34;, placeholder=&#34;Enter Text Prompt Here...&#34;)],
+</span></span><span class="line"><span class="cl">outputs=[gr.Textbox(label=&#34;Generated Text&#34;), gr.Image(label=&#34;Input Image&#34;)],
+</span></span><span class="line"><span class="cl">title=&#34;Generate Text from Image and Text Prompt&#34;,
+</span></span><span class="line"><span class="cl">description=&#34;Enter an image URL and a text prompt to generate descriptive text. The image will be displayed alongside the generated text.&#34;
+</span></span><span class="line"><span class="cl">)
+</span></span><span class="line"><span class="cl">iface.launch()
+</span></span></code></pre></div><p>The final step involves setting up a Gradio interface, which allows users to input an image URL and a text prompt, and see the model&rsquo;s output in real-time. This makes the model interactive and user-friendly.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>By following this guide, you now have a fully functional Idefics-9b bot that can generate descriptive texts from images and text prompts. This project not only showcases the power of combining vision and text data but also demonstrates how you can build advanced AI models into your applications.</p>
+<p>Experiment with different images and prompts to see how the model performs across various scenarios. The possibilities are endless, and now you have the tools to explore them! Keep pushing the boundaries of what&rsquo;s possible with AI.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
+
         </div>
 
         <div class="post__share">

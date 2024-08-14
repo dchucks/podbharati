@@ -59,25 +59,16 @@ Installing Dependencies: The Unsung Heroes !pip -q install git&#43;https://githu
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -337,6 +328,8 @@ Installing Dependencies: The Unsung Heroes !pip -q install git&#43;https://githu
 </span></span></code></pre></div><p>In the <code>generate</code> function, we see the full power of our setup unleashed. It takes a text prompt, feeds it into our model, and processes the output to produce a clean, understandable response. This function is where theory meets practice, where we see the fruits of our labor in the form of AI-generated text.</p>
 <h2 id="wrapping-up">Wrapping Up</h2>
 <p>In this blog, we&rsquo;ve traversed the landscape of AI model setup and text processing. From installing libraries to generating text with a state-of-the-art model, we’ve covered a lot of ground. These snippets of code are more than just lines in an editor; they’re stepping stones into the world of artificial intelligence and machine learning. So, next time you run a piece of code, remember the journey it represents and the capabilities it unlocks.</p>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 
         </div>
 

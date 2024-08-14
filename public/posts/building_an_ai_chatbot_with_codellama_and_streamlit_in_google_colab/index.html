@@ -57,25 +57,16 @@
 <body >
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-KJEES5CG7L');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJEES5CG7L"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-KJEES5CG7L', { 'anonymize_ip': false });
+}
+</script>
 
 
   
@@ -308,8 +299,7 @@
         
 
         <div class="post__content">
-          <hr>
-<h3 id="setting-up-google-colab-with-an-a100-gpu">Setting Up Google Colab with an A100 GPU</h3>
+          <h3 id="setting-up-google-colab-with-an-a100-gpu">Setting Up Google Colab with an A100 GPU</h3>
 <p>To begin, ensure you&rsquo;re using Google Colab and have selected an A100 GPU as your hardware accelerator. This powerful GPU will significantly speed up model training and inference processes.</p>
 <ol>
 <li><strong>Open Google Colab</strong>: Navigate to <a href="https://colab.research.google.com/">Google Colab</a>.</li>
@@ -465,6 +455,8 @@ To run our Streamlit app, we execute it in the background and use <code>localtun
 </span></span></code></pre></div><p>These commands start the Streamlit app and print the public URL where the app is accessible. The <code>localtunnel</code> command creates a public link to our local server running on port 8501, allowing external access to our Streamlit app.</p>
 </li>
 </ol>
+<h3 id="learn-how-to-build-ai-projects">Learn How To Build AI Projects</h3>
+<p>Now, if you are interested in upskilling in 2024 with AI development, check out this 6 AI advanced projects with Go where you will learn about building with AI and getting the best knowledge there is currently. Here’s the <a href="https://akhilsharmatech.gumroad.com/l/zgxqq">link</a>.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>By following these steps, you have created an AI chatbot using the CodeLlama model and Streamlit in Google Colab with an A100 GPU. This setup not only provides a powerful backend for real-time AI interactions but also demonstrates how to integrate cutting-edge AI models into interactive web applications.</p>
 

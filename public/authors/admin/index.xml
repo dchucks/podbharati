@@ -4,7 +4,7 @@
     <title>Akhil&#39;s Blogs</title>
     <link>http://localhost:1313/authors/admin/</link>
     <description>Recent content on Akhil&#39;s Blogs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 May 2024 18:31:22 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
