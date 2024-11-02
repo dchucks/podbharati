@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/episodes/1/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/episodes/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/podcasts/mike-testing/</loc>
@@ -278,9 +272,6 @@
     <loc>http://localhost:1313/reviews/amit-agarwal/</loc>
     <lastmod>2007-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/episodes/9/</loc>
-    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/blogging/</loc>
     <lastmod>2007-05-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -302,8 +293,6 @@
     <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e1/</loc>
     <lastmod>2007-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/episodes/5/</loc>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/business/</loc>
@@ -313,6 +302,8 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/elements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/episodes/</loc>
   </url><url>
     <loc>http://localhost:1313/featured/</loc>
   </url><url>

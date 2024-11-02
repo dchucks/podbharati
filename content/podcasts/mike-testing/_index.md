@@ -11,7 +11,6 @@ apple: "https://instagram.com/podbharati"
 spotify: "https://instagram.com/podbharati"
 amazon: "https://instagram.com/podbharati"
 categories: [Society & Culture, Podcasting]
-episodes: 1
 ---
 Dive deep into the world where the magic happens – behind the mic. "Mike Testing" brings you exclusive conversations with the creative minds shaping the podcasting landscape. Each episode features candid discussions with podcasters, creators, and hosts, revealing the secrets of their craft. Join us on "Mike Testing" for a backstage pass to the podcasting world, and discover what it takes to keep listeners coming back for more. Subscribe now and never miss an episode!
 

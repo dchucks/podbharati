@@ -11,7 +11,6 @@ apple: "https://instagram.com/podbharati"
 spotify: "https://instagram.com/podbharati"
 amazon: "https://instagram.com/podbharati"
 categories: [Education, Kids, Games, Mathematics]
-episodes: 1
 ---
 गणित में कुछ चीजें जादू जैसी लगती हैं। पॉडभारती के नये पॉडकास्ट शो मैथलॉजिक हम जादूई गणितीय करिश्मों के पीछे छुपे लॉजिक से आपका परिचय करायेंगे। मैथलॉजिक कार्यक्रम बच्चों, अभिभावकों व शिक्षकों पर केंद्रित है। Some things in Mathematics appear like magic. In our show Mathelogic, we introduce you to the logic behind the charisma of magical mathematics. 
 
