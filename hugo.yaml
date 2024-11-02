@@ -1,8 +1,8 @@
 ﻿# General Site Settings
-baseURL: https://podbharati.netlify.app/
+baseURL: https://podbharati.com
 languageCode: en-us
-title: Podbharati
-googleAnalytics: G-415001565
+title: Podbharati | पॉडभारती
+googleAnalytics: G-2LGN2L0VZY
 
 params:
     logo: "/images/pb_transparent.png" # example "/images/logo.png".
