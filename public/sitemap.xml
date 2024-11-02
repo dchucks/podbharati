@@ -38,27 +38,6 @@
     <loc>http://localhost:1313/podcasts/mike-testing/episodes/s1e1/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/deb/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/finetuning_mistral_7b_autotrain_advanced/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/decentralized_botnets_the_good_the/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/division/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -185,6 +164,21 @@
     <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e9/</loc>
     <lastmod>2008-11-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/authors/deb/</loc>
+    <lastmod>2008-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/announcement/</loc>
+    <lastmod>2008-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2008-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2008-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tata_nen_awards/</loc>
+    <lastmod>2008-08-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/corruption/</loc>
     <lastmod>2008-04-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -269,7 +263,7 @@
     <loc>http://localhost:1313/tags/annoucement/</loc>
     <lastmod>2007-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chat_with_csv_using_openai/</loc>
+    <loc>http://localhost:1313/posts/podbharati_launches/</loc>
     <lastmod>2007-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bhojpuri/</loc>

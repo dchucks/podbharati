@@ -23,20 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Red</title>
-      <link>http://localhost:1313/tags/red/</link>
-      <pubDate>Sun, 26 May 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/tags/red/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Green</title>
-      <link>http://localhost:1313/tags/green/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/tags/green/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Division</title>
       <link>http://localhost:1313/tags/division/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
@@ -174,6 +160,13 @@
       <link>http://localhost:1313/tags/jatin-pandit/</link>
       <pubDate>Thu, 06 Nov 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/jatin-pandit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Announcement</title>
+      <link>http://localhost:1313/tags/announcement/</link>
+      <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/announcement/</guid>
       <description></description>
     </item>
     <item>
