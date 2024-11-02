@@ -21,7 +21,7 @@
   .post__tag {
     padding: 6px 16px;
     margin: 3px 6px 3px 0;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 500;
     text-transform: capitalize;
     border-radius: 60px;
@@ -42,7 +42,7 @@
 .post__title,
 .page__title {
   margin-bottom: 24px;
-  font-size: 60px;
+  font-size: 50px;
 
   @media (max-width: $desktop) {
     margin-bottom: 20px;

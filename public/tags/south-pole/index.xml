@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>South Pole on Podbharati</title>
+    <link>http://localhost:1313/tags/south-pole/</link>
+    <description>Recent content in South Pole on Podbharati</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/south-pole/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

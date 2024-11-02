@@ -1,6 +1,7 @@
 {{ $related := first 4 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
 {{ with $related }}
 <!-- begin related posts -->
+Related Posts
 <div class="container">
   <section class="related-posts">
     <div class="row">

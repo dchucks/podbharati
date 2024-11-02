@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/admin/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/episodes/1/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/episodes/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/mike-testing/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/podcasting/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/society--culture/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/tags/podcast-stats/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/podcasting/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/mike-testing/episodes/s1e1/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/deb/</loc>
     <lastmod>2024-05-26T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/finetuning_mistral_7b_autotrain_advanced/</loc>
@@ -17,156 +47,280 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-05-26T18:31:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/</loc>
-    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chat_with_csv_using_openai/</loc>
-    <lastmod>2024-02-18T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/chatbots_with_rag_building_guide/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cifar_10_image_classification_with_tensorflow/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/conway_game_life_python/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/crafting_an_ai_math_tutor_with_openai_assistants_agent/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/idefics_9b_bot_guide/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/red/</loc>
+    <lastmod>2024-05-26T18:31:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/decentralized_botnets_the_good_the/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rag_langchain_tutorial/</loc>
+    <loc>http://localhost:1313/tags/green/</loc>
     <lastmod>2024-02-02T18:31:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/detecting_malware_with_machine_learning/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/division/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/efficient_training_lora_hugging_face/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/categories/education/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/semantic_search_text_sql_mixtral_pinecone/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/categories/games/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fine_tuning_microsoft_phi_1_5b_custom_dataset_dialogstudio/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/categories/kids/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/guanaco_chatbot_demo_llama_7b_model/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/podcasts/mathelogic/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/step_by_step_peft_fine_tune_bloom_560m_tagger_guide/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/categories/mathematics/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/langchain_autogpt_youtube_creator/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/maths/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/learning_to_swarm_how_swarm_learning/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/multiplication/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ludwig_fine_tuning_llama2_7b/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/podcasts/mathelogic/episodes/s1e1/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mnist_image_classification_ludwig/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/entrepreneurship/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mastering_face_recognition_python/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/guests/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mastering_gpt_neo_x_20b_training_bnb2bit_hugging_face/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/ias/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/master_stable_vicuna13b_colab_8bit/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/sarkari-job/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mpt_instruct_30b_model_training/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/podcasts/sopaan/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/measuring_the_impact_of_shift_left/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/guests/masijivi/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mpt_30b_chatbot_with_langchain_advanced_guide/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/podcasts/sopaan/episodes/s1e5/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rlhf_training_custom_dataset_any_model/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/guests/alokg/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/repo_chat_ai_github/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/cat-drop/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how_ai_is_revolutionizing_cybersecurity/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/innovation/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/revolutionizing_cloud_security_posture/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/patent/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/text_to_image_generation_unleashing_creativity_with_ai/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/podcasts/sopaan/episodes/s1e4/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the_role_of_ai_in_preventing_ddos/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/job-change/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/voice_gpt_project_explained/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/guests/pranayk/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/understanding_web3_cybersecurity/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/public-policy/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/setting_up_auto_gpt_in_google_colab/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/podcasts/sopaan/episodes/s1e3/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code_translate_ai_unlocking_language_barriers/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/unlocking_the_future_predicting_the/</loc>
-    <lastmod>2024-02-02T18:31:22+05:30</lastmod>
+    <loc>http://localhost:1313/tags/ipr/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chat_with_pdf_mistral_7b/</loc>
-    <lastmod>2024-02-02T18:30:33+05:30</lastmod>
+    <loc>http://localhost:1313/guests/jayaj/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/automated_web_scraping_python_guide/</loc>
-    <lastmod>2024-02-02T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/tags/product-management/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/best_practices_for_securing_smart/</loc>
-    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/podcasts/sopaan/episodes/s1e2/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/crafting_your_first_secure_smart/</loc>
-    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/reviews/parag_risbud/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cybersecurity_in_the_iot_era_how/</loc>
-    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/reviews/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ai_nsfw_content_checker_python/</loc>
-    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/tags/finance/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/implementing_shift_left_in_devops/</loc>
-    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/guests/mayurb/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the_importance_of_privacy_in_blockchain/</loc>
-    <lastmod>2023-12-18T15:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/tags/motivation/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</loc>
-    <lastmod>2022-10-08T18:05:55+03:00</lastmod>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/sopaan/episodes/s1e1/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/ashok_uk/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/community-radio/</loc>
+    <lastmod>2008-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fm-radio/</loc>
+    <lastmod>2008-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jatin-pandit/</loc>
+    <lastmod>2008-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e9/</loc>
+    <lastmod>2008-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/corruption/</loc>
+    <lastmod>2008-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scotts-last-expedition/</loc>
+    <lastmod>2008-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/whistle-blower/</loc>
+    <lastmod>2008-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e8/</loc>
+    <lastmod>2008-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/abvp/</loc>
+    <lastmod>2007-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gtalk/</loc>
+    <lastmod>2007-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/madan-mohan/</loc>
+    <lastmod>2007-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/student-union/</loc>
+    <lastmod>2007-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e7/</loc>
+    <lastmod>2007-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/independence-day/</loc>
+    <lastmod>2007-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rich-client/</loc>
+    <lastmod>2007-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tagore/</loc>
+    <lastmod>2007-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web2.0/</loc>
+    <lastmod>2007-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e6/</loc>
+    <lastmod>2007-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/pranav_dharma/</loc>
+    <lastmod>2007-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/water-scarcity/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/womans-rights/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e5/</loc>
+    <lastmod>2007-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chemistry/</loc>
+    <lastmod>2007-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/movies/</loc>
+    <lastmod>2007-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e4/</loc>
+    <lastmod>2007-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/g_vishwanath/</loc>
+    <lastmod>2007-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/amit_ranjan/</loc>
+    <lastmod>2007-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/elections/</loc>
+    <lastmod>2007-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mayawati/</loc>
+    <lastmod>2007-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reliance/</loc>
+    <lastmod>2007-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e3/</loc>
+    <lastmod>2007-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/annoucement/</loc>
+    <lastmod>2007-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/chat_with_csv_using_openai/</loc>
+    <lastmod>2007-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bhojpuri/</loc>
+    <lastmod>2007-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mothers-day/</loc>
+    <lastmod>2007-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e2/</loc>
+    <lastmod>2007-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/amit-agarwal/</loc>
+    <lastmod>2007-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/episodes/9/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blogging/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/communalism/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/news/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/transliteration/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e1/</loc>
+    <lastmod>2007-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/episodes/5/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/business/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/careers/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/elements/</loc>
   </url><url>
     <loc>http://localhost:1313/featured/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/videos/</loc>
   </url>

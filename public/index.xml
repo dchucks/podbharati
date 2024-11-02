@@ -1,369 +1,201 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Akhil&#39;s Blogs</title>
+    <title>Podbharati</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Akhil&#39;s Blogs</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on Podbharati</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2024 18:31:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Finetuning Mistral-7b FineTuning Model using Autotrain-advanced</title>
-      <link>http://localhost:1313/posts/finetuning_mistral_7b_autotrain_advanced/</link>
-      <pubDate>Sun, 26 May 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/finetuning_mistral_7b_autotrain_advanced/</guid>
-      <description>The Mistral-7b model is a robust language model known for its performance and effefficiency. By leveraging Autotrain-Advanced, we can streamline the fine-tuning process, making it more efficient and accessible.&#xA;We&amp;rsquo;ll cover everything from setting up your environment, preparing your data, and running the fine-tuning process, to evaluating the performance of your custom model.&#xA;You can view the full notebook here or follow along with the following steps.&#xA;Step 1: Getting started We will be using google colab or Jupyter notebook to create and filetune this model.</description>
+      <title>अंक 1 – क्या पॉडकास्टिंग से कमाई संभव है? आदित्य कुबेर से बातचीत | Passive Income from Podcasting</title>
+      <link>http://localhost:1313/podcasts/mike-testing/episodes/s1e1/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/mike-testing/episodes/s1e1/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Are you curious about the podcast landscape in India? Wondering who tunes in, which genres top the charts, and whether there&amp;rsquo;s a future in creating content in regional languages? And what about turning your passion into a passive income stream?&lt;/p&gt;&#xA;&lt;p&gt;Join us for an insightful conversation on Podcast Parikrama&amp;rsquo;s new podcast &amp;ldquo;Mike Testing&amp;rdquo; with Aditya Kuber, the visionary founder of IdeaBrew Studio. Discover the demographics of India&amp;rsquo;s podcast listeners, explore the most popular genres, and learn about the exciting potential of Indian language podcasts. Plus, get expert tips on how to monetize your podcast and a glimpse into the future of this rapidly growing medium.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Building an AI Chatbot with CodeLlama and Streamlit in Google Colab</title>
-      <link>http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/</link>
-      <pubDate>Sun, 18 Feb 2024 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab/</guid>
-      <description>Setting Up Google Colab with an A100 GPU To begin, ensure you&amp;rsquo;re using Google Colab and have selected an A100 GPU as your hardware accelerator. This powerful GPU will significantly speed up model training and inference processes.&#xA;Open Google Colab: Navigate to Google Colab. Select GPU: Go to Edit &amp;gt; Notebook settings or Runtime &amp;gt; Change runtime type and choose GPU as the hardware accelerator. Installing Dependencies The first step in our project is to install the necessary packages, including localtunnel for exposing our local server to the web, streamlit for creating the web app, and transformers for loading our AI model.</description>
+      <title>अंक 1 – सैंतीस का आंकड़ा</title>
+      <link>http://localhost:1313/podcasts/mathelogic/episodes/s1e1/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/mathelogic/episodes/s1e1/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Chat with CSV using OpenAI</title>
-      <link>http://localhost:1313/posts/chat_with_csv_using_openai/</link>
-      <pubDate>Sun, 18 Feb 2024 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/chat_with_csv_using_openai/</guid>
-      <description>Project Overview &amp;ldquo;Chat with CSV OpenAI&amp;rdquo; is more than a project; it&amp;rsquo;s an adventure into the realm of AI and data interaction. This application will serve as a bridge between you and your data, allowing you to converse with your CSV files through the magic of OpenAI&amp;rsquo;s language models. Imagine asking your data questions and getting answers as if you were chatting with a data scientist!&#xA;Setting Up Your Environment First things first, let&amp;rsquo;s get our digital workspace ready.</description>
+      <title>आईएएस परीक्षा में सफलता के गुर: विजेंद्र सिंह चौहान से बातचीत | IAS Civil Services Exam</title>
+      <link>http://localhost:1313/podcasts/sopaan/episodes/s1e5/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sopaan/episodes/s1e5/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this episode, veteran educator and coach &lt;a href=&#34;https://linktr.ee/pleasesitdown&#34;&gt;Vijender Singh Chauhan &amp;lsquo;Masijeevi&amp;rsquo;&lt;/a&gt; demystifies the Civil Services Examination and provides useful tips for IAS aspirants; a passing thought for the occasions that demand &amp;ldquo;daring&amp;rdquo;, and an interesting anecdote of an investment opportunity that the sharks refused in the recently concluded, maiden season, of &lt;a href=&#34;https://twitter.com/sharktankindia&#34;&gt;Shark Tank India&lt;/a&gt; show. Will they regret it, like the sharks from the original American show did 9 years ago?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Building a Healthcare BOT with Mixtral and Haystack on PubMed Data</title>
-      <link>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/healthcare_bot_mixtral_haystack_pubmed/</guid>
-      <description>Extensive Guide to Crafting an Advanced Healthcare BOT Comprehensive Environment Setup The foundation of our Healthcare BOT lies in a robust setup, necessitating a range of specialized tools:&#xA;!pip install haystack-ai pymed transformers python-dotenv gradio This command equips us with haystack-ai for intelligent data retrieval, pymed to access PubMed&amp;rsquo;s extensive library, transformers for leveraging advanced AI models like Mixtral, python-dotenv for environment configuration, and gradio for creating an interactive UI.</description>
+      <title>इंन्वेंशन और इन्नोवेशन में क्या फर्क है? कैसे लिया जाता है पेटेंट?</title>
+      <link>http://localhost:1313/podcasts/sopaan/episodes/s1e4/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sopaan/episodes/s1e4/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In this episode, motivator &lt;a href=&#34;https://ankurwarikoo.com/about/&#34;&gt;Ankur Warikoo&lt;/a&gt; warns against a mistake we often make; then we talk about Invention &amp;amp; Innovation and discuss the nuances of Patent from &lt;a href=&#34;https://alokgovil.com/&#34;&gt;Alok Govil&lt;/a&gt;, Principle Engineer at Amazon, who has credits for several patents, and an interesting story of Cats &amp;amp; Parachutes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Chatbots with RAG How to Build Your Own Intelligent Assistant</title>
-      <link>http://localhost:1313/posts/chatbots_with_rag_building_guide/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/chatbots_with_rag_building_guide/</guid>
-      <description>In this era of digital communication, chatbots have become a crucial technology, assisting in everything from customer service to engaging in detailed discussions about complex topics. In this guide, we&amp;rsquo;ll explore how to build an intelligent chatbot using Retrieval Augmented Generation (RAG) with the help of LangChain and OpenAI. This step-by-step tutorial will break down each line of code, explaining its purpose and functionality, enabling you to not only build the project but also understand the mechanics behind it.</description>
+      <title>लोकनीति में शिक्षा और करियर विकल्पः प्रणय कोटस्थने से बातचीत  | Career options in Public Policy</title>
+      <link>http://localhost:1313/podcasts/sopaan/episodes/s1e3/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sopaan/episodes/s1e3/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Looking for a #jobchange, but unsure whether this is the opportune time? Fret not! &lt;a href=&#34;https://anuragkale.in/&#34;&gt;Anurag Kale&lt;/a&gt; shares his simple 3Q framework to help you make an informed decision about the move. What is Public Policy, and what kind of learning and career opportunities does it provide? &lt;a href=&#34;https://www.puliyabaazi.in/&#34;&gt;Pranay Kotasthane&lt;/a&gt;, Deputy Director at &lt;a href=&#34;https://takshashila.org.in/&#34;&gt;The Takshashila Institution&lt;/a&gt;, demystifies it for you. Plus, funny anecdotes of some talented entrepreneurs and innovators, who have also been, dare we say, bit #eccentric.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>CIFAR-10 Image Classification with TensorFlow</title>
-      <link>http://localhost:1313/posts/cifar_10_image_classification_with_tensorflow/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cifar_10_image_classification_with_tensorflow/</guid>
-      <description>Image classification is a fundamental task in the field of computer vision, where the objective is to categorize images into predefined classes. The CIFAR-10 dataset, consisting of 60,000 32x32 color images across 10 classes, serves as an excellent benchmark for developing and testing machine learning models.&#xA;Setting Up Your TensorFlow Environment Before diving into the neural network architecture, it&amp;rsquo;s essential to set up the TensorFlow environment:&#xA;Importing Libraries We start by importing TensorFlow and other necessary libraries:</description>
+      <title>प्रॉडक्ट मैनेजमेंट में करियर: जया झा से साक्षात्कार | Career in Product Management</title>
+      <link>http://localhost:1313/podcasts/sopaan/episodes/s1e2/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sopaan/episodes/s1e2/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In the second episode of Sopaan, &lt;a href=&#34;https://www.youtube.com/@ThePracticalPM&#34;&gt;Jaya Jha&lt;/a&gt;, former Product Manager at Google, founder of Pothi.com and &amp;ldquo;The Practical PM&amp;rdquo; and author of &lt;a href=&#34;https://amzn.to/4hfaNlI&#34;&gt;So, you want to be a Product Manager&lt;/a&gt;, talks about the nuances of Product Management and life as a Product Manager, Ankur Warikoo warns about the most intoxicating impediment to one&amp;rsquo;s growth, and Donald Duck comes between an inventor and a #patent.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Conways Game of Life Exploring Cellular Automata with Python</title>
-      <link>http://localhost:1313/posts/conway_game_life_python/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/conway_game_life_python/</guid>
-      <description>Conway&amp;rsquo;s Game of Life, a captivating cellular automaton devised by the mathematician John H. Conway, provides a mesmerizing exploration into the emergent behavior of simple rules applied to a grid of cells. In this blog post, we&amp;rsquo;ll delve into the intricacies of the game, its rules, and how to implement it using Python.&#xA;Understanding Conway&amp;rsquo;s Game of Life The Game of Life unfolds on an infinite two-dimensional grid, where each cell can either be alive or dead.</description>
+      <title>Superb initiative!</title>
+      <link>http://localhost:1313/reviews/parag_risbud/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/parag_risbud/</guid>
+      <description>&lt;h4 id=&#34;extremely-powerful-compering-in-pure-immaculate-hindi-and-natural-delivery&#34;&gt;&amp;ldquo;Extremely powerful compering in pure, immaculate Hindi and natural delivery.&amp;rdquo;&lt;/h4&gt;</description>
     </item>
     <item>
-      <title>Crafting an AI Math Tutor with OpenAI Assistants Agent</title>
-      <link>http://localhost:1313/posts/crafting_an_ai_math_tutor_with_openai_assistants_agent/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/crafting_an_ai_math_tutor_with_openai_assistants_agent/</guid>
-      <description>Imagine stepping into a realm where every mathematical conundrum, from the simplest addition to the most complex calculus problem, is unraveled with the mere whisper of a query. This isn&amp;rsquo;t the stuff of fantasy; it&amp;rsquo;s the reality we&amp;rsquo;re crafting with OpenAI&amp;rsquo;s Assistants Agent. Today, we embark on a detailed odyssey to create a Math Tutor that&amp;rsquo;s not just smart but also intuitively understands and aids in the labyrinth of mathematics.</description>
+      <title>अंक‍ 1 – क्या है क्लाउड कंप्यूटिंग? क्लाउड आर्किटेक्ट कैसे बनें? | Career as a Cloud Architect</title>
+      <link>http://localhost:1313/podcasts/sopaan/episodes/s1e1/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sopaan/episodes/s1e1/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;episode-transcript&#34;&gt;Episode Transcript&lt;/h3&gt;&#xA;&lt;p&gt;पॉडभारती के सभी श्रोता मित्रों का इस नए चैनल सोपान में स्वागत है, मैं हूं देबाशीष चक्रवर्ती। मई 2007, यानि कि लगभग 14 वर्ष पूर्व, मैंने अपने मित्र शशि सिंह के साथ इस पॉडकास्ट की शुरुआत की थी। हमारे अंक पत्रिका, यानि मैगज़ीन फॉर्मेट में होते थे। पर यह सफर सिर्फ नौ अंकों तक चला, और नवंबर 2008 में पॉडकास्ट बंद हो गया। 2008 में ही, पॉडभारती टाटा नेन हॉटेस्ट स्टार्टअप पुरस्कार के लिए नॉमिनेट हुई। हम जीत तो नहीं पाए, पर निर्णय समिति की टिप्पणी थी, “This idea is ahead of its times”।&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Creating a Vision-Text Transformer with Idefics-9b A Step-by-Step Guide</title>
-      <link>http://localhost:1313/posts/idefics_9b_bot_guide/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/idefics_9b_bot_guide/</guid>
-      <description>Welcome to our detailed guide on setting up and using the Idefics-9b bot! This project involves a potent vision-text transformer model capable of generating text from images combined with textual prompts. Whether you&amp;rsquo;re a developer, a student, or an AI enthusiast, this tutorial will provide you with a thorough understanding of each component and how they work together to achieve impressive results.&#xA;In this post, we&amp;rsquo;ll walk through the entire process of setting up the environment, understanding the code, and deploying a web-based interface to interact with the model.</description>
+      <title>A quality podcast for lovers of the Hindi language</title>
+      <link>http://localhost:1313/reviews/ashok_uk/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/ashok_uk/</guid>
+      <description>&lt;h4 id=&#34;the-best-hindi-podcast--news-and-topical-reports-conveyed-in-chaste-hindi-not-in-hinglish-wonderful-a-rare-gem&#34;&gt;&amp;ldquo;The best Hindi podcast – news and topical reports conveyed in chaste Hindi, not in Hinglish! Wonderful. A rare gem.&amp;rdquo;&lt;/h4&gt;</description>
     </item>
     <item>
-      <title>Creating an AI Physics Tutor with Gradio and Dolly</title>
-      <link>http://localhost:1313/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly/</guid>
-      <description>Setting Up Your Environment The first step in our journey is to set up the environment by installing the necessary libraries. These libraries include Gradio for the web interface, transformers for accessing pre-trained models, sentencepiece for text processing, and accelerate for optimizing the computation. Run the following commands in your terminal or Jupyter notebook:&#xA;!pip install gradio transformers sentencepiece accelerate Detailed Explanation: Gradio: A Python library to create customizable UIs for machine learning models.</description>
+      <title>अंक 9 : सामुदायिक रेडियो की दीवानगी</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e9/</link>
+      <pubDate>Thu, 06 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e9/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;पॉडभारती के &lt;strong&gt;नवें अंक&lt;/strong&gt; में आप सुन सकते हैं&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;भारत में सामुदायिक यानि कम्यूनिटी रेडियो व कैंपस रेडियो परिदृश्य पर एक रपट,&lt;/li&gt;&#xA;&lt;li&gt;‍लोकप्रिय पॉडकास्टर उन्मुक्त का &lt;a href=&#34;http://en.wikipedia.org/wiki/MP3&#34;&gt;एमपी-‍3&lt;/a&gt; की बजाय &lt;a href=&#34;http://en.wikipedia.org/wiki/Ogg&#34;&gt;ओग फार्मेट&lt;/a&gt; से लगाव के कारणों का खुलासा और,&lt;/li&gt;&#xA;&lt;li&gt;उभरते गायक और भाईबहन की जोड़ी “खुशी और नौज़ाद” के एल्बम “&lt;a href=&#34;http://tarkashent.com/americameinindia.html&#34;&gt;अमेरिका में इंडिया&lt;/a&gt;” से एक मधुर गीत&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;इस-अक-म-उललखत-कड़य-और-अधक-जनकर&#34;&gt;इस अंक में उल्लेखित कड़ियाँ और अधिक जानकारीः&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.sarai.net/mailing-lists/cr-india-a-list-on-community-radio-in-india&#34;&gt;सीआर इंडिया&lt;/a&gt;: सामुदायिक रेडियो विषय पर चर्चा करती सराय की एक मेलिंग लिस्ट&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://collinfo.annauniv.edu:6060/emrc/annafm/annafm.htm&#34;&gt;अन्ना एफएम&lt;/a&gt;: देश के पहले कैंपस रेडियो स्टेशन का जालस्थल&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.cgnet.in/Members/shu/Members/shu/ufanarticles/baasi011206/document_view&#34;&gt;गुड मॉssssssर्निंssssssग भारत&lt;/a&gt; : “चाहे वह सुदूर सरगुजा का आदिवासी किसान हो या रायपुर का रिक्शा चालक, दोनों के पास उनकी गरीबी के अलावा कोई और चीज सामान्य है, तो वह है उनका ट्रांजिस्टर।” सामुदायिक रेडियो के उद्भव पर शुभ्रांशु चौधरी की रोचक रपट।&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.bbc.co.uk/hindi/news/020205_radio_ak.shtml&#34;&gt;रेडियो पर इंटरनेट&lt;/a&gt;: अब इंटरनेट दूर दराज़ के लोगों तक रेडियो के ज़रिए भी पहुंच रहा है। बीबीसी पर रपट।&lt;/li&gt;&#xA;&lt;li&gt;एल्बम “अमेरिका में इंडिया”: “खुशी और नौज़ाद” के इस अल्बम, जिस पर वे अमरीकी देसियों के लिये बने पहला पॉप अल्बम होने का दावा करते हैं, को &lt;a href=&#34;https://web.archive.org/web/20101027192536/http://www.tarkashent.com/&#34;&gt;तरकश इंटरटेन्मेंट&lt;/a&gt; से मुफ्त डाउनलोड कर सकते हैं।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/../../images/seperator-gold.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Decentralized Botnets The Good, The Bad, and The Secure</title>
-      <link>http://localhost:1313/posts/decentralized_botnets_the_good_the/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/decentralized_botnets_the_good_the/</guid>
-      <description>Introduction Welcome to the Wild, Wild Web! A place where the digital gold rush meets the cyber outlaws, and the sheriffs are armed with nothing but code. In this thrilling expanse, there&amp;rsquo;s a new player in town: decentralized botnets. Imagine a swarm of drones, each with its own mind, yet united in purpose, buzzing through the digital skies. Some are here to protect the town, while others have more nefarious plans.</description>
+      <title>पॉडभारती TATA NEN Hootest Startup पुरस्कार के लिए नामांकित </title>
+      <link>http://localhost:1313/posts/tata_nen_awards/</link>
+      <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tata_nen_awards/</guid>
+      <description>&lt;p&gt;मित्रों, मुझे आप सभी को यह खबर बताते हुए बहुत खुशी हो रही है कि स्टार्टअपदुनिया डॉट कॉम के प्रणव की मदद से हमारी पॉडजीन पॉडभारती को TATA NEN हॉटेस्ट स्टार्टअप्स पुरस्कार के लिए नामांकित किया गया है। नेशनल एंटरप्रेन्योरशिप नेटवर्क (NEN) और टाटा ग्रुप द्वारा हेलियन, मिंट, सीडफंड और वाधवानी फाउंडेशन के सहयोग से आयोजित यह भारत का एकमात्र समुदाय द्वारा चयनित भारतीय स्टार्टअप पुरस्कार है।&lt;/p&gt;&#xA;&lt;p&gt;हमारे स्टार्टअप के लिए ऑनलाइन &lt;a href=&#34;https://web.archive.org/web/20080901224215/http://www.hotteststartups.in/viewandvote.do?method=fetch&amp;amp;businessFn=viewandvote&amp;amp;startupId=123&#34;&gt;यहाँ&lt;/a&gt; या एसएमएस के ज़रिए वोट करें। HOT&lt;!-- raw HTML omitted --&gt;36 लिखकर 56767 पर एसएमएस करें।&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Decoding RAG LangChain Tutorial A Deep Dive into AI-Driven QA Systems</title>
-      <link>http://localhost:1313/posts/rag_langchain_tutorial/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/rag_langchain_tutorial/</guid>
-      <description>The RAG LangChain Tutorial represents a pinnacle in leveraging AI to transform unstructured data into actionable insights through a question-answering (QA) chain. This sophisticated process involves several key steps, from data ingestion to information retrieval and response generation, each underpinned by advanced coding and machine learning techniques.&#xA;Foundation: Setting Up the Environment Before delving into the functional aspects, establishing a secure and functional environment is crucial:&#xA;import os api_key = os.</description>
+      <title>अंक 8 : भ्रष्टाचार विरोध का इंटरनेट एक्सटेंशन</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e8/</link>
+      <pubDate>Thu, 03 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e8/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;श्रोता मित्रों, पॉडभारती का &lt;strong&gt;आठवाँ एपीसोड&lt;/strong&gt; अब पॉडभारती डॉट कॉम पर आपके लिये उपलब्ध है। अंक का संचालन किया है देबाशीष चक्रवर्ती ने। पॉडभारती के इस अंक में आप सुन सकते हैं:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;भ्रष्टाचार के खिलाफ जिहाद लड़ रहे कर्नाटक के एक वरिष्ठ आई.ए.एस अधिकारी विजयकुमार की पत्नी &lt;strong&gt;&lt;a href=&#34;http://fightcorruption.wikidot.com/more&#34;&gt;श्रीमती जयश्री&lt;/a&gt;&lt;/strong&gt; के अदम्य साहस की कथा, जिसने अपने पति का केवल साथ ही नहीं दिया, बल्कि इससे एक कदम बढ़कर भ्रष्ट सफेदपोश गुंडों से उनकी जान की रक्षा के लिये इंटरनेट पर बनाया एक अनोखा दुर्ग।&lt;/li&gt;&#xA;&lt;li&gt;लोकप्रिय हिन्दी चिट्ठाकार &lt;strong&gt;&lt;a href=&#34;http://unmukt-hindi.blogspot.in&#34;&gt;उन्मुक्त&lt;/a&gt;&lt;/strong&gt; की प्रभावशाली आवाज़ में सुनिये कैप्टन स्कॉट की डायरी से दक्षिणी ध्रुव के रोमांचक और साहसिक अभियान का वृत्तांत, जो दुर्भाग्यवश स्कॉट के जीवन का अंतिम अभियान भी सिद्ध हुआ। और अंत में,&lt;/li&gt;&#xA;&lt;li&gt;ब्लॉगरों के लेखन में मदद कर उसमें निखार लाने की एक ब्राउज़र आधारित जुगत &lt;strong&gt;ज़ेमांटा&lt;/strong&gt; के बारे में रोचक जानकारी।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;कड़ियाँ जिनका पॉडभारती के इस अंक में उल्लेख किया गया:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Detecting Malware with Machine Learning</title>
-      <link>http://localhost:1313/posts/detecting_malware_with_machine_learning/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/detecting_malware_with_machine_learning/</guid>
-      <description>Welcome, cyber guardians and machine learning enthusiasts! Are you ready to delve deeper into the realm of artificial intelligence to combat malware? This guide is designed to take you through a comprehensive journey of detecting malware using machine learning, offering detailed insights into each step of the process.&#xA;In-Depth Analysis of Malware Detection Malware detection using machine learning isn&amp;rsquo;t just about running algorithms; it&amp;rsquo;s a meticulous process that involves understanding the data, selecting the right models, and fine-tuning them for optimal performance.</description>
+      <title>अंक 7 : ब्लैक पैम्फलैट्सः लीक से हटकर</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e7/</link>
+      <pubDate>Thu, 20 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e7/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;पॉडभारती का सातवाँ अंक आप तक कई महीनों के अंतराल में पहुंच रहा है इसके लिये हम क्षमाप्रार्थी हैं। हमारा इरादा हर कम से कम हर पखवाड़े एक अंक निकालना का रहा है पर व्यस्तता के कारण यह संभव न हो सका। हमारी ये कोशिश रहेगी कि पॉडभारती के अगले अंक नियमित अंतराल में जारी हों। पॉडभारती के सातवें में आप सुन सकते हैं&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;नये स्तंभ “लीक से हटकर” में जानिये Google &lt;a href=&#34;https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2_%E0%A4%9F%E0%A5%89%E0%A4%95&#34;&gt;जीटॉक&lt;/a&gt; के स्टेटस संदेशों के अभिनव प्रयोग के बारे में&lt;/li&gt;&#xA;&lt;li&gt;दिल्ली के कैम्पस में चुनावी माहौल का सटीक चित्रांकन करती एक युवा फिल्म निर्माता &lt;strong&gt;नितिन&lt;/strong&gt; के प्रयास “&lt;a href=&#34;https://www.youtube.com/playlist?list=PL5831B599E70544B2&#34;&gt;ब्लैक पैम्पलेट्स&lt;/a&gt;” की कथा और&lt;/li&gt;&#xA;&lt;li&gt;संगीतकार &lt;strong&gt;मदन मोहन&lt;/strong&gt; की रचना प्रक्रिया के एक अनछुये पहलू की जानकारी, रेडियोवाणी के &lt;a href=&#34;http://radiovani.blogspot.com/&#34;&gt;युनुस खान&lt;/a&gt; की ज़ुबानी।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/../../images/seperator-gold.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Efficient Training of Large Language Models with LoRA and Hugging Face</title>
-      <link>http://localhost:1313/posts/efficient_training_lora_hugging_face/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/efficient_training_lora_hugging_face/</guid>
-      <description>Training large language models (LLMs) like GPT or T5 can be quite resource-intensive. However, innovations like LoRA (Low-Rank Adaptation) and tools from the Hugging Face ecosystem are making it more accessible. In this post, we’ll walk through how to efficiently train LLMs using LoRA and Hugging Face’s Transformers, showcasing the process with a real example of training a summarization model using the FLAN-T5 architecture. Ready to dive into the world of efficient machine learning?</description>
+      <title>अंक 6 : भारत, ऑलवेज टर्न्ड ऑन</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e6/</link>
+      <pubDate>Wed, 15 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e6/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;पॉडभारती के सभी श्रोताओं को हमारी ओर से स्वाधीनता दिवस की हार्दिक बधाई। हम प्रस्तुत हैं पॉडभारती के छठवें अंक के साथ, जिसमें आप सुन सकते हैं&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;इंटरनेट का प्रादुर्भाव बढ़ रहा है, वेब 2.0 के साथ ही &lt;a href=&#34;https://web.archive.org/web/20101114071455/http://wbeaton.blogspot.com/2005/12/what-is-rich-client.html&#34;&gt;रिच क्लाएंट&lt;/a&gt; की बातें होती हैं और ज़ाहिर है कई कंपनियाँ मानती हैं कि अब आपका ब्राउज़र ही आपका पीसी है। ऐसे ही एक जालस्थल &lt;a href=&#34;https://web.archive.org/web/20101114071455/http://www.nivio.com/&#34;&gt;निवियो डॉट कॉम&lt;/a&gt; की समीक्षा कर रहे हैं हमारे टेक गुरु &lt;strong&gt;रविशंकर श्रीवास्तव&lt;/strong&gt;।&lt;/li&gt;&#xA;&lt;li&gt;लंदन से &lt;strong&gt;नीरू कोठारी&lt;/strong&gt; पेश कर रही हैं युरोप की खबरें और&lt;/li&gt;&#xA;&lt;li&gt;अंत में सुनिये हमारे साठवें स्वतंत्रता दिवस पर एक विशेष प्रस्तुति जिसमें आप सुन सकेंगे &lt;strong&gt;रविंद्रनाथ टैगोर&lt;/strong&gt; की दुर्लभ रिकार्डिंग।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/../../images/seperator-gold.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Enhancing Text to SQL Conversion with Semantic Search A Deep Dive into Mixtral and Pinecone</title>
-      <link>http://localhost:1313/posts/semantic_search_text_sql_mixtral_pinecone/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/semantic_search_text_sql_mixtral_pinecone/</guid>
-      <description>The integration of semantic search into Text to SQL conversion represents a significant leap in the field of data retrieval and database management. Utilizing advanced technologies like Mixtral and Pinecone, this approach enhances the efficiency and accuracy of converting natural language queries into SQL statements. This extensive guide delves into the mechanisms of Semantic Search-Enhanced Text to SQL, providing a detailed walkthrough of implementing Mixtral and Pinecone to revolutionize database querying processes.</description>
+      <title>Insightful, with a touch of serious journalism</title>
+      <link>http://localhost:1313/reviews/pranav_dharma/</link>
+      <pubDate>Wed, 08 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/pranav_dharma/</guid>
+      <description>&lt;h4 id=&#34;with-a-distinctive-style-to-their-podcasts-the-podcast-kind-of-takes-you-back-in-timeimagespostsstartupdunia-interviewpdf-making-you-reminiscent-of-all-india-radios-vividh-bharati-shows-they-cover-a-variety-of-current-issues-that-affect-the-indian-society-pretty-insightful-with-a-touch-of-serious-journalism-to-it-well-worth-your-time&#34;&gt;“…(with) a distinctive style to their podcasts.. &lt;a href=&#34;http://localhost:1313/images/posts/startupdunia-interview.pdf&#34;&gt;the podcast kind of takes you back in time&lt;/a&gt;, making you reminiscent of All India Radio’s Vividh Bharati shows. They cover a variety of current issues that affect the Indian society. Pretty insightful with a touch of serious journalism to it. Well worth your time.”&lt;/h4&gt;</description>
     </item>
     <item>
-      <title>Fine-tuning Microsoft Phi 1.5b on Custom Dataset with DialogStudio</title>
-      <link>http://localhost:1313/posts/fine_tuning_microsoft_phi_1_5b_custom_dataset_dialogstudio/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/fine_tuning_microsoft_phi_1_5b_custom_dataset_dialogstudio/</guid>
-      <description>Fine-tuning Microsoft&amp;rsquo;s Phi 1.5b model on a specialized dataset like DialogStudio presents a unique opportunity to create a powerful AI tool tailored for specific tasks, such as summarization or conversational analysis. In this extended guide, we delve deeper into the process, uncovering advanced strategies and providing a thorough walkthrough of each step, from the initial setup to the final deployment of the fine-tuned model.&#xA;In-Depth Exploration of Fine-Tuning Microsoft Phi 1.</description>
+      <title>अंक 5 : थम न जाये जलधारा</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e5/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e5/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;पॉडभारती का यह पांचवा पड़ाव है। इस पड़ाव पर संगीत के माध्यम से हम विचार करेंगे मानवता के सामने उभर रहे सबसे बड़े संकटों में से एक, यानी सिकुड़ रही जलधारा के बारे में। इसके अलावा नारी अधिकार और आतंकवाद जैसे मुद्दे भी इस अंक में शामिल है। इस अंक की विषयवस्तु कुछ यूं है:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;जलसंकट पर दैनिक भास्कर समूह में संपादक विकास मिश्र की संक्षिप्त वार्ता&lt;/li&gt;&#xA;&lt;li&gt;जल–संरक्षण के मुद्दे पर दो खूबसूरत गीत, मशहूर ग़जल गायक भुपिंदर सिंह और रघुनाथ सरन की आवाज़ में&lt;/li&gt;&#xA;&lt;li&gt;किरण बेदी के साथ हुये अन्याय के बहाने नारी अधिकारों की बात कर रही हैं मुम्बई से वरिष्ठ पत्रकार सीमा अनंत&lt;/li&gt;&#xA;&lt;li&gt;ब्रिटेन में ग्लासगो मामले के बाद के हालात पर लंदन से नीरू कोठारी की खास रिपोर्ट&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/../../images/seperator-gold.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Guanaco Chatbot Demo Leveraging the Power of LLaMA-7B for Advanced Conversations</title>
-      <link>http://localhost:1313/posts/guanaco_chatbot_demo_llama_7b_model/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/guanaco_chatbot_demo_llama_7b_model/</guid>
-      <description>In today&amp;rsquo;s fast-evolving digital landscape, the fusion of sophisticated AI models with interactive platforms is not just innovative; it&amp;rsquo;s revolutionary. The Guanaco Chatbot, powered by the LLaMA-7B model, stands at the forefront of this evolution, offering a glimpse into the future of conversational AI. This blog post will take you on a journey through the setup and execution of the Guanaco Chatbot demo, showcasing its remarkable capabilities and the technical prowess of the LLaMA-7B model.</description>
+      <title>अंक 4 : अंशुल ने मचाया गदर</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e4/</link>
+      <pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e4/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;श्रोताओं की शिकायत रही है कि पॉडभारती का रवैया गीत-संगीत और सिनेमा के प्रति बेरूखी का रहा है। हमें पूरा यकीन है कि पॉडभारती के इस अंक में यह शिकायत दूर हो जायेगी। हमारे चतुर्थ अंक में आप सुन सकते है:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;भारत-पाकिस्तान के बंटवारे की पृष्ठभूमि पर बनी फिल्म 🎞️ गदर का अनूठा पॉडिकरण&lt;/li&gt;&#xA;&lt;li&gt;सिलिकन वैली में रहने वाले 13 साल के बेहद प्रतिभाशाली एनआरआई बालक &lt;a href=&#34;http://www.elementeo.com/aboutthecreator&#34;&gt;अंशुल समर&lt;/a&gt; @anshulsamar से खास बातचीत और&lt;/li&gt;&#xA;&lt;li&gt;कनाडा की उड़न तश्तरी यानी स्टार ब्लॉगर &lt;a href=&#34;http://udantashtari.blogspot.com/&#34;&gt;समीरलाल&lt;/a&gt; @sameerlal  की एक अलग तरह की प्रतिभा की एक झलक।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;एक-अपडट&#34;&gt;एक अपडेट&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/../../images/posts/anshul_samar.jpg#right&#34; alt=&#34;Anshul Samar&#34; title=&#34;Anshul Samar&#34;&gt; इस अंक के निर्माण के 12 साल बाद 2019 में मेरी अंशुल से LinkedIn पर भेंट हुई। वो अब घनी दाढ़ी वाला 25 वर्षीय युवक है। हर्ष की बात है कि अंशुल को ये इंटरव्यू याद था। अंशुल ने कहा, “हेलो देबाशीष अंकल! वाह, ये तो ब्लास्ट फ्रॉम द पास्ट है। आप मुझे मेरे मिडल स्कूल के दिनों में वापस ले आए, मैंने इसे अपने परिवार को भी भेज दिया। मैं अपनी सीट पर बैठा उस समय किये अपने बड़बोलेपन को सुन रहा हूं, और साथ ही, गहराई से आभारी हूं कि आपने अपने पॉडकास्ट पर 13 साल के बच्चे के लिए समय निकाला। दरअसल आप जैसे लोगों, TiE के मेंटर्स और गेम इंडस्ट्री के अन्य लोगों के प्रोत्साहन के कारण ही मुझे इस पर काम करने का अवसर मिला है। हमने पिछले साल तक अमेज़ॅान पर रसायन विज्ञान के खेल बेचे 🙂 पर मैंने अब एलीमेंटो के काम को समेट लिया है। हाल ही में मैंने अपनी स्नातक डिग्री पूरी की और एआई हार्डवेयर के क्षेत्र में एक नया काम शुरू किया है।&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Implement and Understand PEFT Fine-tune Bloom-560m-tagger</title>
-      <link>http://localhost:1313/posts/step_by_step_peft_fine_tune_bloom_560m_tagger_guide/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/step_by_step_peft_fine_tune_bloom_560m_tagger_guide/</guid>
-      <description>Fantastic! Let&amp;rsquo;s dive right in.&#xA;Welcome to your next adventure in machine learning! In this guide, we&amp;rsquo;ll explore the PEFT Fine-tune Bloom-560m-tagger project, a cutting-edge endeavor that combines the power of language models with efficient fine-tuning techniques. Whether you&amp;rsquo;re a seasoned data scientist or a curious enthusiast, this tutorial will equip you with the knowledge and tools to implement and understand the intricacies of this project.&#xA;Setting Up the Environment Before we dive into the code, let&amp;rsquo;s ensure our workspace is ready.</description>
+      <title>This podcast will be an inspiration to others</title>
+      <link>http://localhost:1313/reviews/g_vishwanath/</link>
+      <pubDate>Tue, 12 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/g_vishwanath/</guid>
+      <description>&lt;h4 id=&#34;this-podcast-will-be-an-inspiration-to-others-too-other-regional-language-podcasts-too-will-take-birth-blogging-and-podcasting-will-no-longer-be-handicapped-by-the-barriers-imposed-by-the-english-language-the-creative-energies-and-talents-of-millions-of-educated-indians-who-are-better-at-expressing-themselves-in-hindi-or-other-regional-languages-will-get-a-boost-podcasting-will-now-reach-out-to-a-much-wider-group-of-people-not-just-the-english-knowing-among-the-indian-people&#34;&gt;&amp;ldquo;This podcast will be an inspiration to others too. Other regional language podcasts too will take birth. Blogging and podcasting will no longer be handicapped by the barriers imposed by the English language. The creative energies and talents of millions of educated Indians who are better at expressing themselves in Hindi or other regional languages will get a boost. Podcasting will now reach out to a much wider group of people, not just the English knowing among the Indian people.&amp;rdquo;&lt;/h4&gt;</description>
     </item>
     <item>
-      <title>LangChain AutoGPT Crafting a YouTube GPT Creator with Streamlit</title>
-      <link>http://localhost:1313/posts/langchain_autogpt_youtube_creator/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/langchain_autogpt_youtube_creator/</guid>
-      <description>Welcome to the fascinating world of LangChain AutoGPT, where we merge the power of AI with the simplicity of Streamlit to create a YouTube GPT Creator. This blog is your all-access pass to understanding the nuts and bolts of each line of code that goes into making an automated content generation app.&#xA;Let&amp;rsquo;s dive into the nitty-gritty of building an application that not only generates YouTube video titles and scripts but also learns and adapts over time.</description>
+      <title>Reminiscent of 1970-80s style radio</title>
+      <link>http://localhost:1313/reviews/amit_ranjan/</link>
+      <pubDate>Sun, 10 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/amit_ranjan/</guid>
+      <description>&lt;h4 id=&#34;the-audio-quality-is-greatimagespostswebyantrapng-moreover-the-tone-and-style-of-the-podcast-is-highly-reminiscent-of-1970-80s-style-radio-somewhat-like-amin-sayanis-famous-shows&#34;&gt;“&lt;a href=&#34;../../images/posts/webyantra.png&#34;&gt;The audio quality is great&lt;/a&gt;. Moreover, the tone and style of the podcast is highly reminiscent of 1970-80s style radio, somewhat like Amin Sayani’s famous shows.”&lt;/h4&gt;</description>
     </item>
     <item>
-      <title>Learning to Swarm: How Swarm Learning Powers Next-Gen Cybersecurity</title>
-      <link>http://localhost:1313/posts/learning_to_swarm_how_swarm_learning/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/learning_to_swarm_how_swarm_learning/</guid>
-      <description>Introduction In the vast digital ecosystem, where threats evolve at breakneck speed, a revolutionary approach is making waves: swarm learning. This isn&amp;rsquo;t your ordinary tech trend; it&amp;rsquo;s a paradigm shift inspired by nature itself. Just like flocks of birds move in harmony or schools of fish pivot to evade predators, swarm learning harnesses the power of collective intelligence to fortify our digital defenses.&#xA;Imagine a network of computers learning from each other in real-time, sharing insights and strategies without a central command, each node contributing to a more resilient and adaptive security system.</description>
+      <title>अंक 3 : मायावती पर फ्रेश रिलायंस</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e3/</link>
+      <pubDate>Sun, 20 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e3/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;पॉडभारती के पॉडज़ीन स्वरूप में इज़ाफा करते हुये हम इसके तृतीय अंक में सामयिक घटनाओं के विश्लेषण शामिल कर रहे हैं। हमारे तृतीय अंक में आप सुन सकते हैं,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;पॉडभारती के विगत अंकों पर श्रोताओं की राय का अवलोकन व हमारी प्रतिक्रिया,&lt;/li&gt;&#xA;&lt;li&gt;13 मई 2007 को राँची में रिलायंस फ्रेश सुपरमार्केट पर पथराव की घटना के दूरगामी परिणाम देखने का प्रयास अफलातून देसाई और आलोक पुराणिक के साथ और&lt;/li&gt;&#xA;&lt;li&gt;उत्तर प्रदेश के असेंबली चुनाव में बसपा को मिले बहुमत के निहितार्थ बताती सृजन शिल्पी की विशेष वार्ता।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;With the addition of a podzine format to Podbharti, we are incorporating analysis of current events in its third issue. In this issue, you can listen to:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ludwig Fine-Tuning for Llama2-7b A Step-by-Step Guide</title>
-      <link>http://localhost:1313/posts/ludwig_fine_tuning_llama2_7b/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/ludwig_fine_tuning_llama2_7b/</guid>
-      <description>In the fast-evolving domain of machine learning, the ability to fine-tune pre-trained models is invaluable, significantly enhancing performance on specialized tasks. This blog post explores how to fine-tune the Llama2-7b model using Ludwig, an open-source tool that simplifies and optimizes deep learning projects. Whether you&amp;rsquo;re a seasoned data scientist or a hobbyist, this guide will equip you with the knowledge to set up, configure, and deploy a fine-tuned AI model.</description>
+      <title>पॉडभारती डॉट कॉम ने शुरू की शुद्ध हिंदी में पॉडकास्टिंग सेवा</title>
+      <link>http://localhost:1313/posts/podbharati_launches/</link>
+      <pubDate>Tue, 15 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/podbharati_launches/</guid>
+      <description>&lt;p&gt;मुझे आपको यह बताते हुए खुशी हो रही है कि मैंने और हिंदी ब्लॉगर शशि सिंह ने भारत और विदेशों में हिंदी दर्शकों के लिए भारत की पहली शुद्ध हिंदी पॉडज़ीन पॉडभारती शुरू की है, जो भारतीय भाषा ब्लॉगिंग, उपकरण और प्रौद्योगिकी, समसामयिक मामलों और मनोरंजन उद्योग के बारे में समाचार और विचारों की व्यापक कवरेज प्रदान करती है।&lt;/p&gt;&#xA;&lt;p&gt;अंग्रेज़ी पॉडकास्ट &lt;a href=&#34;https://theindicast.com/&#34;&gt;द इंडिकास्ट&lt;/a&gt; के सह-निर्माता आदित्य म्हात्रे ने कहा, “बहुत सारे पॉडकास्ट पूरी तरह से फ्रेंच, स्पेनिश आदि में किए जा रहे हैं, लेकिन भारतीय भाषा में कोई नहीं किया गया है, इसलिए हिंदी-केंद्रित पॉडज़ीन बनाना एक बढ़िया विचार है। पॉडभारती एक बहुत बड़ी कमी को पूरा करता है।”&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Master MNIST Image Classification with Ludwig</title>
-      <link>http://localhost:1313/posts/mnist_image_classification_ludwig/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/mnist_image_classification_ludwig/</guid>
-      <description>MNIST dataset, containing images of handwritten digits, is a cornerstone in the machine learning community for benchmarking image classification algorithms. Ludwig, a flexible tool created by Uber, makes deep learning simpler by allowing you to train a model without needing extensive coding. In this tutorial, we&amp;rsquo;ll go through a complete setup of using Ludwig for MNIST image classification, from installation to visualization of results.&#xA;Setting Up Your Environment Install Ludwig First, ensure your environment is ready to run Ludwig.</description>
+      <title>अंक 2 : मातृत्व दिवस विशेष</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e2/</link>
+      <pubDate>Sun, 13 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e2/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;हमारे समाज में मां को एक देवी का दर्जा मिला हुआ है और इसी की बदौलत मातृत्व को संसार का सबसे बड़ा सुख माना जाता है। मगर दु:ख कि बात यह है कि हर मां इतनी खुशकिस्मत नहीं। इस दुनिया में कुछ मांएं ऐसी भी हैं जिन्हें न तो देवी माना जाता है और न ही उनका मातृत्व सुख का कारण है। जी हां, हम उन्हीं औरतों की बात कर रहे हैं जिन्हें ये समाज वेश्यायें, रंडी, तवायफ और न जाने किन-किन नामों से पकारता है, उनके मातृत्व को पाप और कलंक कहता है। ऐसी ही कुछ मांओं से कीजिये मुलाकात और जानिये उनके बच्चों और उनके सपनों को पॉडभारती के इस मदर्स डे विशेषांक में। कार्यक्रम की परिकल्पना व संचालन किया है शशि सिंह ने। इस मार्मिक पॉडकास्ट को आप कभी भूल न पायेंगे, हमारा वादा है।&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mastering Face Recognition with Python A Step-by-Step Guide</title>
-      <link>http://localhost:1313/posts/mastering_face_recognition_python/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/mastering_face_recognition_python/</guid>
-      <description>In a world where security and personalization are paramount, face recognition technology has emerged as a game-changer. Python, with its simplicity and robust libraries, offers a gateway into this fascinating world. Today, we’re going to explore how you can develop your own face recognition system using Python. By the end of this guide, you’ll not only understand the nuts and bolts of the process but also have a working project to show for it.</description>
+      <title>Excellent production quality, content delivery and choice of topics</title>
+      <link>http://localhost:1313/reviews/amit-agarwal/</link>
+      <pubDate>Sat, 12 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/amit-agarwal/</guid>
+      <description>&lt;h4 id=&#34;podbharati-is-one-show-you-just-cannot-afford-to-miss--excellent-production-quality-content-delivery-and-choice-of-topics&#34;&gt;&amp;ldquo;Podbharati is one show you just cannot afford to miss – excellent production quality, content delivery and choice of topics.”&lt;/h4&gt;</description>
     </item>
     <item>
-      <title>Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face</title>
-      <link>http://localhost:1313/posts/mastering_gpt_neo_x_20b_training_bnb2bit_hugging_face/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/mastering_gpt_neo_x_20b_training_bnb2bit_hugging_face/</guid>
-      <description>The era of large language models has seen rapid advancements, and training them efficiently is a significant challenge due to their size and complexity. Enter GPT-Neo-X-20B, a behemoth in the AI world, and the innovative bnb2bit training method. In this blog, we will unravel the process of training GPT-Neo-X-20B using bnb2bit precision, leveraging the Hugging Face ecosystem to streamline our training process. Ready to tackle this giant? Let’s start our journey!</description>
-    </item>
-    <item>
-      <title>Mastering Stable Vicuna13B on Colab A Comprehensive 8-bit Implementation Guide</title>
-      <link>http://localhost:1313/posts/master_stable_vicuna13b_colab_8bit/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/master_stable_vicuna13b_colab_8bit/</guid>
-      <description>Embark on a journey to master Stable Vicuna13B, a powerful AI model, in the 8-bit configuration on Google Colab. This extensive guide covers every step from setup to execution, ensuring a thorough understanding and effective operation of the model.&#xA;Setting Up Your Environment Installing Necessary Libraries !pip -q install git+https://github.com/huggingface/transformers !pip install -q datasets loralib sentencepiece !pip -q install bitsandbytes accelerate We begin by installing the essential libraries. The transformers library from Hugging Face provides us with the model and tokenizer.</description>
-    </item>
-    <item>
-      <title>Mastering the MPT-Instruct-30B A Deep Dive into Model Training</title>
-      <link>http://localhost:1313/posts/mpt_instruct_30b_model_training/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/mpt_instruct_30b_model_training/</guid>
-      <description>Getting Your Environment Ready: The First Step to AI Mastery Before you can start playing with the big guns of AI models, you need to set up your environment. And this setup is not just any random assortment of commands; it&amp;rsquo;s like prepping your spacecraft before a moon mission.&#xA;Installing Dependencies: The Unsung Heroes !pip -q install git+https://github.com/huggingface/transformers !pip install -q datasets loralib sentencepiece !pip -q install bitsandbytes accelerate xformers einops These lines are your first leap into the AI universe.</description>
-    </item>
-    <item>
-      <title>Measuring the Impact of Shift Left on Cybersecurity Posture</title>
-      <link>http://localhost:1313/posts/measuring_the_impact_of_shift_left/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/measuring_the_impact_of_shift_left/</guid>
-      <description>In today&amp;rsquo;s digital landscape, the sophistication and frequency of cyber threats are on a relentless rise, posing an ever-present challenge to organizations across the globe. As these threats evolve, so too must the strategies to counteract them. Among the most innovative and effective strategies emerging in recent years is the Shift Left approach, which seeks to integrate security measures at the earliest stages of the software development lifecycle (SDLC).&#xA;This proactive methodology represents a paradigm shift from traditional reactive security measures, aiming to identify and mitigate vulnerabilities well before software products reach production.</description>
-    </item>
-    <item>
-      <title>MPT-30B Chatbot with LangChain A Comprehensive Guide to Building Advanced Conversational AI</title>
-      <link>http://localhost:1313/posts/mpt_30b_chatbot_with_langchain_advanced_guide/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/mpt_30b_chatbot_with_langchain_advanced_guide/</guid>
-      <description>Are you intrigued by the potential of artificial intelligence in enhancing conversational experiences? In this guide, we will delve into creating a high-level chatbot using the MPT-30B model integrated with LangChain. This tutorial is designed to empower tech enthusiasts, developers, and AI researchers with the tools and knowledge to build a state-of-the-art chatbot.&#xA;Preparing Your Development Environment To kick things off, you&amp;rsquo;ll need to prepare your environment. This involves installing several crucial libraries that will enable the creation and operation of your chatbot.</description>
-    </item>
-    <item>
-      <title>Reinforcement Learning with Human Feedback Building a Custom Dataset for Any Model</title>
-      <link>http://localhost:1313/posts/rlhf_training_custom_dataset_any_model/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/rlhf_training_custom_dataset_any_model/</guid>
-      <description>Reinforcement Learning with Human Feedback (RLHF) is a powerful technique in machine learning that combines the strengths of supervised learning with reinforcement learning. It enables models to learn from both structured data and iterative feedback, enhancing their predictive accuracy and adaptability. In this guide, we&amp;rsquo;ll take you through setting up RLHF for any model using a custom dataset. By the end of this post, you&amp;rsquo;ll know how to configure, train, and deploy your model efficiently.</description>
-    </item>
-    <item>
-      <title>Repo Chat Revolutionizing Interaction with GitHub Repositories through AI</title>
-      <link>http://localhost:1313/posts/repo_chat_ai_github/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/repo_chat_ai_github/</guid>
-      <description>In the fast-paced world of software development, accessing and understanding vast repositories of code can be daunting. Repo Chat represents a breakthrough, merging the power of AI with GitHub’s extensive codebases to create a conversational interface. This innovative approach allows users to engage with repositories in a dynamic, interactive manner, making it easier to navigate and understand complex code structures.&#xA;Setting Up the Environment To get started with Repo Chat, you need to install specific Python libraries that facilitate the integration of AI and code repository interaction:</description>
-    </item>
-    <item>
-      <title>Revolutionizing Cloud Security Posture Management with AI</title>
-      <link>http://localhost:1313/posts/how_ai_is_revolutionizing_cybersecurity/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how_ai_is_revolutionizing_cybersecurity/</guid>
-      <description>Introduction In the digital age, where cyber threats loom larger and more sophisticated with each passing day, the quest for robust cybersecurity measures has never been more critical. Picture this: a world where cybersecurity defenses not only react to threats but anticipate them, adapt to them, and neutralize them almost instantaneously. Welcome to 2024, where artificial intelligence (AI) is no longer just a buzzword but the backbone of cutting-edge cybersecurity strategies.</description>
-    </item>
-    <item>
-      <title>Revolutionizing Cloud Security Posture Management with AI</title>
-      <link>http://localhost:1313/posts/revolutionizing_cloud_security_posture/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/revolutionizing_cloud_security_posture/</guid>
-      <description>Introduction In today&amp;rsquo;s cloud-centric digital landscape, the complexity and volume of security threats have escalated, pushing traditional Cloud Security Posture Management (CSPM) strategies to their limits. A staggering 90% of organizations admit to experiencing at least one cloud-based security breach, underscoring the critical need for more advanced and dynamic defense mechanisms. Enter Artificial Intelligence (AI) &amp;mdash; the game-changer in cloud security that&amp;rsquo;s shifting the paradigm from reactive to predictive security management.</description>
-    </item>
-    <item>
-      <title>Text-to-Image Generation Unleashing Creativity with AI</title>
-      <link>http://localhost:1313/posts/text_to_image_generation_unleashing_creativity_with_ai/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/text_to_image_generation_unleashing_creativity_with_ai/</guid>
-      <description>In the realm of digital artistry, text-to-image generation stands as a testament to the remarkable capabilities of artificial intelligence. This transformative technology allows us to convert written language into compelling visual narratives, effectively bridging the gap between textual concepts and their visual representations. Our exploration delves deep into this fascinating intersection of AI and creativity, employing the Stable Diffusion model to turn words into images.&#xA;Preparing the Digital Atelier: Setting Up the Environment Like any artist preparing their studio, we begin by setting up our digital environment.</description>
-    </item>
-    <item>
-      <title>The Role of AI in Preventing DDoS Attacks on Blockchain Networks</title>
-      <link>http://localhost:1313/posts/the_role_of_ai_in_preventing_ddos/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/the_role_of_ai_in_preventing_ddos/</guid>
-      <description>Introduction In the vast digital ecosystem, where threats evolve at breakneck speed, a revolutionary approach is making waves: swarm learning. This isn&amp;rsquo;t your ordinary tech trend; it&amp;rsquo;s a paradigm shift inspired by nature itself. Just like flocks of birds move in harmony or schools of fish pivot to evade predators, swarm learning harnesses the power of collective intelligence to fortify our digital defenses.&#xA;Imagine a network of computers learning from each other in real-time, sharing insights and strategies without a central command, each node contributing to a more resilient and adaptive security system.</description>
-    </item>
-    <item>
-      <title>Understanding the Voice GPT Project A Technical Exploration</title>
-      <link>http://localhost:1313/posts/voice_gpt_project_explained/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/voice_gpt_project_explained/</guid>
-      <description>In the realm of artificial intelligence, the Voice GPT project stands as a testament to innovation, integrating various technologies to create a seamless voice interaction system. This project harnesses the power of OpenAI&amp;rsquo;s Whisper, Gradio, TTS, and other pivotal libraries to build an ecosystem where voice processing achieves new heights of accuracy and responsiveness.&#xA;The Genesis of Voice GPT: Installing the Foundations The initial phase of the project involves installing essential libraries, each contributing uniquely to the system’s capabilities:</description>
-    </item>
-    <item>
-      <title>Understanding Web3 Cybersecurity Challenges</title>
-      <link>http://localhost:1313/posts/understanding_web3_cybersecurity/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/understanding_web3_cybersecurity/</guid>
-      <description>Introduction: The New Frontier of Web3 As we stand on the brink of a digital revolution, the emergence of Web3 heralds a transformative era for the internet as we know it. This new phase, characterized by decentralization, blockchain technologies, and a push towards user sovereignty, redefines our interactions online, promising a future where users have unprecedented control over their data and digital identities.&#xA;Web3, in essence, represents a shift from centralized platforms, where data is stored in servers owned by a handful of corporations, to a decentralized network, built on the principles of blockchain technology.</description>
-    </item>
-    <item>
-      <title>Unleashing AI Power Setting Up Auto GPT in Google Colab</title>
-      <link>http://localhost:1313/posts/setting_up_auto_gpt_in_google_colab/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/setting_up_auto_gpt_in_google_colab/</guid>
-      <description>In the ever-evolving world of artificial intelligence, the need for accessible and efficient AI tools is paramount. Enter Auto GPT, a game-changer in automating AI tasks, and Google Colab, the perfect playground for AI enthusiasts. This blog will guide you through setting up Auto GPT in Google Colab, ensuring a smooth ride into the automation of AI tasks.&#xA;What is Auto GPT? Auto GPT represents the cutting edge in generative AI technology, offering a robust solution for automating a wide array of tasks.</description>
-    </item>
-    <item>
-      <title>Unlocking Language Barriers in Coding The Power of Code Translate AI</title>
-      <link>http://localhost:1313/posts/code_translate_ai_unlocking_language_barriers/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/code_translate_ai_unlocking_language_barriers/</guid>
-      <description>In the digital age, where programming languages are as diverse as the developers who use them, the ability to translate code seamlessly from one language to another is nothing short of magical. Code Translate AI emerges as a groundbreaking tool, bridging the gap between languages and making multi-language development more accessible than ever before.&#xA;The Dawn of Code Translation Code Translate AI isn&amp;rsquo;t just a tool; it&amp;rsquo;s a revolution in the coding world.</description>
-    </item>
-    <item>
-      <title>Unlocking the Future: Predicting the Next Big Revolution in Blockchain and AI</title>
-      <link>http://localhost:1313/posts/unlocking_the_future_predicting_the/</link>
-      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/unlocking_the_future_predicting_the/</guid>
-      <description>Introduction Imagine having a magic mirror rather than a crystal ball, one that doesn&amp;rsquo;t just predict the future but actively shapes it, especially in the realms of Blockchain and Artificial Intelligence (AI). That&amp;rsquo;s exactly the role we&amp;rsquo;ve embraced here at Armur AI. Far from being mere spectators, we&amp;rsquo;re at the vanguard, merging the formidable powers of AI and Blockchain to redefine cybersecurity&amp;rsquo;s landscape.&#xA;Blockchain and AI, each a behemoth in its own right, have begun to converge in ways that promise to amplify their individual strengths.</description>
-    </item>
-    <item>
-      <title>Chat with PDF Mistral-7B: Interacting with Documents Through AI</title>
-      <link>http://localhost:1313/posts/chat_with_pdf_mistral_7b/</link>
-      <pubDate>Fri, 02 Feb 2024 18:30:33 +0530</pubDate>
-      <guid>http://localhost:1313/posts/chat_with_pdf_mistral_7b/</guid>
-      <description>In the age of information overload, efficiently extracting knowledge from documents is crucial. Chat with PDF’s Mistral-7B leverages AI to transform static PDF files into dynamic conversational partners. Imagine querying any PDF document as if you were chatting with an expert on its content. This blog will guide you through creating such an interactive experience, using the Mistral-7B model within a Streamlit web application.&#xA;Setting Up the Environment Before diving into the code, you need to set up your environment in Google Colab.</description>
-    </item>
-    <item>
-      <title>How to Build an Automated Web Scraping Tool with Python</title>
-      <link>http://localhost:1313/posts/automated_web_scraping_python_guide/</link>
-      <pubDate>Fri, 02 Feb 2024 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/automated_web_scraping_python_guide/</guid>
-      <description>Are you interested in automating the process of gathering data from websites? Web scraping is a powerful tool for collecting information from the internet, and with the help of Python, you can easily automate this process. In this blog, we&amp;rsquo;ll walk through the creation of an Automated Web Scraping tool that not only fetches website content but also uses AI to summarize it. We&amp;rsquo;ll break down each line of code, explain its purpose, and show you how to use this project on your own.</description>
-    </item>
-    <item>
-      <title>Best Practices for Securing Smart Contracts</title>
-      <link>http://localhost:1313/posts/best_practices_for_securing_smart/</link>
-      <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/best_practices_for_securing_smart/</guid>
-      <description>Introduction In the fascinating world of blockchain technology, smart contracts are akin to the wizards of automation, casting spells that execute transactions and agreements seamlessly, without the need for intermediaries. These digital contracts run on blockchain networks, self-executing when predetermined conditions are met, revolutionizing how agreements are formed and upheld in the digital age. From creating decentralized applications (dApps) to automating complex financial instruments, smart contracts are at the heart of blockchain&amp;rsquo;s promise for a more transparent, efficient, and secure digital future.</description>
-    </item>
-    <item>
-      <title>Creating Your First Secure Smart Contract in Solidity A Beginner&#39;s Guide</title>
-      <link>http://localhost:1313/posts/crafting_your_first_secure_smart/</link>
-      <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/crafting_your_first_secure_smart/</guid>
-      <description>Introduction Imagine a world where agreements and transactions happen seamlessly without the need for a middleman, where trust is built into the system, and where your digital assets are securely managed by code. Welcome to the revolutionary world of smart contracts! These aren&amp;rsquo;t your average contracts written on paper but are smart, digital, and automated contracts that live on the blockchain. And when it comes to these digital marvels, security isn&amp;rsquo;t just a feature; it&amp;rsquo;s the cornerstone.</description>
-    </item>
-    <item>
-      <title>Cybersecurity in the IoT Era How Blockchain &amp; AI Shield Your Devices</title>
-      <link>http://localhost:1313/posts/cybersecurity_in_the_iot_era_how/</link>
-      <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/cybersecurity_in_the_iot_era_how/</guid>
-      <description>Ah, the Internet of Things (IoT) &amp;ndash; that futuristic concept we all dreamed about is now a tangible reality, connecting everything from your fridge to your car. But with great connectivity comes great responsibility, or in this case, a massive cybersecurity headache. As our devices chatter away, they open doors to potential cyber threats. Enter the dynamic duo of blockchain and artificial intelligence (AI). These technologies are not just reshaping the cybersecurity landscape; they&amp;rsquo;re redefining it, with pioneers like Armur AI leading the charge.</description>
-    </item>
-    <item>
-      <title>How to Build an AI NSFW Content Checker with Python</title>
-      <link>http://localhost:1313/posts/ai_nsfw_content_checker_python/</link>
-      <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/ai_nsfw_content_checker_python/</guid>
-      <description>In today’s digital age, monitoring and filtering Not Safe For Work (NSFW) content is crucial for maintaining professional and age-appropriate environments. Whether you’re a developer looking to integrate content moderation into your app, or just curious about how AI can assist in distinguishing safe from unsafe content, building an AI NSFW content checker can be a fascinating project. This blog post will guide you through creating an AI NSFW content checker using Python, Streamlit, and OpenNSFW2.</description>
-    </item>
-    <item>
-      <title>Implementing Shift Left in DevOps Strategies and Challenges</title>
-      <link>http://localhost:1313/posts/implementing_shift_left_in_devops/</link>
-      <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/implementing_shift_left_in_devops/</guid>
-      <description>Introduction In the rapidly evolving landscape of software development, the integration of DevOps practices has become a cornerstone for achieving efficiency, speed, and reliability in the delivery of software products. Amidst this transformation, a pivotal approach known as &amp;ldquo;Shift Left&amp;rdquo; has gained prominence, underscoring the importance of embedding security and testing early in the software development lifecycle (SDLC). This proactive strategy not only aims to enhance the quality and security of software but also significantly reduces the time to market by identifying and addressing issues at their inception.</description>
-    </item>
-    <item>
-      <title>The Importance of Privacy in Blockchain Applications</title>
-      <link>http://localhost:1313/posts/the_importance_of_privacy_in_blockchain/</link>
-      <pubDate>Mon, 18 Dec 2023 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/the_importance_of_privacy_in_blockchain/</guid>
-      <description>Introduction&#xA;In the realm of blockchain technology, a paradox exists at its very core: the need for both transparency and privacy. On one hand, blockchain&amp;rsquo;s transparency is lauded for its ability to offer unparalleled visibility into transactions, fostering trust among users. On the other, this very openness poses significant privacy concerns, revealing transaction details that users might prefer to keep private. This tension between transparency and privacy raises an essential question: How can blockchain applications maintain their inherent security and openness while also protecting the privacy of their users?</description>
-    </item>
-    <item>
-      <title>Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</title>
-      <link>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</link>
-      <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
-      <guid>http://localhost:1313/posts/bitcoin_price_prediction_svm_python_guide/</guid>
-      <description>The allure of predicting Bitcoin prices lies in the volatile nature of the cryptocurrency market. With the right analytical tools and algorithms, we can glean insights into future trends, helping investors make informed decisions. This blog post dissects a Python project that employs a Support Vector Machine (SVM) to forecast Bitcoin prices, offering a granular look at the programming and statistical concepts underpinning this predictive model.&#xA;Connecting and Accessing Data First and foremost, accessing the historical Bitcoin price data is crucial:</description>
+      <title>अंक 1 : मुहल्ला ट्राँसलिट्रेशन वाला</title>
+      <link>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e1/</link>
+      <pubDate>Tue, 08 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/podbharati-classic/episodes/s1e1/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;प्रस्तुत है पॉडपत्रिका &lt;strong&gt;पॉडभारती&lt;/strong&gt; का पहला अंक। कार्यक्रम का संचालन किया है &lt;a href=&#34;http://nuktachini.debashish.com/&#34;&gt;देबाशीष चक्रवर्ती&lt;/a&gt; ने और परिकल्पना है देबाशीष और &lt;a href=&#34;http://mumbaiblogs.in/&#34;&gt;शशि सिंह&lt;/a&gt; की। अप्रेल 2007 के इस प्रथम अंक में आप सुनेंगे।&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;हिन्दी चिट्ठाकारी ने अप्रेल 2007 में चार साल पूरे किये हैं। ये फासला कोई खास तो नहीं पर कई लोग इसी बिना पर पितृपुरुष और पितामह कहलाये जाने लगे हैं और अखबारों में छपने लगे हैं। पॉडभारती के लिये चिट्ठाकारी के इस छोटे सफर का अवलोकन कर रहे हैं &lt;strong&gt;लोकप्रिय चिट्ठाकार &lt;a href=&#34;http://hindi.com/fursatiya&#34; title=&#34;Fursatiya&#34;&gt;अनूप शुक्ला&lt;/a&gt;&lt;/strong&gt;।&lt;/li&gt;&#xA;&lt;li&gt;गूगल के हिन्दी ट्रांस्लिट्रेशन टूल के प्रवेश से हिन्दी चिट्ठाकारी को एक नया आयाम मिला है। इस टूल के बारे में और जानकारी देंगे &lt;strong&gt;टेकगुरु &lt;a href=&#34;http://raviratlami.blogspot.com/&#34; title=&#34;Ravi Ratlami&#34;&gt;स्व. रविशंकर श्रीवास्तव&lt;/a&gt;&lt;/strong&gt;।&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://mohalla.blogspot.com/&#34; title=&#34;Mohalla&#34;&gt;&lt;strong&gt;मोहल्ला&lt;/strong&gt;&lt;/a&gt; हिन्दी का एक नया पर चर्चित ब्लॉग है। यहाँ इरफान के हवाले से लिखे एक लेख ने ऐसा हंगामा बरपा किया कि हिन्दी चिट्ठाजगत ही ध्रुवों में बंट गया। बहस वाया सांप्रदायिकता लानत मलानत और एक दूसरे के गिरेबान तक जा पहूंची। मुहल्ला पर अविनाश के माफ़ीनामे तक से मामला अब तक ठंडा नहीं पड़ा। इसी संवेदनशील विषय पर सुनिये पॉडभारती के &lt;strong&gt;शशि सिंह&lt;/strong&gt; की खास रपट।&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/../../images/seperator-gold.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
+      <description>&lt;p&gt;&lt;strong&gt;पॉडभारती&lt;/strong&gt; अप्रेल 2007 में प्रारंभ एक हिन्दी पॉडपत्रिका है, जिसेतकनलाजी, इंटरनेट पर भारतीय भाषाओं से संबंधित तकनीक व जानकारी तथा सामयिक विषयों और मनोरंजन पर विविध समाचार-विचार प्रस्तुत करने के उद्देश्य से बनाया गया था। इसकी मूल परिकल्पना व सहनिर्माण किया था &lt;a href=&#34;http://www.debashish.com&#34;&gt;देबाशीष चक्रवर्ती&lt;/a&gt; और &lt;a href=&#34;http://bhojpuri.blogspot.com/&#34;&gt;शशि सिंह&lt;/a&gt; ने।&lt;/p&gt;&#xA;&lt;p&gt;पॉडभारती के पुराने व नये जालस्थल, लोगो व बैनर का निर्माण देबाशीष ने किया। पहले पहल पॉडभारती अपनी आडियो फाईलें &lt;a href=&#34;https://web.archive.org/web/20110716100507/http://www.blip.tv/&#34;&gt;ब्लिप&lt;/a&gt; पर सहेजा करता था, फिर यह होस्टिंग &lt;a href=&#34;https://web.archive.org/web/20080914180907/http://www.podbazaar.com:80/view/126100789566374041&#34;&gt;पॉडबाज़ार&lt;/a&gt; द्वारा उपलब्ध कराई गई। पॉडबाजार के भी बंद होने के पश्चात हमने &lt;a href=&#34;https://soundcloud.com/podbharti&#34;&gt;साउंडक्लाउड&lt;/a&gt; का प्रयोग किया। Podbharati.com के तहत बन रहे पॉडभारती के नये शो &lt;a href=&#34;http://anchor.fm/&#34;&gt;Anchor.fm&lt;/a&gt; (जो अब स्पॉटिफाई फॉर पॉडकास्टर्स नाम से जाना जाता है) पर होस्टेड रहे हैं। जुलाई 2020 में पॉडभारती का &lt;a href=&#34;https://youtube.com/@podbharati&#34;&gt;यूट्यूब चैनल&lt;/a&gt; शुरु किया गया जहाँ अब पॉडकास्ट्स के अतिरिक्त विडियो व शॉर्ट्स भी बनाये जाते हैं। पॉडभारती की &lt;a href=&#34;https://instagram.com/podbharati&#34;&gt;इंस्टाग्राम पर भी उपस्थिती&lt;/a&gt; है।&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.</description>
+      <description></description>
     </item>
     <item>
       <title>Elements</title>
       <link>http://localhost:1313/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/elements/</guid>
-      <description>A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.&#xA;Headings by default: H1 Default styles for headings H2 Default styles for headings H3 Default styles for headings H4 Default styles for headings H5 Default styles for headings H6 Default styles for headings Lists Ordered list example: Morbi lectus risus iaculis vel suscipit turpis quis.</description>
+      <description>&lt;p&gt;A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;headings-by-default&#34;&gt;Headings by default:&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1-default-styles-for-headings&#34;&gt;H1 Default styles for headings&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-default-styles-for-headings&#34;&gt;H2 Default styles for headings&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-default-styles-for-headings&#34;&gt;H3 Default styles for headings&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-default-styles-for-headings&#34;&gt;H4 Default styles for headings&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-default-styles-for-headings&#34;&gt;H5 Default styles for headings&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-default-styles-for-headings&#34;&gt;H6 Default styles for headings&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ordered-list-example&#34;&gt;Ordered list example:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Morbi lectus risus iaculis vel suscipit turpis quis.&lt;/li&gt;&#xA;&lt;li&gt;Curabitur sit amet mauris morbi in dui quis est pulvinar ullamcorper nulla facilisi.&lt;/li&gt;&#xA;&lt;li&gt;Nullam mauris orci aliquet iaculis et neque viverra vitae ligula.&lt;/li&gt;&#xA;&lt;li&gt;Proin quam etiam ultrices suspendisse in justo eu magna luctus lacinia suscipit.&lt;/li&gt;&#xA;&lt;li&gt;Aenean lectus elit fermentum non convallis id sagittis at neque mauris orci.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;unordered-list-example&#34;&gt;Unordered list example:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Etiam ultrices. Suspendisse in justo massa fusce non.&lt;/li&gt;&#xA;&lt;li&gt;Sed non quam. In vel mi sit amet augue congue elementum.&lt;/li&gt;&#xA;&lt;li&gt;Suspendisse in justo eu magna luctus suscipit sed lectus.&lt;/li&gt;&#xA;&lt;li&gt;Quisque volutpat condimentum velit class aptent taciti sociosqu torquent.&lt;/li&gt;&#xA;&lt;li&gt;Aenean lectus elit fermentum non convallis id sagittis at neque.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;table&#34;&gt;Table&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;&#xA;&lt;h4 id=&#34;a-quote-looks-like-this&#34;&gt;A quote looks like this:&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Featured</title>
@@ -377,7 +209,7 @@
       <link>http://localhost:1313/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/videos/</guid>
-      <description>Commercials, Music Videos, Television, Film (Short and Feature length), TV News, Corporate video, and everything in between.</description>
+      <description>&lt;p&gt;Commercials, Music Videos, Television, Film (Short and Feature length), TV News, Corporate video, and everything in between.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

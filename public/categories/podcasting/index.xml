@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasting on Podbharati</title>
+    <link>http://localhost:1313/categories/podcasting/</link>
+    <description>Recent content in Podcasting on Podbharati</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/podcasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mike Testing</title>
+      <link>http://localhost:1313/podcasts/mike-testing/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/mike-testing/</guid>
+      <description>&lt;p&gt;Dive deep into the world where the magic happens – behind the mic. &amp;ldquo;Mike Testing&amp;rdquo; brings you exclusive conversations with the creative minds shaping the podcasting landscape. Each episode features candid discussions with podcasters, creators, and hosts, revealing the secrets of their craft. Join us on &amp;ldquo;Mike Testing&amp;rdquo; for a backstage pass to the podcasting world, and discover what it takes to keep listeners coming back for more. Subscribe now and never miss an episode!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

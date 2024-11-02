@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue on Podbharati</title>
+    <link>http://localhost:1313/tags/blue/</link>
+    <description>Recent content in Blue on Podbharati</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2024 15:01:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat with CSV using OpenAI</title>
+      <link>http://localhost:1313/posts/chat_with_csv_using_openai/</link>
+      <pubDate>Sun, 18 Feb 2024 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/posts/chat_with_csv_using_openai/</guid>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;Chat with CSV OpenAI&amp;rdquo; is more than a project; it&amp;rsquo;s an adventure into the realm of AI and data interaction. This application will serve as a bridge between you and your data, allowing you to converse with your CSV files through the magic of OpenAI&amp;rsquo;s language models. Imagine asking your data questions and getting answers as if you were chatting with a data scientist!&lt;/p&gt;&#xA;&lt;h3 id=&#34;setting-up-your-environment&#34;&gt;Setting Up Your Environment&lt;/h3&gt;&#xA;&lt;p&gt;First things first, let&amp;rsquo;s get our digital workspace ready. We are going to need Python, Streamlit for our web interface, Pandas for managing our data, and the OpenAI API for the intelligent part of our chat. Here&amp;rsquo;s how to lay the groundwork:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

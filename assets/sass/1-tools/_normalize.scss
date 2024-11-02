@@ -140,6 +140,11 @@ sup {
 img {
   border-style: none;
 }
+img[src*='#right'] {
+    float: right;
+    margin:20px;
+    pointer-events: none;
+}
 
 /* Forms
    ========================================================================== */

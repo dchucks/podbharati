@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podbharati</title>
+    <link>http://localhost:1313/authors/deb/</link>
+    <description>Recent content on Podbharati</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 18:31:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/deb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finetuning Mistral-7b FineTuning Model using Autotrain-advanced</title>
+      <link>http://localhost:1313/posts/finetuning_mistral_7b_autotrain_advanced/</link>
+      <pubDate>Sun, 26 May 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/finetuning_mistral_7b_autotrain_advanced/</guid>
+      <description>&lt;p&gt;The Mistral-7b model is a robust language model known for its performance and effefficiency. By leveraging Autotrain-Advanced, we can streamline the fine-tuning process, making it more efficient and accessible.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll cover everything from setting up your environment, preparing your data, and running the fine-tuning process, to evaluating the performance of your custom model.&lt;/p&gt;&#xA;&lt;p&gt;You can view the full notebook &lt;a href=&#34;https://colab.research.google.com/drive/1bicxnSG-TPm-asLtvwyeuIbgOJOQQNgB?usp=sharing#scrollTo=ZbOOX8cve0lR&#34;&gt;here&lt;/a&gt; or follow along with the following steps.&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-1-getting-started&#34;&gt;Step 1: Getting started&lt;/h3&gt;&#xA;&lt;p&gt;We will be using google colab or Jupyter notebook to create and filetune this model. The first step involves installing and setting up your enviroment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decentralized Botnets The Good, The Bad, and The Secure</title>
+      <link>http://localhost:1313/posts/decentralized_botnets_the_good_the/</link>
+      <pubDate>Fri, 02 Feb 2024 18:31:22 +0530</pubDate>
+      <guid>http://localhost:1313/posts/decentralized_botnets_the_good_the/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Welcome to the Wild, Wild Web!&lt;/strong&gt; A place where the digital gold rush meets the cyber outlaws, and the sheriffs are armed with nothing but code. In this thrilling expanse, there&amp;rsquo;s a new player in town: &lt;strong&gt;decentralized botnets&lt;/strong&gt;. Imagine a swarm of drones, each with its own mind, yet united in purpose, buzzing through the digital skies. Some are here to protect the town, while others have more nefarious plans. This tale isn&amp;rsquo;t just about the good, the bad, and the ugly; it&amp;rsquo;s about the &lt;strong&gt;good, the bad, and the secure&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>पॉडभारती डॉट कॉम ने शुरू की शुद्ध हिंदी में पॉडकास्टिंग सेवा</title>
+      <link>http://localhost:1313/posts/chat_with_csv_using_openai/</link>
+      <pubDate>Tue, 15 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chat_with_csv_using_openai/</guid>
+      <description>&lt;p&gt;मुझे आपको यह बताते हुए खुशी हो रही है कि मैंने और हिंदी ब्लॉगर शशि सिंह ने भारत और विदेशों में हिंदी दर्शकों के लिए भारत की पहली शुद्ध हिंदी पॉडज़ीन पॉडभारती शुरू की है, जो भारतीय भाषा ब्लॉगिंग, उपकरण और प्रौद्योगिकी, समसामयिक मामलों और मनोरंजन उद्योग के बारे में समाचार और विचारों की व्यापक कवरेज प्रदान करती है।&lt;/p&gt;&#xA;&lt;p&gt;अंग्रेज़ी पॉडकास्ट &lt;a href=&#34;https://theindicast.com/&#34;&gt;द इंडिकास्ट&lt;/a&gt; के सह-निर्माता आदित्य म्हात्रे ने कहा, “बहुत सारे पॉडकास्ट पूरी तरह से फ्रेंच, स्पेनिश आदि में किए जा रहे हैं, लेकिन भारतीय भाषा में कोई नहीं किया गया है, इसलिए हिंदी-केंद्रित पॉडज़ीन बनाना एक बढ़िया विचार है। पॉडभारती एक बहुत बड़ी कमी को पूरा करता है।”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

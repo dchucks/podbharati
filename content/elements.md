@@ -107,23 +107,23 @@ li {
 
 ## Images
 
-![Shopping](https://via.placeholder.com/1200x800#wide)
-*Photo by [Tim Douglas](https://via.placeholder.com/1200x800) on [Pexels](https://via.placeholder.com/1200x800)*
+![Shopping](https://via.placeholder.com/1920x1080#wide)
+*Photo by [Tim Douglas](https://via.placeholder.com/1920x1080) on [Pexels](https://via.placeholder.com/1920x1080)*
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
+    <img src="https://via.placeholder.com/1920x1080" loading="lazy">
+    <img src="https://via.placeholder.com/1920x1080" loading="lazy">
+    <img src="https://via.placeholder.com/1920x1080" loading="lazy">
+    <img src="https://via.placeholder.com/1920x1080" loading="lazy">
+    <img src="https://via.placeholder.com/1920x1080" loading="lazy">
+    <img src="https://via.placeholder.com/1920x1080" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Pexels</a></em>
+  <em>Gallery / <a href="https://via.placeholder.com/1920x1080" target="_blank">Pexels</a></em>
 </div>
 
-![Salad](https://via.placeholder.com/1200x800)
-*Photo by [Valeria Boltneva](https://via.placeholder.com/1200x800) on [Pexels](https://via.placeholder.com/1200x800)*
+![Salad](https://via.placeholder.com/1920x1080)
+*Photo by [Valeria Boltneva](https://via.placeholder.com/1920x1080) on [Pexels](https://via.placeholder.com/1920x1080)*
 
 ***
 

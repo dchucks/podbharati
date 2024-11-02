@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Management on Podbharati</title>
+    <link>http://localhost:1313/tags/product-management/</link>
+    <description>Recent content in Product Management on Podbharati</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>प्रॉडक्ट मैनेजमेंट में करियर: जया झा से साक्षात्कार | Career in Product Management</title>
+      <link>http://localhost:1313/podcasts/sopaan/episodes/s1e2/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sopaan/episodes/s1e2/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In the second episode of Sopaan, &lt;a href=&#34;https://www.youtube.com/@ThePracticalPM&#34;&gt;Jaya Jha&lt;/a&gt;, former Product Manager at Google, founder of Pothi.com and &amp;ldquo;The Practical PM&amp;rdquo; and author of &lt;a href=&#34;https://amzn.to/4hfaNlI&#34;&gt;So, you want to be a Product Manager&lt;/a&gt;, talks about the nuances of Product Management and life as a Product Manager, Ankur Warikoo warns about the most intoxicating impediment to one&amp;rsquo;s growth, and Donald Duck comes between an inventor and a #patent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
