@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Movies on Podbharati</title>
+    <title>Movies on Podbharati | पॉडभारती</title>
     <link>http://localhost:1313/tags/movies/</link>
-    <description>Recent content in Movies on Podbharati</description>
+    <description>Recent content in Movies on Podbharati | पॉडभारती</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jul 2007 00:00:00 +0000</lastBuildDate>

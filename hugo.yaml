@@ -2,9 +2,9 @@
 baseURL: http://podbharati.com
 languageCode: en-us
 title: Podbharati | पॉडभारती
-googleAnalytics: G-2LGN2L0VZY
 
 params:
+    googleAnalytics: G-2LGN2L0VZY
     logo: "/images/pb_transparent.png" # example "/images/logo.png".
     logo_dark: "/images/pb_transparent.png"
     color_scheme: "auto" # 3 modes auto, light, and dark. Auto mode: user can choose light or dark mode themself.
