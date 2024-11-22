@@ -1,0 +1,41 @@
+{{ if (.Site.Params.reviews_section.enable) }}
+<!-- begin section-reviews -->
+<section class="section section-authors animate">
+    <div class="container">
+        <div class="row">
+            <div class="col col-12">
+                <div class="section-authors__inner">
+                    {{ $reviews := ($.Site.GetPage "Type" "reviews").RegularPages }}
+
+                    {{ if .Site.Params.reviews_section.section_title }}
+                    <h3 class="section-authors__title">{{ .Site.Params.reviews_section.section_title }}</h3>
+                    {{ end }}
+
+                    <div class="section-authors__content">
+                        <div class="section-authors__box">
+                            {{ $counter := 0 }}
+                            {{ range $reviews.ByDate.Reverse }}
+                                {{ if  eq .Params.image "../../images/reviews/generic-male.jpg"}}
+                                {{ else }}
+                                    {{ $counter = add $counter 1 }}
+                                    <a href="{{ .Permalink }}" class="section-authors__image">
+                                        <img class="lazy" data-src="{{ .Params.image }}" alt="{{ .Params.name }}">
+                                    </a>
+                                    {{ if gt $counter 5 }}
+                                    {{break}}
+                                    {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                        {{ if gt $reviews 4 }}
+                        <a href="/reviews/" class="section-authors__link">See all reviews</a>                       
+                        {{ end }}
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section-authors -->
+{{ end }}

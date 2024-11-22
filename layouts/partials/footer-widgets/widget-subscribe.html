@@ -1,0 +1,13 @@
+{{ if .Site.Params.newsletter.enable }}
+<div class="col col-4 col-d-12">
+    <div class="widget-footer widget-subscribe">
+        {{ if .Site.Params.newsletter.title }}
+        <h3 class="widget-title">{{ .Site.Params.newsletter.title }}</h3>
+        {{ end }}
+        <a href="https://parikrama.substack.com/" target="_blank"><img src="/images/posts/substack.png" style="border:none;margin:0px;"/></a>
+        {{ if .Site.Params.newsletter.description }}
+            <p class="widget-footer__desc">{{ .Site.Params.newsletter.description }}</p>
+        {{ end }}        
+    </div>
+</div>
+{{ end }}

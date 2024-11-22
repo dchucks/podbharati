@@ -1,0 +1,21 @@
+{{ if (.Site.Params.hero.enable) }}
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+          <div class="hero__inner">
+              {{ if .Site.Params.hero.hero_title }}
+              <h1 class="hero__title">{{ .Site.Params.hero.hero_title }}</h1>
+              {{ end }}
+              {{ if .Site.Params.hero.hero_description }}
+              <p class="hero__description">{{ .Site.Params.hero.hero_description }}</p>
+              {{ end }}
+              <br /><a href="/about" class="nav__link cta-button button button--small">{{ .Site.Params.hero.hero_buttontext }}</a> 
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+{{ end }}

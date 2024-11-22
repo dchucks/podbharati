@@ -1,0 +1,48 @@
+{{ if (.Site.Params.podcasts_section.enable) }}
+
+{{ $number_columns := 0 }}
+{{ if eq .Site.Params.podcasts_section.number_columns 1 }}
+{{  $number_columns = 12 }}
+{{ else if eq .Site.Params.podcasts_section.number_columns 2 }}
+{{  $number_columns = 6 }}
+{{ else if eq .Site.Params.podcasts_section.number_columns 3 }}
+{{  $number_columns = 4 }}
+{{ else if eq .Site.Params.podcasts_section.number_columns 4 }}
+{{  $number_columns = 3 }}
+{{ end }}
+
+{{ $number_posts := 0 }}
+{{ if .Site.Params.podcasts_section.number_posts }}
+{{  $number_posts = .Site.Params.podcasts_section.number_posts }}
+{{ else }}
+{{  $number_posts = 3 }}
+{{ end }}
+
+{{ $totalPodcasts := len (where .Site.Pages "Type" "podcast")}}
+
+<center><a href="https://www.amazon.in/dp/B077S5CVBQ/?ref=assoc_tag_sept19?actioncode=AINOTH066082819002X&tag=scrumace0a-21" target="_blank"><img src="/images/banners/Amazon_Audible_1068x260.jpg" alt="Audible"></a></center>
+
+<!-- begin hero -->
+<section class="hero hero--left">
+    <div class="container">
+        {{ if .Site.Params.podcasts_section.section_title }}
+         <h1 class="hero__title">{{ .Site.Params.podcasts_section.section_title }}</h1>        
+        {{ end }}
+    </div>
+</section>
+<!-- end hero -->
+<!-- begin section-tags -->
+<section class="section section-authors animate">
+    <div class="container">
+        <div class="row grid">
+            {{ $paginator := .Paginate (where .Site.Pages "Type" "podcast" ) }}
+            {{ range $index, $element := $paginator.Pages }}
+            {{ partial "podcast-list.html" (dict "context" . "class" "col col-4 col-d-6 col-t-12 animate article--grid") }}
+            {{ end }}
+        </div>
+    </div>
+    {{ partial "pagination.html" . }}
+</section>
+
+<!-- end section-tags -->
+{{ end }}

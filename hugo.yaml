@@ -1,0 +1,156 @@
+﻿# General Site Settings
+baseURL: https://www.podbharati.com
+languageCode: en-us
+title: Podbharati | पॉडभारती
+
+params:
+    googleAnalytics: G-2LGN2L0VZY
+    logo: "/images/pb_transparent.png" # example "/images/logo.png".
+    logo_dark: "/images/pb_transparent.png"
+    color_scheme: "auto" # 3 modes auto, light, and dark. Auto mode: user can choose light or dark mode themself.
+    description: "Your go-to destination for fascinating facts, insightful knowledge, and untold trivia."
+
+    # Call to action button
+    cta_button:
+      enable: true
+      cta_button_link: "/contact"
+      cta_button_text: "Get in touch"
+
+    # Hero Settings
+    hero:
+      enable: true
+      hero_title: "Your go-to destination for fascinating facts, insightful knowledge, and untold trivia."
+      hero_description: "Entertaining, Informative, Impactful"
+      hero_buttontext: "More about us"
+
+    # Footer Settings
+    footer:
+        footer_description: "Welcome to Podbharati, your go-to destination for fascinating facts, insightful knowledge, and untold trivia. Dive into a treasure trove of intriguing tidbits and information spanning technology, history, science, society, and politics. Our goal is to not only expand your general knowledge but also arm you with fresh, exciting content to spark conversations with friends. Join us on this captivating journey of discovery, where each day brings something new, thought-provoking, and engaging!"
+
+    # Social Links
+    # Other icons can be found at https://fontawesome.com/icons
+    social:
+      - {
+          icon: "fa-brands fa-youtube",
+          name: "YouTube",
+          link: https://youtube.com/@podbharati,
+        }
+      - {
+          icon: "fa-brands fa-instagram",
+          name: "Instagram",
+          link: https://instagram.com/podbharati,
+        }
+      - {
+          icon: "fa-brands fa-twitter",
+          name: "Twitter (X)",
+          link: https://x.com/podbharati,
+        }
+      - {
+          icon: "fa-regular fa-envelope-open",
+          name: "Newsletter",
+          link: https://parikrama.substack.com/,
+        }
+
+    # Newsletter
+    newsletter:
+        enable: true
+        title: "Discover the world of audio & podcasts from around the world!"
+        description: 
+
+    # Tags Section Settings
+    # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
+    tags_section:
+        enable: true
+        number_posts: 1
+        number_columns: 4
+        tags:
+            - tag: ""
+            - tag: ""
+            - tag: ""
+  
+    # Podcasts Section Settings
+    podcasts_section:
+        enable: true
+        number_posts: 1
+        number_columns: 4
+        section_title: "Our Shows"
+    
+    # Reviews Section Settings
+    reviews_section:
+        enable: true
+        section_title: "What our listeners say!"
+
+     # Author Section Settings
+    authors_section:
+        enable: false
+        section_title: "Meet our Authors!"
+
+    # Contact Settings
+    # We have a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+    # You could also easily switch to another contact form service if you want.
+    contact:
+        email: "xpwzlllg" # Add your form_id
+
+    # Comment Section (Disqus)
+    disqus:
+        enable: true
+        disqusShortname: "podbharati" # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+# Taxonomies
+taxonomies:
+  author: "authors"
+  tag: "tags"
+  guest: "guests"
+  podcast: "podcasts"
+  category: "categories"
+  review: "reviews"
+  episode: "episodes"
+
+# Navigation Settings
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Our Shows"
+      url: "/podcasts/"
+      weight: 2
+    - name: "Our Guests"
+      url: "/guests/"
+      weight: 3
+    - name: "Tags"
+      url: "/tags/"
+      weight: 4
+    - name: "Topics"
+      url: "/categories/"
+      weight: 5
+    - name: "Reviews"
+      url: "/reviews/"
+      weight: 6
+    - name: "Blogs"
+      url: "/posts/"
+      weight: 7
+    - name: "About"
+      url: "/about/"
+      weight: 8
+    - name: "Contact us"
+      url: "/contact/"
+      weight: 9
+      
+      
+markup:
+  markup.goldmark:
+    markup.goldmark.renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup.highlight:
+  codeFences: true
+  guessSyntax: true
+  noClasses: false
