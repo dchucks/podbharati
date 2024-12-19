@@ -1,4 +1,5 @@
 {{ define "main" }}
+here
 
 {{ if or (eq .Section "post") (eq .Section "posts") }}
 
@@ -106,7 +107,7 @@
                                 <a href="{{ .Permalink }}" class="post__tag">{{ .LinkTitle }}</a>
                                 {{ end }}
                             </div>
-                        </div>
+                        </div>                        
                     </div>
                 </div>
             </div>
@@ -132,6 +133,22 @@
                 <h1 class="page__title">{{ .Title }}</h1>
                 {{ if .Params.description }}
                 <div class="page__description">{{ .Params.description }}</div>
+                {{ end }}
+
+               {{ if .Params.guests }}
+            <div class="post__guest">
+                <p>
+                    🪑 Episode Guest:
+                    {{ range $index, $guest := .Params.guests }}
+                    {{ $guestPage := site.GetPage (printf "guests/%s" $guest) }}
+                    {{ if $guestPage }}
+                    <a href="{{ $guestPage.Permalink }}">{{ $guestPage.Title }}</a>
+                    {{ else }}
+                    <a href="{{ "guests/" | relURL }}{{ $guest | urlize }}">{{ $guest }}</a>
+                    {{ end }}
+                    {{ end }}
+                </p>
+            </div>
                 {{ end }}
             </div>
 
