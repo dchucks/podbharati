@@ -3,6 +3,19 @@
 {{ end }}
 
 {{ $TypesNeeded := slice "episode" }}
+{{ $featuredEpisodes := where (where .Site.Pages.ByDate.Reverse "Type" "in" $TypesNeeded) ".Params.featured" "=" true }}
+{{ $lastFiveEpisodes := first 5 $featuredEpisodes }}
+
+<!--<ul>
+    {{ range $index, $element := $lastFiveEpisodes }}
+    <li>
+        Index: {{ $index }}<br>
+        Title: {{ $element.Title }}<br>
+        Date: {{ $element.Date }}<br>
+        Permalink: <a href="{{ $element.Permalink }}">{{ $element.Permalink }}</a>
+    </li>
+    {{ end }}
+</ul>-->
 
 <!-- begin featured-post -->
 <section class="section featured-post animate">
@@ -14,12 +27,10 @@
 
                 <div class="col col-3 col-d-12">
                     <div class="row">
-                        {{ $counter := 0 }}
-                        {{ range (where (where .Site.Pages.ByDate.Reverse "Type" "in" $TypesNeeded) ".Params.featured" "=" true) }}
-                        {{ $counter = add $counter 1 }}
-                        {{ if le $counter 2 }}
+                        {{ range $index, $element := $lastFiveEpisodes }}
+                        {{ if and (ge $index 1) (le $index 2)  }}
                         <div class="col col-12 col-d-6 col-t-12">
-                            {{ partial "article.html" (dict "context" .) }}
+                            {{ partial "article.html" (dict "context" $element) }}
                         </div>
                         {{ end }}
                         {{ end }}
@@ -28,12 +39,10 @@
 
                 <div class="col col-6 col-d-12">
                     <div class="row">
-                        {{ $counter := 0 }}
-                        {{ range (where (where .Site.Pages.ByDate.Reverse "Type" "in" $TypesNeeded) ".Params.featured" "=" true) }}
-                        {{ $counter = add $counter 1 }}
-                        {{ if eq $counter 3 }}
+                        {{ range $index, $element := $lastFiveEpisodes }}
+                        {{ if eq $index 0 }}
                         <div class="col col-12 col-t-12">
-                            {{ partial "article.html" (dict "context" . "class" "article--big") }}
+                            {{ partial "article.html" (dict "context" $element "class" "article--big") }}
                         </div>
                         {{ end }}
                         {{ end }}
@@ -42,12 +51,10 @@
 
                 <div class="col col-3 col-d-12">
                     <div class="row">
-                        {{ $counter := 0 }}
-                        {{ range (where (where .Site.Pages.ByDate.Reverse "Type" "in" $TypesNeeded) ".Params.featured" "=" true) }}
-                        {{ $counter = add $counter 1 }}
-                        {{ if and (ge $counter 4) (le $counter 5) }}
+                        {{ range $index, $element := $lastFiveEpisodes }}
+                        {{ if and (ge $index 3) (le $index 4) }}
                         <div class="col col-12 col-d-6 col-t-12">
-                            {{ partial "article.html" (dict "context" .) }}
+                            {{ partial "article.html" (dict "context" $element) }}
                         </div>
                         {{ end }}
                         {{ end }}
