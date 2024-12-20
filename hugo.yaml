@@ -20,8 +20,8 @@ params:
     # Hero Settings
     hero:
       enable: true
-      hero_title: "Your go-to destination for fascinating facts, insightful knowledge, and untold trivia."
-      hero_description: "Entertaining, Informative, Impactful"
+      hero_title: "Entertaining, Informative, Impactful"
+      hero_description: "Your go-to destination for fascinating facts, insightful knowledge, and untold trivia."
       hero_buttontext: "More about us"
 
     # Footer Settings
