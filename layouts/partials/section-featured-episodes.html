@@ -24,19 +24,7 @@
 
             <h2 class="screen-reader-text">Featured Episodes</h2>
             <div class="row">
-
-                <div class="col col-3 col-d-12">
-                    <div class="row">
-                        {{ range $index, $element := $lastFiveEpisodes }}
-                        {{ if and (ge $index 1) (le $index 2)  }}
-                        <div class="col col-12 col-d-6 col-t-12">
-                            {{ partial "article.html" (dict "context" $element) }}
-                        </div>
-                        {{ end }}
-                        {{ end }}
-                    </div>
-                </div>
-
+                <!-- Latest Episode -->
                 <div class="col col-6 col-d-12">
                     <div class="row">
                         {{ range $index, $element := $lastFiveEpisodes }}
@@ -49,6 +37,20 @@
                     </div>
                 </div>
 
+                <!-- Other 2 Latest episodes -->
+                <div class="col col-3 col-d-12">
+                    <div class="row">
+                        {{ range $index, $element := $lastFiveEpisodes }}
+                        {{ if and (ge $index 1) (le $index 2)  }}
+                        <div class="col col-12 col-d-6 col-t-12">
+                            {{ partial "article.html" (dict "context" $element) }}
+                        </div>
+                        {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
+
+                <!-- Other 2 Latest episodes -->
                 <div class="col col-3 col-d-12">
                     <div class="row">
                         {{ range $index, $element := $lastFiveEpisodes }}

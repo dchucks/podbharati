@@ -1,5 +1,4 @@
 {{ define "main" }}
-here
 
 {{ if or (eq .Section "post") (eq .Section "posts") }}
 
@@ -135,22 +134,24 @@ here
                 <div class="page__description">{{ .Params.description }}</div>
                 {{ end }}
 
-               {{ if .Params.guests }}
-            <div class="post__guest">
-                <p>
-                    🪑 Episode Guest:
-                    {{ range $index, $guest := .Params.guests }}
-                    {{ $guestPage := site.GetPage (printf "guests/%s" $guest) }}
-                    {{ if $guestPage }}
-                    <a href="{{ $guestPage.Permalink }}">{{ $guestPage.Title }}</a>
-                    {{ else }}
-                    <a href="{{ "guests/" | relURL }}{{ $guest | urlize }}">{{ $guest }}</a>
-                    {{ end }}
-                    {{ end }}
-                </p>
-            </div>
+                {{ if .Params.guests }}
+                <div class="row">
+                    🪑 Episode Guest(s): 
+                    <div style="float: left; width: 100%; margin: none; margin-bottom: 10px; background: var(--background-alt-color); ">
+                        {{ range $index, $guest := .Params.guests }}
+                            {{ $guestPage := site.GetPage (printf "guests/%s" $guest) }}
+                            {{ if $guestPage }}
+                            <a href="{{ $guestPage.Permalink }}"><img class="lazy" style="width:50px;padding:5px;margin:5px;" data-src="{{ $guestPage.Params.image }}" alt="{{ $guestPage.Params.name }}"></a>
+                            <a href="{{ $guestPage.Permalink }}">{{ $guestPage.Title }}</a>
+                            {{ else }}
+                            <a href="{{ "guests/" | relURL }}{{ $guest | urlize }}">{{ $guest }}</a>
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
                 {{ end }}
             </div>
+            <p>&nbsp;</p>
 
             {{ if .Params.video_embed }}
             <h3>Watch</h3>
