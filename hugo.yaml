@@ -132,7 +132,7 @@ menus:
     - name: "Blogs"
       url: "/posts/"
       weight: 7
-    - name: "Podcasting Book"
+    - name: "📕 Podcasting Book"
       url: "https://podcasting-guide.netlify.app/"
       weight: 8
     - name: "About"
