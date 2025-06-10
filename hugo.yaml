@@ -132,12 +132,15 @@ menus:
     - name: "Blogs"
       url: "/posts/"
       weight: 7
+    - name: "Podcasting Book"
+      url: "https://podcasting-guide.netlify.app/"
+      weight: 8
     - name: "About"
       url: "/about/"
-      weight: 8
+      weight: 9
     - name: "Contact us"
       url: "/contact/"
-      weight: 9
+      weight: 10
       
       
 markup:
@@ -149,7 +152,6 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON
 
 markup.highlight:
   codeFences: true
