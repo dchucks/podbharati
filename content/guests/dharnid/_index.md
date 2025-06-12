@@ -2,13 +2,13 @@
 type: guest
 Title: "Dharni Dhar Dwivedi"
 name: "Dharni Dhar Dwivedi"
-description: "Associate Director, Operational Risk, RBC"
+description: "Principal Consultant at DNE Technology Consultants"
 location: Vancouver, Canada
 linkedin: "https://www.linkedin.com/in/dharnid/"
-website: https://comunitycanada.ca/
-twitter: https://x.com/sameerlal
-instagram: https://www.instagram.com/sameer.lal/
+website: 
+twitter: https://x.com/devavatar_
+instagram: https://www.instagram.com/dharnidd/
 image: "/images/guests/dharni.jpg"
 ---
 #
-Sameer is a Canada-based author, mentor, public speaker. A CA by profession, Sameer has worked with some of the world’s top banking institutions as a Business Analyst, Auditor, and more recently, in Risk Management and Data Governance. He is a Vipassana meditation practitioner, and the founder of [ComUnity Canada](https://comunitycanada.ca/mentors-profile), a nonprofit helping students build brighter futures. He’s the bestselling author of <b>[Squeeze the Orange](https://amzn.in/d/7bLwttz)</a> and  <b>[360° Connections: Mastering the Art of Networking](https://amzn.to/3VH3Ctx)</b>. Sameer is also a well-known Hindi satirist. His blog Udan Tashtari won the [2006 Indibloggies award](https://indibloggies.blogspot.com/2007/02/the-2006-winners-are-here.html#more) for being chosen the best Hindi blog.
+Dharni is a seasoned technology leader who has held significant roles at organizations such as WineDirect and Amazon, demonstrating a strong track record in technical program management, software engineering, and team leadership. Dharni is recognized for his ability to build trust, bridge communication gaps, and drive business outcomes while being hands-on when required. He is passionate about mentoring and coaching professionals, offering support for career guidance, mock interviews, and networking for tech roles. 
