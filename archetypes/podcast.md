@@ -11,4 +11,7 @@ spotify: ""
 amazon: ""
 categories: []
 tags: []
+outputs:
+  - html
+  - rss
 ---

@@ -5,7 +5,7 @@ name: "Dharni Dhar Dwivedi"
 description: "Principal Consultant at DNE Technology Consultants"
 location: Vancouver, Canada
 linkedin: "https://www.linkedin.com/in/dharnid/"
-website: 
+website: https://www.youtube.com/@dharnid
 twitter: https://x.com/devavatar_
 instagram: https://www.instagram.com/dharnidd/
 image: "/images/guests/dharni.jpg"

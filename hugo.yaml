@@ -2,6 +2,12 @@
 baseURL: https://www.podbharati.com
 languageCode: en-us
 title: Podbharati | पॉडभारती
+canonifyURLs: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
     googleAnalytics: G-2LGN2L0VZY
@@ -150,10 +156,28 @@ markup:
 
 outputs:
   home:
-    - HTML
-    - RSS
+    - html
+    - rss
+  section:
+    - html
+    - rss
+  taxonomy:
+    - html
+    - rss
+  term:
+    - html
+    
+services:
+  rss:
+    limit: 10
 
 markup.highlight:
   codeFences: true
   guessSyntax: true
   noClasses: false
+
+sitemap:
+  changeFreq: ""
+  disable: false
+  filename: sitemap.xml
+  priority: -1
