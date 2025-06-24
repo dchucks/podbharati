@@ -1,6 +1,6 @@
 ---
-title: "पॉडभारती TATA NEN Hootest Startup पुरस्कार के लिए नामांकित "
-description: 
+title: पॉडभारती TATA NEN Hootest Startup पुरस्कार के लिए नामांकित
+description: हिन्दी पॉडकास्ट नेटवर्क पॉडभारती TATA NEN Hootest Startup पुरस्कार के लिए नामांकित
 date: 2008-08-28
 featured: true
 authors: [deb]
