@@ -1,0 +1,63 @@
+{{ if (.Site.Params.book_promo.enable) }}
+<!-- begin section-book-promo -->
+<section class="section section-book-promo animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section-book-promo__inner">
+
+          {{ if .Site.Params.book_promo.section_title }}
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title">{{ .Site.Params.book_promo.section_title }}</h2>
+            </div>
+          </div>
+          {{ end }}
+
+          <div class="section-book-promo__content">
+
+            {{ if .Site.Params.book_promo.book_cover }}
+            <div class="section-book-promo__cover">
+              <img
+                class="lazy section-book-promo__cover-img"
+                data-src="{{ .Site.Params.book_promo.book_cover }}"
+                alt="{{ .Site.Params.book_promo.book_title }}"
+              >
+            </div>
+            {{ end }}
+
+            <div class="section-book-promo__details">
+
+              {{ if .Site.Params.book_promo.book_title }}
+              <h3 class="section-book-promo__title">{{ .Site.Params.book_promo.book_title }}</h3>
+              {{ end }}
+
+              {{ if .Site.Params.book_promo.book_subtitle }}
+              <p class="section-book-promo__subtitle">{{ .Site.Params.book_promo.book_subtitle }}</p>
+              {{ end }}
+
+              {{ if .Site.Params.book_promo.book_blurb }}
+              <p class="section-book-promo__blurb">{{ .Site.Params.book_promo.book_blurb | safeHTML }}</p>
+              {{ end }}
+
+              {{ if .Site.Params.book_promo.buy_links }}
+              <div class="section-book-promo__buttons">
+                {{ range .Site.Params.book_promo.buy_links }}
+                <a href="{{ .url }}" class="button section-book-promo__buy-btn" target="_blank" rel="noopener noreferrer">
+                  {{ if .icon }}<i class="{{ .icon }}"></i>{{ end }}
+                  {{ .label }}
+                </a>
+                {{ end }}
+              </div>
+              {{ end }}
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end section-book-promo -->
+{{ end }}

@@ -1,0 +1,146 @@
+/* Book Promo Section */
+.section-book-promo {
+
+  .section__title {
+    color: #fa943b !important;
+  }
+
+  .section-book-promo__inner {
+    padding-bottom: 48px;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .section-book-promo__content {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+  }
+
+  /* ── Cover image ── */
+  .section-book-promo__cover {
+    flex: 0 0 240px;
+    width: 240px;
+  }
+
+  .section-book-promo__cover-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+    transition: $global-transition;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 14px 36px rgba(0, 0, 0, 0.24);
+    }
+  }
+
+  /* ── Text + buttons ── */
+  .section-book-promo__details {
+    flex: 1 1 auto;
+    min-width: 0; /* prevents flex child overflow */
+  }
+   
+  .section-book-promo__title {
+    margin-bottom: 4px;
+    font-size: $font-size-h3;
+    color: var(--heading-font-color);	
+	color: #ac7f87;
+    line-height: $heading-line-height;
+  }
+
+  .section-book-promo__subtitle {
+    margin-bottom: 16px;
+    font-size: 15px;
+    font-style: italic;
+    color: var(--text-alt-color);
+  }
+
+  .section-book-promo__blurb {
+    margin-bottom: 28px;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    color: var(--text-color);
+  }
+
+  .section-book-promo__more-link {
+    display: inline;
+    margin-left: 4px;
+    font-weight: 500;
+    color: var(--heading-font-color);
+    text-decoration: underline;
+    text-decoration-color: var(--primary-color);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    transition: $global-transition;
+
+    &:hover {
+      color: var(--link-color-hover);
+      text-decoration-color: var(--heading-font-color);
+    }
+  }
+
+  .section-book-promo__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .section-book-promo__buy-btn {
+    i {
+      margin-right: 7px;
+      margin-left: 0;
+      font-size: 14px;
+    }
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: $desktop) {
+    .section-book-promo__cover {
+      flex: 0 0 160px;
+      width: 160px;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .section-book-promo__content {
+      flex-direction: column;
+      align-items: center;
+      gap: 28px;
+    }
+
+    .section-book-promo__cover {
+      flex: 0 0 auto;
+      width: 150px;
+    }
+
+    .section-book-promo__details {
+      width: 100%;
+      text-align: center;
+    }
+
+    .section-book-promo__buttons {
+      justify-content: center;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .section-book-promo__inner {
+      padding-bottom: 32px;
+    }
+
+    .section-book-promo__cover {
+      width: 130px;
+    }
+
+    .section-book-promo__buttons {
+      flex-direction: column;
+      align-items: stretch;
+
+      .button {
+        justify-content: center;
+      }
+    }
+  }
+}

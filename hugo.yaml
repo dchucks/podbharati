@@ -52,7 +52,32 @@ params:
           link: https://parikrama.substack.com/,
         }
 
-    # Newsletter
+    
+    # Book Promo Section Settings
+    book_promo:  
+      enable: true
+      section_title: "Have you read our new book? Its a self-starter guide for new podcasters."
+      book_title: "अपनी आवाज़ को शक्ति दीजिए, और खुद को एक सफल पॉडकास्टर बनाइए।"
+      book_subtitle: "A Complete Hindi Guide to Podcasting | नये पॉडकास्टर्स के लिये संपूर्ण मार्गदर्शिका!"
+      book_blurb: "17 साल के अनुभव पर आधारित यह पुस्तक नए और अनुभवी पॉडकास्टर्स दोनों के लिए एक व्यावहारिक मार्गदर्शिका है। विषय चयन से लेकर मॉनेटाइजेशन तक, और AI टूल्स के प्रयोग तक — सब कुछ हिंदी में। Want to know more about the book and read an excerpt? Head over to the <a href=\"https://podcasting-guide.netlify.app/\" target=\"_blank\" rel=\"noopener noreferrer\">book's official website</a>, or grab your copy by clicking the buttons below."
+      book_website: "https://podcasting-guide.netlify.app/"
+      book_cover: "/images/posts/podcasting-book-cover.jpg"
+      buy_links:
+        - label: "Amazon (Paperback)"
+          icon: "fa-brands fa-amazon"
+          url: "https://www.amazon.in/dp/9334292393"
+        - label: "Kindle eBook"
+          icon: "fa-solid fa-tablet-screen-button"
+          url: "https://www.amazon.in/dp/B0F7HVDVHD"
+        - label: "Buy on Pothi.com"
+          icon: "fa-solid fa-book"
+          url: "https://store.pothi.com/book/debashish-chakrabarty-%E0%A4%AA%E0%A5%89%E0%A4%A1%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82/"
+        - label: "Buy on Flipkart"
+          icon: "fa-solid fa-cart-shopping"
+          url: "https://www.flipkart.com/podcasting-kaise-karein-naye-podcasters-ke-liye-sampoorna-maargdarshikaa/p/itm09701e0288dd5?pid=9789334292398"
+
+
+   # Newsletter
     newsletter:
         enable: true
         title: "Discover the world of audio & podcasts from around the world!"
@@ -175,3 +200,4 @@ sitemap:
   disable: false
   filename: sitemap.xml
   priority: -1
+  
