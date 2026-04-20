@@ -4,10 +4,17 @@
         {{ if .Site.Params.newsletter.title }}
         <h3 class="widget-title">{{ .Site.Params.newsletter.title }}</h3>
         {{ end }}
-        <a href="https://parikrama.substack.com/" target="_blank"><img src="/images/posts/substack.png" style="border:none;margin:0px;"/></a>
+  		
+		<div class="substack-embed-wrapper">
+		  <iframe src="https://parikrama.substack.com/embed" width="100%" height="320" style="border: none;" frameborder="0" scrolling="no"></iframe>
+		</div>
+		
         {{ if .Site.Params.newsletter.description }}
             <p class="widget-footer__desc">{{ .Site.Params.newsletter.description }}</p>
         {{ end }}        
     </div>
 </div>
 {{ end }}
+
+
+

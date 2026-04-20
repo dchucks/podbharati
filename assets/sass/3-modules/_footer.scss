@@ -366,3 +366,19 @@
     display: none;
   }
 }
+
+.substack-embed-wrapper {
+  background: transparent;
+  border-radius: $global-radius;
+  padding: 8px;
+  overflow: hidden;
+}
+
+:root[dark] {
+  .substack-embed-wrapper {
+    border-radius: $global-radius;
+    padding: 12px;
+    outline: 1px solid var(--border-color);
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+  }
+}

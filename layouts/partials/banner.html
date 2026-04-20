@@ -1,0 +1,30 @@
+{{ if .Site.Params.announcement_banner.enable }}
+<div class="announcement-banner" id="announcementBanner">
+  <div class="container">
+    <div class="announcement-banner__inner">
+      <p class="announcement-banner__text">
+        {{ .Site.Params.announcement_banner.text | safeHTML }}
+      </p>
+      <button class="announcement-banner__close" id="bannerClose" aria-label="Close banner">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    var banner = document.getElementById('announcementBanner');
+    var closeBtn = document.getElementById('bannerClose');
+
+    if (localStorage.getItem('announcementBannerClosed') === '1') {
+      banner.style.display = 'none';
+    }
+
+    closeBtn.addEventListener('click', function() {
+      banner.style.display = 'none';
+      localStorage.setItem('announcementBannerClosed', '1');
+    });
+  })();
+</script>
+{{ end }}

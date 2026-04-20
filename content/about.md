@@ -2,15 +2,25 @@
 title: About
 image: '/images/posts/DNA.png'
 ---
-**पॉडभारती** अप्रेल 2007 में प्रारंभ एक हिन्दी पॉडपत्रिका है, जिसेतकनलाजी, इंटरनेट पर भारतीय भाषाओं से संबंधित तकनीक व जानकारी तथा सामयिक विषयों और मनोरंजन पर विविध समाचार-विचार प्रस्तुत करने के उद्देश्य से बनाया गया था। इसकी मूल परिकल्पना व सहनिर्माण किया था [देबाशीष चक्रवर्ती](http://www.debashish.com) और [शशि सिंह](http://bhojpuri.blogspot.com/) ने। 
+**पॉडभारती** अप्रेल 2007 में प्रारंभ एक हिन्दी पॉडपत्रिका है, जिसे तकनलाजी, इंटरनेट पर भारतीय भाषाओं से संबंधित तकनीक व जानकारी तथा सामयिक विषयों और मनोरंजन पर विविध समाचार-विचार प्रस्तुत करने के उद्देश्य से बनाया गया था। इसकी मूल परिकल्पना व सहनिर्माण किया था [देबाशीष चक्रवर्ती](http://www.debashish.com) और [शशि सिंह](http://bhojpuri.blogspot.com/) ने। 
 
 पॉडभारती के पुराने व नये जालस्थल, लोगो व बैनर का निर्माण देबाशीष ने किया। पहले पहल पॉडभारती अपनी आडियो फाईलें [ब्लिप](https://web.archive.org/web/20110716100507/http://www.blip.tv/) पर सहेजा करता था, फिर यह होस्टिंग [पॉडबाज़ार](https://web.archive.org/web/20080914180907/http://www.podbazaar.com:80/view/126100789566374041) द्वारा उपलब्ध कराई गई। पॉडबाजार के भी बंद होने के पश्चात हमने [साउंडक्लाउड](https://soundcloud.com/podbharti) का प्रयोग किया। Podbharati.com के तहत बन रहे पॉडभारती के नये शो [Anchor.fm](http://anchor.fm/) (जो अब स्पॉटिफाई फॉर पॉडकास्टर्स नाम से जाना जाता है) पर होस्टेड रहे हैं। जुलाई 2020 में पॉडभारती का [यूट्यूब चैनल](https://youtube.com/@podbharati) शुरु किया गया जहाँ अब पॉडकास्ट्स के अतिरिक्त विडियो व शॉर्ट्स भी बनाये जाते हैं। पॉडभारती की [इंस्टाग्राम पर भी उपस्थिती](https://instagram.com/podbharati) है।
 
 पॉडभारती का मूल डोमेन Podbharti.com शशि द्वारा खरीदा गया था। इसके 2012 में एक्सपायर होने और 2012 में ही Podbazaar.com के बंद होने के बाद के बाद अनेक मूल MP3 फाईलें गायब हो गईं। अपने निजी संग्रह और [Web Archives](https://web.archive.org/) की मदद से देबाशीष ने मूल फाईलों को पुनः जमा कर इन्हें [साउंडक्लाउड](https://soundcloud.com/podbharati) पर रखा। पुराना पार्क्ड डोमेन अब चीनीयों को पैसा कमा कर दे रहा है। मई 2020 से, जब यह पॉडकास्ट देबाशीष द्वारा लिये अपने नये डोमेन Podbharati.com पर स्थानांतरित हुआ, यह उपक्रम देबाशीष स्वतंत्र रूप से चला रहे हैं। शशि इससे अब जुड़े नहीं हैं।
 
+<figure style="float: right; margin: 0 0 16px 24px; width: 250px;">
+  <img src="/images/posts/podcasting-book-cover.jpg" alt="पॉडकास्टिंग कैसे करें?" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
+</figure>
+
+सितंबर 2021 में देबाशीष ने एक हिंदी Substack न्यूज़लेटर **[पॉडकास्ट परिक्रमा](https://parikrama.substack.com/)** शुरू किया, जो ऑडियो और पॉडकास्टिंग की दुनिया को कवर करता है और अब इसके 700 से अधिक सदस्य हैं। 
+
+ 2025 में देबाशीष ने अपनी पुस्तक **"पॉडकास्टिंग कैसे करें?"** प्रकाशित की — नये और अनुभवी पॉडकास्टर्स दोनों के लिए एक संपूर्ण हिंदी मार्गदर्शिका, जिसमें पहला शो सेटअप करने से लेकर कम बजट में रिकॉर्डिंग, श्रोता बढ़ाने, मॉनेटाइजेशन और AI टूल्स के स्मार्ट उपयोग तक सब कुछ शामिल है। [पुस्तक के बारे में अधिक जानें और एक अंश पढ़ें](https://podcasting-guide.netlify.app/) →
+
+---
+
 Founded in April 2007, **Podbharati** has been India’s first pure Hindi Podzine (podcast magazine) targeted towards Hindi audience in India and abroad. Its debut podcast, now called "Podbharati Classic" aimed at providing a comprehensive coverage of News &amp; Views about Indian language blogging, Tools, Technology, Current Affairs and the Entertainment Industry. 
 
-Podbharati was originally co-founded and co-hosted by Debashish Chakrabarty and Shashi Singh (at the now defunct domain Podbharti.com). In May 2020, Podbharati was relaunched as a Podcast Platform, now owned and run by Debashish independently at its new home **Podbharati.com**. The old and new website, logo, banner/artwork of Podbharati were created by Debashish.
+Podbharati was originally co-founded and co-hosted by Debashish Chakrabarty and Shashi Singh (at the now defunct domain Podbharti.com). In May 2020, Podbharati was relaunched as a Podcast Platform, now owned and run by Debashish independently at its new home **Podbharati.com**. The old (wordpress) and new (Hugo) website, logo, banner/artwork of Podbharati were created by Debashish.
 
 When we started, Podbharati used to save its audio files on Blip.tv, then this hosting was provided by Podbazaar.com, founded by the California based Indian couple [Sujatha Jagannathan](https://www.linkedin.com/in/sujathaj/) and Sriram, where along with the [original podcast](http://web.archive.org/web/20110929073545/http://www.podbazaar.com/view/126100789566374041) (with over 13800 downloads), an abridged version [Podbharati Light](http://web.archive.org/web/20110907004546/http://www.podbazaar.com/view/126100789566374065) (with over 7000 downloads)  was also hosted. These downlod numbers are significant given the dismal internet speeds those days, and the fact that audio streaming was not even around.
 
@@ -18,9 +28,19 @@ When we started, Podbharati used to save its audio files on Blip.tv, then this h
 ###
 ![Screen grab from Podbazaar, taken from web.archive.org](/images/posts/podbharati_at_podbazaar_2.jpg "Screen grab from Podbazaar, taken from web.archive.org")
 
-After Podbazzar stopped its services the episodes of Podbharati Classic were moved to [Soundcloud](https://soundcloud.com/podbharati). Podbharati's new shows (e.g. [Sopaan](/podcasts/sopaan/)) are being hosted on various podcast hosts such as Anchor.fm (now called Spotify for Podcasters).
+After Podbazzar stopped its services the episodes of Podbharati Classic were moved to [Soundcloud](https://soundcloud.com/podbharati). Podbharati's new shows (e.g. [Sopaan](/podcasts/sopaan/)) are being hosted on various podcast hosts such as Anchor.fm (now called Spotify for Creaters).
 
-Podbharati's original domain **Podbharti.com** was bought by Shashi. However, many original MP3 files disappeared after the domain expired in 2012, and Podbazaar.com too was closed the same year. With the help of his personal archives and web archives, Debashish retrieved the original files and placed them on SoundCloud. The old parked domain is now earning money for the Chinese. Since May 2020, when the podcast moved to its new domain Podbharati.com, Debashish has been running the venture independently. Shashi is not associated witn the new venture.
+Podbharati's original domain *Podbharti.com* was bought by Shashi. However, many original MP3 files disappeared after the domain expired in 2012, and Podbazaar.com too was closed the same year. With the help of his personal archives and web archives, Debashish retrieved the original files and placed them on SoundCloud. The old parked domain is now earning money for the Chinese. Since May 2020, when the podcast moved to its present domain **Podbharati.com**, Debashish has been running the venture independently. Shashi is not associated witn the new venture.
+
+<figure style="float: left; margin: 16px 24px 0 0; width: 250px;">
+  <img src="/images/posts/podcasting-book-cover.jpg" alt="पॉडकास्टिंग कैसे करें?" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
+</figure>
+
+In September 2021, Debashish launched **[Podcast Parikrama](https://parikrama.substack.com/)**, a Hindi Substack newsletter covering the world of audio and podcasting, which now has over 700 subscribers. 
+
+In 2025, Debashish released his book **पॉडकास्टिंग कैसे करें? (How to begin podcasting?)**, a comprehensive Hindi guide for new and experienced podcasters alike, covering everything from setting up your first show and recording on a budget, to growing your audience, monetisation, and using AI tools smartly. [Explore the book and read an excerpt](https://podcasting-guide.netlify.app/)→
+
+---
 
 # चर्चे | Citations & Press Coverage:
 * [Hindi podcasts debut with Podbharati launch](https://www.afaqs.com/news/story/17822_Hindi-podcasts-debut-with-Podbharti-launch): Agency FAQs (May 14, 2007)

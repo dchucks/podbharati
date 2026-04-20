@@ -24,6 +24,11 @@ params:
       hero_description: "Your go-to destination for fascinating facts, insightful knowledge, and untold trivia."
       hero_buttontext: "More about us"
 
+    # Announcement Banner
+    announcement_banner:
+      enable: true
+      text: "हमारी नई पुस्तक 'पॉडकास्टिंग कैसे करें?' अब 📱 किंडल प्रारूप में केवल ₹199/- में उपलब्ध। <a href=\"https://www.amazon.in/dp/B0F7HVDVHD\" target=\"_blank\" rel=\"noopener noreferrer\">आज ही अपनी प्रति खरीदें!</a>"
+    
     # Footer Settings
     footer:
         footer_description: "Welcome to Podbharati, your go-to destination for fascinating facts, insightful knowledge, and untold trivia. Dive into a treasure trove of intriguing tidbits and information spanning technology, history, science, society, and politics. Our goal is to not only expand your general knowledge but also arm you with fresh, exciting content to spark conversations with friends. Join us on this captivating journey of discovery, where each day brings something new, thought-provoking, and engaging!"
@@ -59,7 +64,7 @@ params:
       section_title: "Have you read our new book? Its a self-starter guide for new podcasters."
       book_title: "अपनी आवाज़ को शक्ति दीजिए, और खुद को एक सफल पॉडकास्टर बनाइए।"
       book_subtitle: "A Complete Hindi Guide to Podcasting | नये पॉडकास्टर्स के लिये संपूर्ण मार्गदर्शिका!"
-      book_blurb: "17 साल के अनुभव पर आधारित यह पुस्तक नए और अनुभवी पॉडकास्टर्स दोनों के लिए एक व्यावहारिक मार्गदर्शिका है। विषय चयन से लेकर मॉनेटाइजेशन तक, और AI टूल्स के प्रयोग तक — सब कुछ हिंदी में। Want to know more about the book and read an excerpt? Head over to the <a href=\"https://podcasting-guide.netlify.app/\" target=\"_blank\" rel=\"noopener noreferrer\">book's official website</a>, or grab your copy by clicking the buttons below."
+      book_blurb: "17 साल के अनुभव पर आधारित यह पुस्तक नए और अनुभवी पॉडकास्टर्स दोनों के लिए एक व्यावहारिक मार्गदर्शिका है। विषय चयन से लेकर मॉनेटाइजेशन तक, और AI टूल्स के प्रयोग तक — सब कुछ हिंदी में। Want to know more about the book and read an excerpt? Head over to the <a href=\"https://podcasting-guide.netlify.app/\" target=\"_blank\" rel=\"noopener noreferrer\">book's official website ↗️</a>, or grab your copy by clicking the buttons below."
       book_website: "https://podcasting-guide.netlify.app/"
       book_cover: "/images/posts/podcasting-book-cover.jpg"
       buy_links:
@@ -105,6 +110,7 @@ params:
     reviews_section:
         enable: true
         section_title: "What our listeners say!"
+        featured_quote: "\"Podbharati is one show you just cannot afford to miss – excellent production quality, content delivery and choice of topics.\" — <a href='/reviews/amit-agarwal/'>Amit Agarwal ↗️</a>"
 
      # Author Section Settings
     authors_section:
@@ -169,8 +175,8 @@ menus:
       
       
 markup:
-  markup.goldmark:
-    markup.goldmark.renderer:
+  goldmark:
+    renderer:
       unsafe: true
 
 outputs:

@@ -1,16 +1,18 @@
 {{ if (.Site.Params.reviews_section.enable) }}
 <!-- begin section-reviews -->
+
 <section class="section section-authors animate">
     <div class="container">
+		<hr>
         <div class="row">
             <div class="col col-12">
                 <div class="section-authors__inner">
                     {{ $reviews := ($.Site.GetPage "Type" "reviews").RegularPages }}
 
                     {{ if .Site.Params.reviews_section.section_title }}
-                    <h3 class="section-authors__title">{{ .Site.Params.reviews_section.section_title }}</h3>
-                    {{ end }}
-
+					<h3 class="section-authors__title">{{ .Site.Params.reviews_section.section_title }}</h3>
+					{{ end }}
+					
                     <div class="section-authors__content">
                         <div class="section-authors__box">
                             {{ $counter := 0 }}
@@ -33,7 +35,10 @@
                     </div>
 
                 </div>
-            </div>
+				{{ if .Site.Params.reviews_section.featured_quote }}
+				<p class="section-authors__featured-quote">{{ .Site.Params.reviews_section.featured_quote | safeHTML }}</p>
+				{{ end }}
+			</div>
         </div>
     </div>
 </section>

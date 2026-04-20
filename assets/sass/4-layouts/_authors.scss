@@ -391,3 +391,13 @@
         }
     }
 }
+
+.section-authors__featured-quote {
+  flex-basis: 100%;
+  order: 3;
+  margin-top: 16px;
+  margin-bottom: 0;
+  font-size: 22px;
+  font-style: italic;
+  color: var(--text-alt-color);
+}
